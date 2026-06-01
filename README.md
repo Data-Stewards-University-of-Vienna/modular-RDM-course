@@ -11,6 +11,14 @@ This repository contains the LiaScript source files for a modular Research Data 
 - `images/` — course images and diagrams
 - Combined course file — generated automatically by a script into the repo root or a `build/` folder (TBD)
 
+The basic module structure should follow this simple structure:
+1. Objectives 
+2. Introduction
+3. Content 
+4. Conclusion
+5. Knowledge Check
+   - 3-5 question quiz that includes explanations of correct answers.  
+
 ## How to (re-)use the course
 The online modules are written in LiaScript, a Markdown dialect, making it convenient to customize them for your research institution. For assistance, please refer to the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1). We advise to provide participants with the online course approximatly two weeks before the in-person workshop so that they can progress through the modules at their own pace. 
 
@@ -40,3 +48,4 @@ This work is licensed under a
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
