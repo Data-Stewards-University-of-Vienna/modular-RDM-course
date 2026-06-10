@@ -8,8 +8,8 @@ This repository contains the LiaScript source files for a modular Research Data 
 - `modules/core/` — core modules (one Markdown file per module)
 - `modules/satellite/` — optional/satellite modules (one Markdown file per module)
 - `scripts/` — utility scripts (e.g., to generate a single, combined course file)
-- `images/` — course images and diagrams
-- Combined course file — generated automatically by a script into the repo root or a `build/` folder (TBD)
+- `material/` — course images and workshop materials
+- Combined course file — generated automatically by a script a `build/` folder (TBD)
 
 The basic module structure should follow this simple structure:
 1. Objectives 
@@ -22,20 +22,20 @@ The basic module structure should follow this simple structure:
 ## How to (re-)use the course
 The online modules are written in LiaScript, a Markdown dialect, making it convenient to customize them for your research institution. For assistance, please refer to the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1). We advise to provide participants with the online course approximatly two weeks before the in-person workshop so that they can progress through the modules at their own pace. 
 
-To View this course in LiaScript:
+In order to view this course in LiaScript:
   1. Open https://liascript.github.io/
   2. Paste the URL of any module `.md` file (or the combined course `.md`) into the form
   3. Share or embed the resulting link (e.g., in Moodle)
 
 For a comprehensive guide on utilizing the materials for the in-person workshop, please consult the activities guide for detailed instructions. Additionally, it is feasible to deliver the workshop in an online format with some slight modifications.
 
-## Contributors
+## Contributors 
 * Emily J. Kate (Data Steward, Faculty of Life Sciences, University of Vienna, Austria)
-* Michael Feichtinger (Data Steward, Centre for Microbiology and Environmental Systems Science, University of Vienna, Austria)
-* Franziska Bauchinger
-* Lukas Kraiger
-* Jeanne Wilbrandt
-* Simone Spedicato
+* Michael Feichtinger (Data Stewardship Coordinator, University of Vienna, Austria)
+* Franziska Bauchinger (Data Steward, Centre for Microbiology and Environmental Systems Science (CeMESS), University of Vienna, Austria)
+* Lukas Kraiger (Data Steward, Faculty of Psychology, University of Vienna, Austria)
+* Jeanne Wilbrandt (Data Steward, Urban Research (URBANISE), University of Vienna, Austria)
+* Simone Spedicato (Data Steward, Faculty of Earth Sciences, Geography and Astronomy, University of Vienna, Austria)
   
 ## Useful links
 - RDM in Life Science course file: https://github.com/feichtingerm/rdmlifesciunivie/blob/main/rdm_lifesciences_liascript-course_v1.md
