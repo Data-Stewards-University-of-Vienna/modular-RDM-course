@@ -1,5 +1,9 @@
+
+
+
+
 <!--
-authors: Lukas Kraiger, Simone Spedicato 
+author: Lukas Kraiger, Simone Spedicato 
 
 email: lukas.kraiger@univie.ac.at, simone.spedicato@univie.ac.at    
 
@@ -8,11 +12,17 @@ version:  1.0
 language: en
 
 -->
-## Data Storage, Sharing, and Security
+# Data Storage, Sharing, and Security (Skeleton Structure)
 
-### Objectives
+## Objectives
 - Choose appropriate university-approved storage options.
 - Identify when enhanced security is required and who to contact.
+
+## Introduction
+- Why data storage, sharing, and security matter.
+- University provides managed storage, sharing tools, and guidance.
+
+## Content
 
 ### 3-2-1 Backups
 - 3 copies, 2 media types, 1 offsite/offline.
@@ -37,7 +47,8 @@ language: en
 - Move data to team-owned spaces; transfer ownership.
 - Coordinate DTAs/MTAs with [Research/Tech Transfer Office].
 
-### DTAs
+### DTAs and MTAs
+- DTAs for data; MTAs for materials.
 - Contact: [Contracts/Research Office].
 
 ## Conclusion
@@ -47,3 +58,26 @@ language: en
 ## Knowledge Check
 - Q: Which setup satisfies 3-2-1 using university services?
 - Q: When sharing sensitive data externally, who do you contact first?
+
+<!--
+author: Simone Spedicato, Michael Feichtinger 
+
+email: simone.spedicato@univie.ac.at, michael.feichtinger@univie.ac.at    
+
+version:  1.0
+
+language: en
+
+-->
+
+# Archiving and Publishing 
+
+## Objectives
+
+
+
+
+## Satellite modules
+
+
+# Creating and Cleaning Data
