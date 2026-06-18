@@ -4,7 +4,7 @@ DOI
 ## Overview
 This repository contains the LiaScript source files for a modular Research Data Management (RDM) course for PhD students.
 
-## Structure (TBD)
+## Structure
 - `modules/core/` — core modules (one Markdown file per module)
 - `modules/satellite/` — optional/satellite modules (one Markdown file per module)
 - `scripts/` — utility scripts (e.g., to generate a single, combined course file)
@@ -29,7 +29,7 @@ In order to view this course in LiaScript:
 
 For a comprehensive guide on utilizing the materials for the in-person workshop, please consult the activities guide for detailed instructions. Additionally, it is feasible to deliver the workshop in an online format with some slight modifications.
 
-## Contributors 
+## Contributors (check if correct/in your preferred format)
 * Emily J. Kate (Data Steward, Faculty of Life Sciences, University of Vienna, Austria)
 * Michael Feichtinger (Data Stewardship Coordinator, University of Vienna, Austria)
 * Franziska Bauchinger (Data Steward, Centre for Microbiology and Environmental Systems Science (CeMESS), University of Vienna, Austria)
