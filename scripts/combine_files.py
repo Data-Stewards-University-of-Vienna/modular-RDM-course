@@ -114,5 +114,7 @@ def main():
 
 
 if __name__ == "__main__":
-    # e.g. python combine_files.py -s sat_01 for satellite module 1
+    # No satellite modules: python combine_files.py
+    # Case for wanting to include satellite modules: python combine_files.py -s sat_01
+    # Case for wanting to include multiple satellite modules: python combine_files.py -s sat_01 sat_02
     main()
