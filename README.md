@@ -38,7 +38,9 @@ For a comprehensive guide on utilizing the materials for the in-person workshop,
 * Simone Spedicato (Data Steward, Faculty of Earth Sciences, Geography and Astronomy, University of Vienna, Austria)
   
 ## Useful links
-- RDM in Life Science course file: https://github.com/feichtingerm/rdmlifesciunivie/blob/main/rdm_lifesciences_liascript-course_v1.md
+- [RDM in Life Science course file](https://github.com/feichtingerm/rdmlifesciunivie/blob/main/rdm_lifesciences_liascript-course_v1.md)
+- [Markdown basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [LiaScript Live Editor](https://liascript.github.io/LiveEditor/)
 
 ## License
 This work is licensed under a
