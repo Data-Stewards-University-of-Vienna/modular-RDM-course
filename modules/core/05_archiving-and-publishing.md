@@ -12,6 +12,14 @@ language: en
 
 ## Archiving and Publishing 
 
+### Objectives
+Learners will be able to:
+
+* explain why long-term preservation of research data is important and explain what kinds of data should be maintained.
+* state criteria according to which repositories should be selected.
+* identify and select suitable repositories for research data.
+* critically discuss the benefits and caveats of data publication.
+  
 ### How to Publish Data
 
 * Supplements
