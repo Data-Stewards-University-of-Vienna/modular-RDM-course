@@ -31,6 +31,7 @@ Within these categories, metadata can be **structured** or **unstructured**.
 When you upload data to an archive or publish a paper you submit most of this information to the repository or publisher. In the best systems, this information is made machine-readable and can be picked-up by services like search engines so that your data doesn’t get lost in the chaos that is the internet. Because metadata documents important attributes of your data and makes it findable, it is important that metadata creation be handled with care and consideration! 
 
 **What is Research Data Management?** 
+
 If you guessed that research data management involves the management of research data, you’re right, but you also just reorganized three words to create a less-than-specific definition. Again, the University of Vienna has a specific definition for research data management (RDM). Here it is in all its glory: 
 
 “Given the heterogeneous nature of research data, research data management (RDM) may include different aspects depending on the relevant discipline. In general, RDM covers all research data during the entire research process, e.g. planning and generating data, documentation, data administration, secure storage, access management, as well as reuse, (long-term) archiving and access regulation. RDM should ensure that research data are effectively managed during the research project and that they are securely archived and made reusable after project completion…”
