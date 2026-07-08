@@ -6,9 +6,18 @@
 
 ## Why Research Data Management? 
 
-**What is Research Data?** 
+What is Research Data?
+--------------------
+We all know what research data is, right? I mean, it’s data from research. The meaning is clear. Crisis averted. We can all go home. Or maybe not… The problem starts when we delve a little deeper into what we mean by “data”. 
 
-**What is Metadata** 
+The University of Vienna considers research data to be “all information (irrespective of its form or presentation) that supports or validates research activities (development, results, observations or findings, including contextual information). Research data comprise all materials that are created in the course of academic work, including records, source research, experiments, measurements, surveys and interviews, as well as software and code. Research data may take on various different forms: during the lifespan of a research activity, data may exist as gradations from raw data to processed data (and even include negative and inconclusive results)”.
+
+What a mouthful, but the punchline is that your research data is a lot more than just the individual measurements you used to formulate your newest figure or validate your most recent hypothesis. Your research data certainly includes those things, but all information you create during the research process can be considered data too! Even your “negative results” are data. Not all data will be sent into the world as an open source dataset and that’s okay, but it doesn’t mean we shouldn’t give those tidbits as much care and attention as the other stuff. We’ll talk more about why some data shouldn’t be released into the wild a little later. 
+
+Alright, now that we know what research data is, we can move onto metadata and that mysteriously bureaucratic phrase “research data management”. I bet the people who work in the RDM department are a bunch of boring pencil pushers…oh wait…I’m being told we work in that department…but I’m not boring and I rarely push pencils. 
+
+What is Metadata
+--------------------
 
 In the words of Mugatu from the legendary film *Zoolander*, metadata is “so hot right now.” Despite its seemingly sudden popularity, you might be wondering how to define metadata and what it means for your research. The University of Vienna defines metadata as information that is “used to describe managed resources in a unique and structured manner. The unique structure enables users to search for, find, and select relevant resources. Metadata are a means of communication between producers and users of research data, and are crucial for making data findable.” While accurate, perhaps this definition isn’t the most helpful for someone who is trying to figure how they can document their data more fully. To get a more hands-on explanation, take a look at this video from the University of Ghent.
 
@@ -30,13 +39,13 @@ Within these categories, metadata can be **structured** or **unstructured**.
 
 When you upload data to an archive or publish a paper you submit most of this information to the repository or publisher. In the best systems, this information is made machine-readable and can be picked-up by services like search engines so that your data doesn’t get lost in the chaos that is the internet. Because metadata documents important attributes of your data and makes it findable, it is important that metadata creation be handled with care and consideration! 
 
-**What is Research Data Management?** 
-
-If you guessed that research data management involves the management of research data, you’re right, but you also just reorganized three words to create a less-than-specific definition. Again, the University of Vienna has a specific definition for research data management (RDM). Here it is in all its glory: 
+What is Research Data Management?
+--------------------
+If you guessed that research data management involves the management of research data, you’re right, but you also just reorganized three words to create a less-than-specific definition. Again, the University of Vienna has a specific definition for research data management (RDM), which is drawn from our RDM policy. Here it is in all its glory: 
 
 “Given the heterogeneous nature of research data, research data management (RDM) may include different aspects depending on the relevant discipline. In general, RDM covers all research data during the entire research process, e.g. planning and generating data, documentation, data administration, secure storage, access management, as well as reuse, (long-term) archiving and access regulation. RDM should ensure that research data are effectively managed during the research project and that they are securely archived and made reusable after project completion…”
 
-Our good friends at Ghent University are also really passionate about RDM and they created this great video that provides another perspective on what RDM entails. While you watch, we’re probably going to go call them…maybe invite them to brunch. 
+Our friends at Ghent University are also really passionate about RDM and they created this great video that provides another perspective on what RDM entails. 
 
 !?[Ghent University Data Stewards (2020) Knowledge Clip: What is Research Data Management (RDM)](https://youtu.be/bbsLmy3Njv4 "[Ghent University Data Stewards 2020. Knowledge Clip: What is Research Data Management (RDM)](https://youtu.be/bbsLmy3Njv4), [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)") 
 
@@ -52,7 +61,7 @@ We have a handy website at rdm.univie.ac.at and you can email us anytime at rdm@
 * Faculty of Philological and Cultural Studies 
 * Faculty of Historical adn Cultural Studies 
 
-**The Research Data Life Cycle** 
+## The Research Data Life Cycle
 
 The Data Life Cycle has seven stages that are pretty simple to understand. Way easier than remembering the cell cycle. The Data Life Cycle begins with the planning stages of your project and ends when your data is being re-used by someone else. In each of these stages, there are things you can do to care for your data and to encourage scientific cooperation.
 
@@ -72,7 +81,7 @@ The cycle begins again when someone incorporates your data into their project or
 
 !?[Ghent University Data Stewards (2020) Knowledge Clip: The Research Data Life Cycle](https://youtu.be/OL_Vd9dd-AQ "[Ghent University Data Stewards (2020) Knowledge Clip: The Research Data Life Cycle](https://youtu.be/OL_Vd9dd-AQ), [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)") 
 
-Step 1: Planning 
+Step 1: Planning
 --------------------
 Data management planning consists of defining the strategy that you will use for managing data and documentation generated within a project. It is about considering the best way to avoid problems or unexpected costs related to data management, while also setting-up your research data to achieve the highest possible impact, even after the end of your project.^1^ One of the most common ways to articulate this strategy is with a data management plan (DMP). You probably have questions about how to write a DMP, but we will cover that more in the final module of this course. 
 
@@ -92,7 +101,7 @@ Apart from being the source of information to build your findings on, the collec
 * Details how data will be stored, backed-up, and archived.
 * Follows any discipline specific metadata standards. (More about this below!) 
 
-Step 3: Processing 
+Step 3: Processing
 --------------------
 Data processing is the phase in the project where data is converted into a desired format and prepared for analysis. When data has been freshly collected, data processing might include some automated steps that perform format conversions, quality checks, and preprocessing following a standardised protocol. The main aim of processing is to:
 
@@ -134,7 +143,7 @@ First, is the data in question high-quality, reproducible, and well documented? 
 
 You should also know that there is some data that should be destroyed as soon as possible. Usually, this data contains sensitive information, but never delete data without talking your supervisor! A little later, we will talk more about things like how to select a repository for your data and how long your data should be preserved. 
 
-Step 6: Sharing 
+Step 6: Sharing
 --------------------
 We all know that “sharing is caring”, but what does sharing mean in the context of research data management? Sharing data doesn’t mean that it is automatically open for others to use, but rather that your data is findable and that conscious choices have been made regarding who has access. You can actually share data at any time during the data life cycle and shift who can access the data as your project progresses. For example, you might share data with a collaborator or lab mates during the analysis phase but then place the data in an archive under a creative commons license once your papers are published. If you are thinking of sharing data, you should speak with your supervisor first, but here are some things to consider: 
 
@@ -172,21 +181,50 @@ You should think about all of these things when you reuse data, but they should 
 
 ## FAIR Data
 
+he FAIR Principles were designed to support the sharing of research data. The intention of these principles is to improve the Findability, Accessibility, Interoperability and Reusability of data. 
+
+At the heart of FAIR Science lies good data management practice. This is increasingly important as life science research becomes data-intensive and traditional ‘wet labs’ make space for ‘dry (computational) labs’.
+
+The increasing volume, complexity and speed of data creation has made scientists rely on computational support exponentially. Therefore, the FAIR Principles place specific emphasis on enhancing the ability of machines to automatically find and use data, as well as supporting its reuse by other scientists, which facilitates knowledge discovery and improves research transparency^1^.
+
+To learn a bit more about the FAIR principles, check out this clip from the University of Ghent. Then we will briefly summarize before moving onto the next section. Onwards! 
+
+!?[Ghent University Data Stewards (2020) Knowledge Clip: FAIR data principles](https://youtu.be/2uZxFu9SFi8 "[Ghent University Data Stewards (2020) Knowledge Clip: Fair data](https://youtu.be/2uZxFu9SFi8), [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)") 
+
 **Findable** 
+
+The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.^2^ Data and their metadata should always be assigned a persistent unique identifier, like a DOI and this identifier should always be included in the metadata of an archived item. Data should also always be described by rich metadata that follows discipline specific standards whenever possible.  
 
 **Accessible** 
 
+For data to be accessible, how data can be axquired should be clear to others. This does not mean that everyone can access all archived data all the time. It simply means that who can access data and how it can be accessed is clear. All data the underlies a publication should be freely accessible unless there are legal or ethical reasons why it cannot be shared. Even if data are sensitive, there should be a clear protocol regarding how access can be requested. Furthermore, the metadata should always be open and accessible so that other researchers can find the data and estimate if it may be useful to them prior to requesting access. 
+
+![FAIR Data Principles](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png "[Image by Patrick Hochstenbach](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)")
+
+
 **Interoperable**
+
+When data is interoperable, it can be effectively combined with other datasets. This means that data is described in enough detail that other researchers will be able to assess the data’s quality and will be able to confidently combine it with other equally standardized datasets. File type is also an import part of interoperability. You may have the best organized and documented data in the world, but if it is stored in proprietary file type that no one else can open, it won’t be of much use. Because of this, you should always opt for non-proprietary file types whenever possible. 
 
 **Reuseable** 
 
+We discussed reusability a lot when we covered the research data life cycle, so we won’t be labor it here. In addition to making sure that your data is well documented and in an appropriate file format, a license should also be applied to your data or code that explains under what conditions your materials can be re-used. Remember that you should almost always assign a license. If no license is assigned, then the materials cannot be reused. We’ll talk more about picking an appropriate license a little later. 
+
+If you are especially curious about how to make your data FAIR and about how FAIR data supports Open Science, you can check-out the [go-fair.org](https://www.go-fair.org/fair-principles/) website on the FAIR principles or read [Wilkinson et al.’s 2016](https://doi.org/10.1038/sdata.2016.18) paper on the FAIR principles and data stewardship. 
+
 ## Open Science 
 
-**What is Open Science?** 
+What is Open Science?
+--------------------
 
-**The UNESCO Recommendations for Open Science** 
+The UNESCO Recommendations for Open Science
+--------------------
 
-**Transparent and Reproducible Science** 
+The European Union and the LERU Roadmap for Open Science 
+--------------------
+
+Transparent and Reproducible Science
+--------------------
 
 ## Conclusion 
 
