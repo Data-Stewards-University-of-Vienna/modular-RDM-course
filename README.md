@@ -35,7 +35,7 @@ For a comprehensive guide on utilizing the materials for the in-person workshop,
 * Michael Feichtinger <a href="https://orcid.org/0000-0003-0558-7552"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD MF" height="16"></a> (Data Stewardship Coordinator, University of Vienna, Austria)
 * Franziska Bauchinger <a href="https://orcid.org/0000-0001-8924-9766"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD FB" height="16"></a> (Data Steward, Centre for Microbiology and Environmental Systems Science (CeMESS), University of Vienna, Austria)
 * Lukas Kraiger <a href="https://orcid.org/0009-0006-6792-0444"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD LK" height="16"></a> (Data Steward, Faculty of Psychology, University of Vienna, Austria)
-* Jeanne Wilbrandt <a href="https://orcid.org/0000-0002-0363-3837"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD JW" height="16"></a>(Data Steward, Urban Research (URBANISE), University of Vienna, Austria)
+* Jeanne Wilbrandt <a href="https://orcid.org/0000-0002-0363-3837"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD JW" height="16"></a> (Data Steward, Urban Research (URBANISE), University of Vienna, Austria)
 * Simone Spedicato <a href="https://orcid.org/0009-0003-0198-4398"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD SiS" height="16"></a> (Data Steward, Faculty of Earth Sciences, Geography and Astronomy, University of Vienna, Austria)
   
 ## Useful links
