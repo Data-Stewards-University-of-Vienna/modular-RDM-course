@@ -69,31 +69,66 @@ Data sets themselves you can find in repositories:
 
 ## Can I use the data? 
 
-*(reuse from bachelor course)*
-
 Let's talk about licensing.
 
 **What are licenses?**
+A license is a clear legal statement that specifies what other people are allowed to do with your work and under what conditions.
 
 **How do you assign a license?**
+* Ensure that you are the owner of the output OR that you have been given the right to assign a license for the output. 
+* Choose the license that fits how you want others to use your work and clearly attach it to the work, including the full license name and a link to the official license terms.
 
 **Can licenses be switched or changed?**
+* Once something is released under a license, you generally cannot revoke those permissions or impose additional restrictions. 
+* You can re-license work to remove previous limitations.
 
 **Can licenses be modifiedß**
+* You should not modify license terms yourself.
+* Licenses are carefully written legal documents and changing them can make them unclear or invalid.
 
 **Frequently used licenses: Data**
-Creative Commons, Open Data Commons
+Creative Commons (CC Licences):
+* CC 0: Public Domain
+* CC BY: Attribution
+Credit must be given to the author
+* CC NC: Non-Commercial
+May not be used for commercial purposes
+* CC ND: Non-Derivatives
+May not be modified
+* CC SA: Share Alike
+Redistribution under the same licensing terms
+
+Open Data Commons (https://opendatacommons.org)
+* Open Data Commons Open Database License
+* Open Data Commons Atribution License
+* Open Data Commons Public Domain Dedication and License 
+
+NOTE: add overview table of CC licenses
 
 **Frequently used licenses: Code**
+* MIT
+* GNU General Public Licenses (GPL) and variations
+* Apache
 
 At end: what happens if I don't apply a license? 
 
 ## Do I even want to use the data?
 
-**How to evaluate reusability?**
+Imagine you’ve found an interesting dataset you might want to reuse.
+What would you think about or check before using the data?
 
-NOTE: add the points from the bachelor presentation
-NOTE: add to check the license
+**How to evaluate reusability?**
+* Is an appropriate license applied?
+* Does the data match your research question?
+* Are the collection methods well documented?
+* Do the methods match current quality standards for my field? ​
+* Does the data include important information about instruments and parameters?
+* Is the data described in a way that allows me to understand the data and its context?
+* Has the data been processed since collection? Are those methods clear?
+* Are things like variables or abbreviations clearly defined?
+* Is all the documentation internally consistent? ​
+* Does the data come from a reputable source? ​
+
 
 **Data documentation does not always equal data quality**
 
@@ -102,7 +137,11 @@ NOTE: add to check the license
 ## Citing Data you Reuse
 
 **Citing Sources and Datasets**
-NOTE: take from course eheh
+* Always give credit. Include the author, title, year, and version if applicable.
+* Mention the license of the original dataset.​
+* Most citation styles (APA, Chicago, etc.) include guidelines for datasets.
+* You can cite both datasets and the papers stemming from them.
+* Include persistent identifiers like DOIs, accession numbers, or handles. 
 
 ## Quiz
 
