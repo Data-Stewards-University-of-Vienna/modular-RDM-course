@@ -20,6 +20,7 @@ By the end of this section you will be able to:
 * explain the benefits of data reuse for both data producers and users.
 * evaluate the basic quality and reliability of reuseable data and outputs.
 
+(Franzi)
 ## Why would you want to reuse data?
 
 Data reuse is important because it allows researchers to:
@@ -112,36 +113,72 @@ NOTE: add overview table of CC licenses
 
 At end: what happens if I don't apply a license? 
 
-## Do I even want to use the data?
+## Do I even want to reuse the data?
 
-Imagine you’ve found an interesting dataset you might want to reuse.
-What would you think about or check before using the data?
+Imagine you’ve now found an interesting dataset you might want to reuse. Before integrating it into your workflow, you must evaluate some aspects, such as its suitability, quality, and legal status.
 
 **How to evaluate reusability?**
-* Is an appropriate license applied?
-* Does the data match your research question?
-* Are the collection methods well documented?
-* Do the methods match current quality standards for my field? ​
-* Does the data include important information about instruments and parameters?
-* Is the data described in a way that allows me to understand the data and its context?
-* Has the data been processed since collection? Are those methods clear?
-* Are things like variables or abbreviations clearly defined?
-* Is all the documentation internally consistent? ​
-* Does the data come from a reputable source? ​
 
+When assessing a dataset, ask yourself the following questions:
 
-**Data documentation does not always equal data quality**
+* **Legal Terms:** Is an appropriate license applied (e.g., Creative Commons) that permits reuse?
+* **Scientific Relevance:** Does the data match your research question?
+* **Methodology:** Are the collection methods well-documented? Do they match current quality standards in your field?
+* **Metadata & Context:** 
+  * Does the dataset include important information about instruments and parameters?
+  * Is the data described in a way that allows you to understand its context?
+* **Provenance:** Has the data been processed since collection? Are those processing steps clear?
+* **Clarity:** Are variables, units, or abbreviations clearly defined? Is the documentation internally consistent?
+* **Trustworthiness:** Does the data come from a reputable source or a trusted repository?
 
-**Repositories don‘t check if data is correct/ high quality**
+> Data documentation does not always equal data quality
+
+It is important to distinguish between how well a dataset is *documented* and the actual *quality* of the data itself:
+* **High documentation, low quality:** A dataset can have perfect metadata, clear variables, and a complete readme file, yet the actual measurements may be imprecise, biased, or scientifically flawed.
+* **Low documentation, high quality:** Conversely, highly precise and valuable data may be practically useless if it lacks the documentation needed to understand and interpret it.
+
+*Always evaluate both the completeness of the documentation and the scientific validity of the methodology.*
+
+> Repositories don't check if data is correct/high quality
+
+A common misconception is that hosting platform approval equals scientific validation. 
+* **The Role of Repositories:** Most data repositories (such as Zenodo, Figshare, or Dryad) perform basic technical checks (e.g., checking if files open or if metadata fields are filled). They generally do **not** peer-review the scientific accuracy, integrity, or quality of the dataset. 
+* **Your Responsibility:** As the reusing researcher, the responsibility of quality assurance lies entirely with you.
+
+---
 
 ## Citing Data you Reuse
 
-**Citing Sources and Datasets**
-* Always give credit. Include the author, title, year, and version if applicable.
-* Mention the license of the original dataset.​
-* Most citation styles (APA, Chicago, etc.) include guidelines for datasets.
-* You can cite both datasets and the papers stemming from them.
-* Include persistent identifiers like DOIs, accession numbers, or handles. 
+Just like traditional literature, research data is a first-class scholarly output and must be cited formally. Proper citation ensures academic integrity, enables reproducibility, and gives credit to the original creators.
+
+**Guidelines for Citing Datasets**
+
+* **Give Credit:** Always include the core citation elements: Author(s), Publication Year, Dataset Title, Publisher/Repository, and Version (if applicable).
+* **Indicate the License:** Mention the license of the original dataset to show you have the legal right to use and distribute your findings.
+* **Use Persistent Identifiers (PIDs):** Always include a resolving link such as a DOI (Digital Object Identifier), accession number, or handle. Do not rely on temporary URLs.
+* **Follow Citation Styles:** Most major citation styles (APA, Chicago, MLA, Harvard) now have official guidelines for datasets.
+* **Double Cite:** If a dataset is associated with a peer-reviewed paper, it is best practice to cite **both** the dataset itself and the article describing it.
+
+Example (APA 7th Style):
+> Creator, A. A., & Creator, B. B. (Year). *Title of the dataset* (Version V) [Data set]. Repository Name. https://doi.org/10.xxxx/xxxxx
+
+---
 
 ## Quiz
 
+Test your understanding of data reuse and citation.
+
+**Question 1: Repository Quality Control**
+Does the fact that a dataset is published in a reputable repository guarantee its scientific quality?
+
+[( )] Yes, repositories conduct rigorous scientific peer-reviews of all deposited data.
+[(X)] No, repositories mostly perform technical checks; the scientific evaluation is the user's responsibility.
+[( )] Yes, but only if the repository is discipline-specific.
+
+
+**Question 2: Data Citation Best Practices**
+Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?
+
+[( )] Cite only the journal paper, as datasets are not formal publications.
+[( )] Cite only the dataset, as the paper is redundant.
+[(X)] Cite both the dataset (using its DOI) and the corresponding journal paper.
