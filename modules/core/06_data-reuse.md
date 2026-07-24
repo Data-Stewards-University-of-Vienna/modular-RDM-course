@@ -20,44 +20,81 @@ By the end of this section you will be able to:
 * explain the benefits of data reuse for both data producers and users.
 * evaluate the basic quality and reliability of reuseable data and outputs.
 
+## What are the benefits of reusing data (and making data available for reuse)?
+
+But why would a researcher reuse data? Isn't research all about creating new data?
+Not really... research is all about creating knowledge and there is a lot of knowledge 
+still to be gained from "old" data. Besides, if you reuse data you will almost inevitably create new data too.
+
+![XKCD Data Trap](https://imgs.xkcd.com/comics/data_trap.png " [Data Trap by XKCD](https://xkcd.com/2582), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
+
+There are four primary groups that can benefit from data reuse: 
+data reusers themselves, data producers and publishers, 
+research disciplines and communities, and society or the public. 
+Let's have a closer look at the benefits for each group.
+
+** Data reusers **
+
+If you reuse already existing data 
+* you can save time and money, because you don't have to produce the data yourself
+* you can test your new questions or methods on additional data
+* you can test for change over time by comparing to older data
+* you can find new collaborators through the data they published
+
+** Data producers and publishers **
+
+If data you published is reused by others
+* you receive more citations and your research becomes more visible
+* your work becomes more transparent
+* your professional reputation can increase
+* you can find new collaborators
+
+** Research disciplines and communities **
+
+If more data from a research discipline or community is available for reuse
+* they can gain a better understanding of results
+* they can verify results on more data
+* everyone gains access to expensive or difficult to generate data
+* they have access to varied data for teaching purposes
+
+** Society or the public **
+
+If more research data is available for reuse
+* research becomes more transparent which can increase the public confidence in science
+* tax dollars spent on research can deliver a greater impact
+* private and public sectors can reuse the data and benefit society
+
+---
+
 (Franzi)
-## Why would you want to reuse data?
-
-Data reuse is important because it allows researchers to:
-
-4 categories (NOTE: do not necessarily reuse these categories, but the underlying reasons and ideas)
-
-Benefits for data reusers:
-* save time and money
-* test new questions and methods on old data
-* test for change over time
-* find new collaborators
-
-Benefits for producers or publishers:
-* receiver more citatiations and become more visible
-* my work is more transparent 
-* professional reputation increases
-* can find new collaborators
-
-Benefits for research community:
-* Better understand results/Verify results on more data
-* more efficent research 
-* access expensive or difficult to generate data
-* use data in teaching
-
-Benefits for society:
-* transparent research
-* confidence in science
-* tax dollars deliver great impact
-* we benefit from private and public sector use of data 
-
 ## How and where to find reusable data?
+NOTE: do we want to add a recommendation concerning supplementaries? (aka: try to move away from that)
 
-**How is data published?**
+If you now come to the conclusion that, for your specific research question, reusing data would be beneficial,
+what do you do? Where is reusable data stored and how can you find it?
+
+** Where is data published? **
+
 NOTE: add examples
-* Article ,appendix or supplement
-* Data Journal 
-* Data repository
+
+Let's first have a look at the "where?". 
+Research data is generally published in an article appendix or supplement, a data journal, or a data respository.
+
+** Article appendix or supplement **
+
+An article appendix or supplement (these terms are used interchangeably) is a separate, optional section of a research article that contains additional information.
+Information you frequently find in an appendix are more detailed methods, additional figures or, of course, data.
+Publishing the data corresponding to an article in its appendix is very common and you can usually download the supplementary material directly with the article on the publisher's website.
+Take a look at this Nature article about the CRISPR-Cas system: https://doi.org/10.1038/s41586-026-10833-9. 
+If you scroll all the way to the bottom of the article, you can see that the supplementary information contains additional figures and tables, as well as the exact source data that was used to create all figures.
+
+** Data journals **
+
+TBD
+
+** Data repositories **
+
+TBD
 
 **Where can I find data?**
 
@@ -68,7 +105,9 @@ Data sets themselves you can find in repositories:
 * Meta search (B2FIND, examples..)
 * Google
 
-## Can I use the data? 
+---
+
+## Who can use which data? 
 
 Let's talk about licensing.
 
@@ -112,6 +151,8 @@ NOTE: add overview table of CC licenses
 * Apache
 
 At end: what happens if I don't apply a license? 
+
+---
 
 ## Do I even want to reuse the data?
 
