@@ -99,14 +99,11 @@ Data journals can be broad in scope (e.g. Scientific Data) or discipline-specifi
 Data repositories are centralized places to hold, organize and share data. They keep data save and usable over time, allow sharing of data and enable proper tracking and citing of datasets by assigning unique persistent identifiers (usually DOIs - digital object identifiers - or accession numbers).
 We distinguish three types of research data repositories:
 
-* Institutional repositories
-managed by universities or organizations (e.g. PHAIDRA at the University of Vienna: https://phaidra.univie.ac.at/)
+* Institutional repositories: managed by universities or organizations (e.g. PHAIDRA at the University of Vienna: https://phaidra.univie.ac.at/)
 
-* Discipline-specific repositories
-tailored to specific fields and data types (e.g. Oral-History.Digital: https://www.oral-history.digital/)
+* Discipline-specific repositories: tailored to specific fields and data types (e.g. Oral-History.Digital: https://www.oral-history.digital/)
 
-* Generalist Repositories
-large platforms that accept a variety of datasets (e.g. Zenodo: https://zenodo.org/)
+* Generalist Repositories: large platforms that accept a variety of datasets (e.g. Zenodo: https://zenodo.org/)
 
 Usually, discipline-specific repositories require the data to be curated and follow certain formatting and metadata standards. Generalist repositories tend to have no specific requirements due to their broad nature.
 
