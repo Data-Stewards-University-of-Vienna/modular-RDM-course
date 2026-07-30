@@ -33,7 +33,7 @@ data reusers themselves, data producers and publishers,
 research disciplines and communities, and society or the public. 
 Let's have a closer look at the benefits for each group.
 
-** Data reusers **
+**Data reusers**
 
 If you reuse already existing data 
 * you can save time and money, because you don't have to produce the data yourself
@@ -41,7 +41,7 @@ If you reuse already existing data
 * you can test for change over time by comparing to older data
 * you can find new collaborators through the data they published
 
-** Data producers and publishers **
+**Data producers and publishers**
 
 If data you published is reused by others
 * you receive more citations and your research becomes more visible
@@ -49,7 +49,7 @@ If data you published is reused by others
 * your professional reputation can increase
 * you can find new collaborators
 
-** Research disciplines and communities **
+**Research disciplines and communities**
 
 If more data from a research discipline or community is available for reuse
 * they can gain a better understanding of results
@@ -57,7 +57,7 @@ If more data from a research discipline or community is available for reuse
 * everyone gains access to expensive or difficult to generate data
 * they have access to varied data for teaching purposes
 
-** Society or the public **
+**Society or the public**
 
 If more research data is available for reuse
 * research becomes more transparent which can increase the public confidence in science
@@ -66,21 +66,18 @@ If more research data is available for reuse
 
 ---
 
-(Franzi)
 ## How and where to find reusable data?
 NOTE: do we want to add a recommendation concerning supplementaries? (aka: try to move away from that)
 
 If you now come to the conclusion that, for your specific research question, reusing data would be beneficial,
 what do you do? Where is reusable data stored and how can you find it?
 
-** Where is data published? **
+**How is data published?**
 
-NOTE: add examples
-
-Let's first have a look at the "where?". 
+Let's first have a look at how research data is published: 
 Research data is generally published in an article appendix or supplement, a data journal, or a data respository.
 
-** Article appendix or supplement **
+**Article appendix or supplement**
 
 An article appendix or supplement (these terms are used interchangeably) is a separate, optional section of a research article that contains additional information.
 Information you frequently find in an appendix are more detailed methods, additional figures or, of course, data.
@@ -88,28 +85,45 @@ Publishing the data corresponding to an article in its appendix is very common a
 Take a look at this Nature article about the CRISPR-Cas system: https://doi.org/10.1038/s41586-026-10833-9. 
 If you scroll all the way to the bottom of the article, you can see that the supplementary information contains additional figures and tables, as well as the exact source data that was used to create all figures.
 
-** Data journals **
+**Data journals**
 
-TBD
+A data journal is a peer-reviewed academic publication that focuses on sharing and describing research datasets. 
+The articles of such a journal describe how data was collected, processed, formatted, etc. The data itself is not stored with the data journal but in a research data repository and the article simply links to the repository entry. Let's look at this article published in Scientific Data: https://doi.org/10.1038/s41597-025-05635-z. The article includes a detailed description of the methodology and in the references you find the link to the published dataset which is located on an institute repository:
 
-** Data repositories **
+> White, E. C., Seymour, A., Dale, J., Newton, E. & Johnston, D. W. Mapping the Ghost Fleet: Orthomosaics and ship locations from drone-based imagery of Mallows Bay, Maryland. Duke Research Data Repository.  https://doi.org/10.7924/r4v12927x (2024)
 
-TBD
+Data journals can be broad in scope (e.g. Scientific Data) or discipline-specific (e.g. Viticulture Data Journal). You can find a list of data journals on Zenodo (no guarentee for completeness): https://zenodo.org/records/7082126
+
+**Data repositories**
+
+Data repositories are centralized places to hold, organize and share data. They keep data save and usable over time, allow sharing of data and enable proper tracking and citing of datasets by assigning unique persistent identifiers (usually DOIs - digital object identifiers - or accession numbers).
+We distinguish three types of research data repositories:
+
+* Institutional repositories
+managed by universities or organizations (e.g. PHAIDRA at the University of Vienna: https://phaidra.univie.ac.at/)
+
+* Discipline-specific repositories
+tailored to specific fields and data types (e.g. Oral-History.Digital: https://www.oral-history.digital/)
+
+* Generalist Repositories
+large platforms that accept a variety of datasets (e.g. Zenodo: https://zenodo.org/)
+
+Usually, discipline-specific repositories require the data to be curated and follow certain formatting and metadata standards. Generalist repositories tend to have no specific requirements due to their broad nature.
 
 **Where can I find data?**
 
-If the data is published thourgh article (inludes data journal): Open Alex, etc..
+There are a couple of ways to look for published research data:
 
-Data sets themselves you can find in repositories:
-* Repositories (general vs discipline specific, re3data if you don't know where to start)
-* Meta search (B2FIND, examples..)
-* Google
+* In publications: Scopus (https://www.scopus.com/sources), Web of Science (), OpenAlex (https://openalex.org/), PubMed (https://pubmed.ncbi.nlm.nih.gov/)
+* With google: Google Dataset Search (https://datasetsearch.research.google.com/)
+* Use a meta search engine: B2FIND (https://b2find.eudat.eu/), OpenAIRE Explore (https://explore.openaire.eu/), Mendeley Data (https://data.mendeley.com/)
+* Directly in the respositories - you can find repositories themselves on Re3Data (https://www.re3data.org/)
 
 ---
 
 ## Who can use which data? 
 
-Let's talk about licensing.
+Let's say you
 
 **What are licenses?**
 A license is a clear legal statement that specifies what other people are allowed to do with your work and under what conditions.
@@ -122,7 +136,7 @@ A license is a clear legal statement that specifies what other people are allowe
 * Once something is released under a license, you generally cannot revoke those permissions or impose additional restrictions. 
 * You can re-license work to remove previous limitations.
 
-**Can licenses be modifiedß**
+**Can licenses be modified?**
 * You should not modify license terms yourself.
 * Licenses are carefully written legal documents and changing them can make them unclear or invalid.
 
