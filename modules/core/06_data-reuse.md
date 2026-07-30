@@ -103,7 +103,7 @@ We distinguish three types of research data repositories:
 
 * Discipline-specific repositories: tailored to specific fields and data types (e.g. Oral-History.Digital: https://www.oral-history.digital/)
 
-* Generalist Repositories: large platforms that accept a variety of datasets (e.g. Zenodo: https://zenodo.org/)
+* Generalist repositories: large platforms that accept a variety of datasets (e.g. Zenodo: https://zenodo.org/)
 
 Usually, discipline-specific repositories require the data to be curated and follow certain formatting and metadata standards. Generalist repositories tend to have no specific requirements due to their broad nature.
 
@@ -173,7 +173,7 @@ Imagine you’ve now found an interesting dataset you might want to reuse. Befor
 
 When assessing a dataset, ask yourself the following questions:
 
-* **Legal Terms:** Is an appropriate license applied (e.g., Creative Commons) that permits reuse?
+* **Legal Terms:** Is an appropriate license applied (e.g., Creative Commons) that permits reuse? (more details on proper licensing in the next section)
 * **Scientific Relevance:** Does the data match your research question?
 * **Methodology:** Are the collection methods well-documented? Do they match current quality standards in your field?
 * **Metadata & Context:** 
