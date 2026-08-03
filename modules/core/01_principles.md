@@ -197,7 +197,7 @@ The first step in (re)using data is to find them. Metadata and data should be ea
 
 **Accessible** 
 
-For data to be accessible, how data can be axquired should be clear to others. This does not mean that everyone can access all archived data all the time. It simply means that who can access data and how it can be accessed is clear. All data the underlies a publication should be freely accessible unless there are legal or ethical reasons why it cannot be shared. Even if data are sensitive, there should be a clear protocol regarding how access can be requested. Furthermore, the metadata should always be open and accessible so that other researchers can find the data and estimate if it may be useful to them prior to requesting access. 
+For data to be accessible, how data can be acquired should be clear to others. This does not mean that everyone can access all archived data all the time. It simply means that who can access data and how it can be accessed is clear. All data the underlies a publication should be freely accessible unless there are legal or ethical reasons why it cannot be shared. Even if data are sensitive, there should be a clear protocol regarding how access can be requested. Furthermore, the metadata should always be open and accessible so that other researchers can find the data and estimate if it may be useful to them prior to requesting access. 
 
 ![FAIR Data Principles](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png "[Image by Patrick Hochstenbach](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)")
 
@@ -208,19 +208,64 @@ When data is interoperable, it can be effectively combined with other datasets. 
 
 **Reuseable** 
 
-We discussed reusability a lot when we covered the research data life cycle, so we won’t be labor it here. In addition to making sure that your data is well documented and in an appropriate file format, a license should also be applied to your data or code that explains under what conditions your materials can be re-used. Remember that you should almost always assign a license. If no license is assigned, then the materials cannot be reused. We’ll talk more about picking an appropriate license a little later. 
+We discussed reusability a lot when we covered the research data life cycle, so we won’t belabor it here. In addition to making sure that your data is well documented and in an appropriate file format, a license should also be applied to your data or code that explains under what conditions your materials can be re-used. Remember that you should almost always assign a license. If no license is assigned, then the materials cannot be reused. We’ll talk more about picking an appropriate license a little later. 
 
 If you are especially curious about how to make your data FAIR and about how FAIR data supports Open Science, you can check-out the [go-fair.org](https://www.go-fair.org/fair-principles/) website on the FAIR principles or read [Wilkinson et al.’s 2016](https://doi.org/10.1038/sdata.2016.18) paper on the FAIR principles and data stewardship. 
 
 ## Open Science 
 
-What is Open Science?
+Open Science is not a fixed concept with a single, universally accepted definition. It continues to evolve as research practices, technologies, policies, and community expectations change, and different disciplines and stakeholders often place emphasis on different aspects of it. Rather than viewing Open Science as a checklist to complete or a final goal to achieve, it is more useful to think of it as an approach to research and an ongoing process of continually improving how research is conducted, documented, shared, and reused.
+
+To give a working definition we can build on, we would say that Open Science is the practice of making research as open as possible and as closed as necessary. It promotes transparent, reproducible, and collaborative research by sharing publications, data, software, methods, and other research outputs whenever this can be done responsibly. The goal is to improve the quality, efficiency, reproducibility, and impact of research for both the scientific community and society.
+
+Achieving these goals, however, involves more than simply making research outputs openly available. Open Science also encourages us to critically examine the systems and practices that shape how research is conducted, evaluated, and rewarded. This includes developing new skills and competencies, adopting responsible research assessment practices, improving research data management and reproducibility, and fostering a research culture that values openness, collaboration, and transparency. In this way, Open Science is both a collection of practical research practices and an ongoing effort to improve the research ecosystem itself.
+
+For most researchers, Open Science means planning from the beginning of a project how you will organize, document, preserve, and, where appropriate, share your research outputs so that they can be understood, verified, and reused by others. Much of the research conducted at public institutions and universities in Europe is supported by public funding, and Open Science encourages us to maximize the value of that investment by making research outputs available for others to build upon whenever this can be done responsibly.
+
+This does not mean that every project needs to produce a breakthrough cancer treatment or a drought-resistant crop. More often, the value of Open Science lies in making incremental advances possible—allowing other researchers to understand your work, reproduce your methods, reuse your data, and build on your findings. Scientific progress is often achieved through many small contributions, and making those contributions easier to discover and reuse helps move research forward Something really exciting could be just around the corner.
+
+In the following sections, we'll introduce some of the key principles, organizations, and initiatives that have shaped the Open Science movement. If you'd like to explore any of these topics in greater depth, we've also included suggestions for further reading.
+
+The UNESCO Recommendations for Open Science^3^ 
+--------------------
+UNESCO stands for the United National Educational, Scientific, and and Cultural Organization, which is a specialized agency of the United Nations (UN). It's core areas of work include education, culture and cultural heritage, science, and communication. In 2021, UNESCO published the UNESCO Recommendation on Open Science, which provides an internationally agreed upon definition of Open Science as well as shard values and guiding principles that nations and organizations can use to promote inclusive, equitable, and sustainable systems of knowledge creation and dissemination. 
+
+Overall, the recommendation is a high-level document that encourages signatory countries to:
+
+* Promote a shared definition of Open Science and outline diverse paths to achieving it. 
+* Develop an enabling policy environment for Open Science. 
+* Invest in infrastructure and activities that contribute to Open Science. 
+* Invest in training, education, digital literacy and capacity building to support Open Science. 
+* Foster a culture of Open Science and align incentives to support it. 
+* Promote innovative approaches for Open Science at all stages of the scientific process. 
+* Encourage international and multi-stakeholder cooperation in the context of Open Science to reduce gaps in technology and knowledge.
+
+Furthermore, it asks that changes be made inline with a set of values and guiding principles. As values, UNESCO has highlighted: 
+
+* **Quality and integrity:** ensuring that science is high-quality and scrutinized by bringing together different sources of knowledge and making evaluation of scientific methods and outputs more transparent and accurate.
+* **Collective benefit:** recognizing that science is a global public good that belongs to all of humanity.
+* **Equity and fairness:** ensuring equitable, fair and reciprocal access to science for all producers and consumers of knowledge regardless of their location, nationality, race, age, gender, income, socio-economic circumstance, career stage, discipline, language, religion, disability, ethnicity, migratory status or any other grounds.
+* **Diversity and inclusiveness:** embracing diversity of knowledge, practices, workflows, languages and research topics and outputs.
+
+The guiding principles that are meant to help signatory countries uphold these values are: 
+
+* **Transparency, scrutiny, critique, and reproducibility:** to reinforce the rigor of scientific results, enhance the positive impact of science on society and increase society’s ability to solve complex interconnected problems.
+* **Equality of opportunities**: to ensure that all scientists and those with an interest in science have equal opportunity to access, contribute to and benefit from science, regardless of origin or circumstance.
+* **Responsibility, respect, accountability:** to be responsible for and aware of public accountability, potential conflicts of interest, intellectual integrity and the possible social or ecological consequences of research activities.
+* **Collaboration, participation, and inclusion:** to ensure that scientific collaborations transcend the boundaries of geography, language and resources, and include knowledge from marginalized communities to solve problems of great social importance.
+* **Flexibility:** to acknowledge that there is no one-size-fits-all way to practice open science and to encourage different pathways to practicing it while upholding the core values.
+* **Sustainability:** to be as efficient and impactful as possible by building on long-term practices, services, infrastructures and funding models to ensure participation of scientists from less-privileged countries or institutions.
+
+Collectively, these principles and values apply to development and maintenance of Open Science infrastructures, both physical and virtual and the creation of Open Scientific knowledge in the form of scientific publications, open research data, open educational resources, open source software and code, and open hardware. It also guides how researchers interact with societal actors through things like citizen science, crowd sourcing, and crowd funding, or how they engage with other knowledge systems including local communities, marginalized scholars, and indigenous peoples. 
+
+Taking into account that the needs and resources of each member state differ, the UNESCO Recommendation on Open Science does not provide a concrete roadmap for implementing Open Science globally, but it does inform Open Science policies and developments all over the world. If you would like to read the UNESCO Recommendation on Open Science, you can find it [HERE](https://doi.org/10.54677/MNMH8546). In the next section, we will discuss a set of Open Science policies shaping the Austrian scholarly landscape. 
+
+Select Open Science Policies 
 --------------------
 
-The UNESCO Recommendations for Open Science
---------------------
 
-The European Union and the LERU Roadmap for Open Science 
+
+The How: The LERU Roadmap for Open Science 
 --------------------
 
 Transparent and Reproducible Science
