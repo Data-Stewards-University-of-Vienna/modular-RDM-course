@@ -58,6 +58,47 @@ The CARE principles for Indigenous Data Governance recognize that current moveme
 - Hardware License
 - Machine Learning License
 
+**What are licenses?**
+A license is a clear legal statement that specifies what other people are allowed to do with your work and under what conditions.
+
+**How do you assign a license?**
+* Ensure that you are the owner of the output OR that you have been given the right to assign a license for the output. 
+* Choose the license that fits how you want others to use your work and clearly attach it to the work, including the full license name and a link to the official license terms.
+
+**Can licenses be switched or changed?**
+* Once something is released under a license, you generally cannot revoke those permissions or impose additional restrictions. 
+* You can re-license work to remove previous limitations.
+
+**Can licenses be modified?**
+* You should not modify license terms yourself.
+* Licenses are carefully written legal documents and changing them can make them unclear or invalid.
+
+**Frequently used licenses: Data**
+Creative Commons (CC Licences):
+* CC 0: Public Domain
+* CC BY: Attribution
+Credit must be given to the author
+* CC NC: Non-Commercial
+May not be used for commercial purposes
+* CC ND: Non-Derivatives
+May not be modified
+* CC SA: Share Alike
+Redistribution under the same licensing terms
+
+Open Data Commons (https://opendatacommons.org)
+* Open Data Commons Open Database License
+* Open Data Commons Atribution License
+* Open Data Commons Public Domain Dedication and License 
+
+NOTE: add overview table of CC licenses
+
+**Frequently used licenses: Code**
+* MIT
+* GNU General Public Licenses (GPL) and variations
+* Apache
+
+At end: what happens if I don't apply a license? 
+
 ## General Legal 
 - Nagoya Protocol
 - Animal Research
