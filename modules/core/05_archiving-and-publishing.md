@@ -1,17 +1,3 @@
-
-<!--
-authors: Simone Spedicato, Michael Feichtinger 
-
-email: simone.spedicato@univie.ac.at, michael.feichtinger@univie.ac.at    
-
-version:  1.0
-
-language: en
-
--->
-
-
-
 <!--
 authors: Simone Spedicato, Michael Feichtinger 
 
@@ -26,6 +12,7 @@ language: en
 # Archiving and Publishing
 
 ## Learning Objectives
+Once your papers are written, you don’t want your hard-earned data to just gather dust on an old hard drive. In this section, we will cover how to publish your datasets online so other researchers can find, use, and cite your work—giving you extra academic credit and making your research part of the global open science community.
 
 By the end of this section, you will be able to:
 
@@ -65,29 +52,15 @@ Not every file produced during a research project needs to be preserved. Long-te
 
 As a general principle, all data that support published findings should be preserved. Increasingly, journals and funding agencies require researchers to deposit the data underlying publications in trusted repositories. For example, **[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)** requires research data to be deposited in trusted repositories and made openly available whenever possible.
 
-When deciding what to preserve, consider some of these aspects.
-
-**Essential research outputs**
-
-Preserve:
+When deciding what to preserve, consider:
 
 * the final or processed datasets supporting publications;
 * sufficient raw or primary data to validate published results (subject to ethical and legal constraints);
 * analysis workflows and processing pipelines;
 * software and code used to generate results;
 * metadata describing the data and their provenance;
-* documentation such as README files, codebooks, variable dictionaries, laboratory protocols, and workflow descriptions;
+* documentation such as README files, codebooks, variable dictionaries, and laboratory protocols;
 * computational environments (for example, requirements files, containers, or workflow specifications) needed to reproduce analyses.
-
-**Selection criteria**
-
-The following questions can help determine whether data should be preserved:
-
-* Are the data required by a funder, publisher, or institutional policy?
-* Are there legal or ethical obligations to retain the data?
-* Would the data be difficult or impossible to reproduce?
-* Are the data likely to be reused in future research or teaching?
-* Do the data have long-term scientific, historical, environmental, or societal value?
 
 Typically, research data should be retained for **at least five to ten years** after the end of a project, although specific requirements vary between disciplines and funders.
 
@@ -95,7 +68,7 @@ Typically, research data should be retained for **at least five to ten years** a
 
 ## Preparing Data for Preservation
 
-Preserving data successfully requires more than uploading files to a repository. Future users—including your future self—must be able to understand and reuse the data!
+Preserving data successfully requires more than uploading files to a repository. Future users—including your future self!—must be able to understand and reuse the data!
 
 Before archiving your research outputs, ensure that they are complete, well organised, and sufficiently documented.
 
@@ -104,7 +77,7 @@ Before archiving your research outputs, ensure that they are complete, well orga
 Prepare a well-structured dataset by:
 
 * removing temporary or unnecessary files;
-* using consistent folder structures and file naming conventions;
+* using consistent folder structures and file naming conventions (EXAMPLE?);
 * separating raw data from processed data and analysis outputs;
 * including only stable versions intended for preservation.
 
@@ -125,7 +98,7 @@ Useful documentation includes:
 
 Whenever possible, preserve data using open, well-documented file formats rather than proprietary formats. Open formats are more likely to remain readable over long periods and across different software platforms.
 
-**Include licensing information**
+**Include licensing information (LINK TO LICENSING SECTION)**
 
 Clearly specify how others may reuse your data by including appropriate licensing information in both the repository metadata and accompanying documentation.
 
@@ -202,7 +175,7 @@ Useful resources for identifying discipline-specific repositories include:
 * [FAIRsharing](https://fairsharing.org/)
 * Discipline-specific examples: EMBL-EBI Data Submission Wizard, ELIXIR Deposition Databases
 
-Checking repositories used in recent publications within your field is also a useful strategy!
+> **Tip:** Checking repositories used in recent publications within your field is also a useful strategy!
 
 <u>2. Institutional repositories</u>
 
