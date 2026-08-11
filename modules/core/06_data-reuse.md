@@ -180,8 +180,14 @@ Does the fact that a dataset is published in a reputable repository guarantee it
 [(X)] No, repositories mostly perform technical checks; the scientific evaluation is the user's responsibility.
 [( )] Yes, but only if the repository is discipline-specific.
 
+**Question 2: Beneficiaries of Data Reuse**
+Which of the following correctly matches one of the four primary groups with a benefit of data reuse?
 
-**Question 2: Data Citation Best Practices**
+[( )] Data producers benefit because they save time and money by not having to produce the data themselves.
+[(X)] Research disciplines benefit because everyone gains access to expensive or difficult-to-generate data.
+[( )] Society benefits primarily because individual researchers receive more academic citations.
+
+**Question 3: Data Citation Best Practices**
 Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?
 
 [( )] Cite only the journal paper, as datasets are not formal publications.
