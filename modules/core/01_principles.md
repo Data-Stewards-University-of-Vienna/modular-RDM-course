@@ -1,10 +1,21 @@
 # Key Concepts and Principles 
+Welcome to Module 2! In this module, we’ll build the foundation for the rest of the course by looking at what research data actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's just in! 
 
-## Objectives 
+Objectives
+-------------------- 
+By the end of this module, you should be able to: 
 
-## Introduction
+1. Define research data and metadata, identify different forms of research data, and explain the role of metadata in making research data understandable and reusable.  
 
-## Why Research Data Management? 
+2. Describe the research data life cycle and identify good RDM practices that support data organization, documentation, preservation, sharing, and reuse across its stages.
+
+3. Explain how RDM, FAIR data, and Open Science are connected, and describe how Open Science principles are reflected in current institutional, national, European, and funder expectations.
+
+Introduction
+--------------------
+Before we get into file naming, tidy data, repositories, or any of the other practical parts of research data management, we need to make sure we are speaking the same language. This module introduces the core ideas that will come up again and again throughout the course: research data, metadata, Research Data Management, the research data life cycle, FAIR data, and Open Science. We’ll look at how these concepts fit together, why they matter for day-to-day research, and how broader Open Science principles are increasingly reflected in institutional, national, European, and funder expectations. Don’t worry about memorizing every policy, acronym, or framework along the way—the goal here is to understand the bigger picture and start thinking about where your own research fits within it.
+
+## What is Research Data Management? 
 
 What is Research Data?
 --------------------
@@ -116,7 +127,7 @@ When data is imported from existing sources, like data downloaded from a reposit
 
 After data processing, clean data is ready for analysis and should therefore be available to the members of the project team that need to perform the next steps. Data processing is important to ensure good quality of the collected data and to prepare it for meaningful data analysis. Accurate data processing is also essential for combining two or more datasets into a single dataset. An accurate documentation of every step done during data processing is key for the reproducibility of your result. Processing data correctly makes it easy to arrange, easy to analyse, and saves time.^1^
 
-Also, remember that when you work with sensitive or protected data, you should pseudonymize or anonymize your data during the processing phase whenever possible. You should also use discipline specific methods of encoding variables if they are available, and you should keep careful records of how data was pseudonymized or anonymized. It’s never a bad idea to also maintain a codebook where your variables are all explained. 
+Also, remember that when you work with sensitive or protected data, you should pseudonymize or anonymize your data during the processing phase whenever possible. You should also use discipline specific methods of encoding variables if they are available, and you should keep careful records of how data was pseudonymized or anonymized. It’s never a bad idea to also maintain a codebook where your vari ables are all explained. 
 
 Step 4: Analyzing
 --------------------
@@ -191,22 +202,26 @@ To learn a bit more about the FAIR principles, check out this clip from the Univ
 
 !?[Ghent University Data Stewards (2020) Knowledge Clip: FAIR data principles](https://youtu.be/2uZxFu9SFi8 "[Ghent University Data Stewards (2020) Knowledge Clip: Fair data](https://youtu.be/2uZxFu9SFi8), [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)") 
 
-**Findable** 
+Findable 
+--------------------
 
 The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the FAIRification process.^2^ Data and their metadata should always be assigned a persistent unique identifier, like a DOI and this identifier should always be included in the metadata of an archived item. Data should also always be described by rich metadata that follows discipline specific standards whenever possible.  
 
-**Accessible** 
+Accessible
+-------------------- 
 
 For data to be accessible, how data can be acquired should be clear to others. This does not mean that everyone can access all archived data all the time. It simply means that who can access data and how it can be accessed is clear. All data the underlies a publication should be freely accessible unless there are legal or ethical reasons why it cannot be shared. Even if data are sensitive, there should be a clear protocol regarding how access can be requested. Furthermore, the metadata should always be open and accessible so that other researchers can find the data and estimate if it may be useful to them prior to requesting access. 
 
 ![FAIR Data Principles](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png "[Image by Patrick Hochstenbach](https://www.ugent.be/img/doza/beleid/rdm/fair-data.png), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)")
 
 
-**Interoperable**
+Interoperable
+--------------------
 
 When data is interoperable, it can be effectively combined with other datasets. This means that data is described in enough detail that other researchers will be able to assess the data’s quality and will be able to confidently combine it with other equally standardized datasets. File type is also an import part of interoperability. You may have the best organized and documented data in the world, but if it is stored in proprietary file type that no one else can open, it won’t be of much use. Because of this, you should always opt for non-proprietary file types whenever possible. 
 
-**Reuseable** 
+Reuseable
+--------------------
 
 We discussed reusability a lot when we covered the research data life cycle, so we won’t belabor it here. In addition to making sure that your data is well documented and in an appropriate file format, a license should also be applied to your data or code that explains under what conditions your materials can be re-used. Remember that you should almost always assign a license. If no license is assigned, then the materials cannot be reused. We’ll talk more about picking an appropriate license a little later. 
 
@@ -228,6 +243,7 @@ In the following sections, we'll introduce some of the key principles, organizat
 
 The UNESCO Recommendations for Open Science^3^ 
 --------------------
+
 UNESCO stands for the United National Educational, Scientific, and and Cultural Organization, which is a specialized agency of the United Nations (UN). It's core areas of work include education, culture and cultural heritage, science, and communication. In 2021, UNESCO published the UNESCO Recommendation on Open Science, which provides an internationally agreed upon definition of Open Science as well as shard values and guiding principles that nations and organizations can use to promote inclusive, equitable, and sustainable systems of knowledge creation and dissemination. 
 
 Overall, the recommendation is a high-level document that encourages signatory countries to:
@@ -256,22 +272,88 @@ The guiding principles that are meant to help signatory countries uphold these v
 * **Flexibility:** to acknowledge that there is no one-size-fits-all way to practice open science and to encourage different pathways to practicing it while upholding the core values.
 * **Sustainability:** to be as efficient and impactful as possible by building on long-term practices, services, infrastructures and funding models to ensure participation of scientists from less-privileged countries or institutions.
 
-Collectively, these principles and values apply to development and maintenance of Open Science infrastructures, both physical and virtual and the creation of Open Scientific knowledge in the form of scientific publications, open research data, open educational resources, open source software and code, and open hardware. It also guides how researchers interact with societal actors through things like citizen science, crowd sourcing, and crowd funding, or how they engage with other knowledge systems including local communities, marginalized scholars, and indigenous peoples. 
+Collectively, these principles and values apply to development and maintenance of Open Science infrastructures, both physical and virtual and the creation of Open Scientific knowledge in the form of scientific publications, open research data, open educational resources, open source software and code, and open hardware. They also guide how researchers interact with societal actors through things like citizen science, crowd sourcing, and crowd funding, or how they engage with other knowledge systems including local communities, marginalized scholars, and indigenous peoples. 
 
 Taking into account that the needs and resources of each member state differ, the UNESCO Recommendation on Open Science does not provide a concrete roadmap for implementing Open Science globally, but it does inform Open Science policies and developments all over the world. If you would like to read the UNESCO Recommendation on Open Science, you can find it [HERE](https://doi.org/10.54677/MNMH8546). In the next section, we will discuss a set of Open Science policies shaping the Austrian scholarly landscape. 
 
-Select Open Science Policies 
+Towards How: Open Science Policies 
 --------------------
 
+While, the EU’s Open Science agenda sets the overall direction, but most researchers are more likely to encounter it through the practical requirements attached to funding. Funders such as Horizon Europe (including the ERC and programs like the Marie Skłodowska-Curie Postdoctoral Fellowships) and the Austrian Science Fund (FWF) turn those broader policy goals into concrete expectations around Open Access, FAIR data, Data Management Plans, repositories, and responsible data sharing. The details are not exactly the same, but the overall direction is quite consistent, which means that learning good Open Science and RDM practices is useful across different funding contexts.
 
+<u>Open Science in the European Union</u>
 
-The How: The LERU Roadmap for Open Science 
+Building on the broad principles described in the UNESCO Recommendation, the European Union has made Open Science a central part of European research policy, particularly through the European Research Area (ERA). The ERA is the EU framework for creating a more integrated European research system in which researchers, knowledge, technologies, and research outputs can circulate more easily across countries, and Open Science is one of the areas being advanced through it. In practice, EU action works on several levels: it translates Open Science principles into expectations for researchers, most visibly through requirements and incentives attached to EU research funding, while also investing in the wider systems needed to make Open Science possible. A major example is the European Open Science Cloud (EOSC), a federated European environment intended to connect research data, services, tools, and infrastructures and make research outputs easier to find, access, combine, and reuse. EU Open Science policy therefore concerns not only what individual researchers are expected to do, but also the infrastructure, standards, skills, incentives, and coordination needed to support more open research across Europe.
+
+<u>The Austrian Open Science Policy</u>
+
+Austria’s 2022 Open Science Policy explicitly builds on European and international developments, including the European Research Area, Horizon Europe, FAIR data principles, and EOSC. It identifies priorities such as open access, FAIR research data, research assessment, scholarly communication, research integrity, Open Science skills, citizen science, and participation in EOSC. Importantly, it emphasizes that implementing Open Science requires coordinated action from government, funders, research institutions, libraries, infrastructures, and researchers.
+
+For researchers, these national ambitions become most visible through funder and institutional policies. The Austrian policy calls for Data Management Plans to become standard, supports trusted repositories and FAIR data practices, promotes open access to publicly funded outputs, and recognizes that data management and sharing require resources. In practice, funder policies help translate these broader national goals into concrete expectations for research projects.
+
+<u>Funder Policies</u> 
+
+The EU’s Open Science agenda sets the overall direction, but most researchers are more likely to encounter it through the practical requirements attached to funding. Funders such as Horizon Europe and the Austrian Science Fund (FWF) turn those broader policy goals into concrete expectations around Open Access, FAIR data, Data Management Plans, repositories, and responsible data sharing. The details are not exactly the same, but the overall direction is quite consistent, which means that learning good Open Science and RDM practices is useful across different funding contexts.
+
+**Horizon Europe** 
+
+Horizon Europe treats Open Science as part of normal project implementation. Funded projects are expected to manage research outputs responsibly, provide immediate Open Access to peer-reviewed publications, and manage research data according to the FAIR Principles. Applicants are also expected to explain in their proposal how appropriate Open Science practices will be used in the project.
+
+In practice, researchers should:
+
+* **Prepare and regularly update a Data Management Plan (DMP)** The DMP should describe how research data will be managed throughout the project.
+Manage research data according to the FAIR Principles. Data generated by the project should be deposited in a trusted repository as soon as possible and according to the timeline established in the DMP. Some calls may additionally require use of a repository connected to EOSC.
+* **Make research data “as open as possible, as closed as necessary”** Deposited data should normally be openly accessible under a licence such as CC BY or CC0, but access may be restricted where justified—for example because of legitimate commercial interests, legal obligations, confidentiality, or other constraints. Reasons for restricting access must be documented in the DMP.
+* **Provide immediate Open Access to peer-reviewed publications** At publication, the published version or accepted manuscript must be deposited in a trusted repository and made immediately accessible, normally under a CC BY licence.
+* **Make the materials needed to validate research findings available** Where relevant, repositories should also provide information about data, software, tools, or other research outputs necessary to validate publications or reuse deposited data.
+
+A useful point to remember is that Horizon Europe does not simply require “open data.” It requires responsible FAIR data management and expects openness by default where possible, while explicitly allowing justified restrictions.
+
+**Österreichischer Wissenschaftsfonds (FWF)**
+
+The Austrian Science Fund (FWF) translates Open Science principles into concrete requirements for funded research. For projects approved under the current framework, researchers are expected to plan for good research data management, provide open access to publications, and make the research data underlying publications openly available whenever possible.
+
+In practice, researchers should:
+
+* **Prepare a Data Management Plan (DMP)** A DMP is required for FWF-funded projects and must describe how data and metadata will be collected, organized, stored, shared, published, and archived. It should be treated as a living document and updated during the project.
+* **Make peer-reviewed publications openly accessible** Publications arising wholly or partly from FWF funding must be available Open Access. This can be achieved through an eligible Open Access venue, certain transformative agreements, or immediate repository-based Green Open Access. FWF generally requires a CC BY licence.
+* **Share the data needed to support published results** Research data and metadata necessary to reproduce and verify a publication must be made openly available as soon as possible and no later than publication. If data cannot be shared for legal, ethical, or other legitimate reasons, this must be explained in the DMP.
+* **Make shared data FAIR and reusable** Data should be deposited in an appropriate repository, have a persistent identifier such as a DOI, include suitable metadata, and normally use an open licence. FWF funding can also cover eligible costs associated with preparing, archiving, and providing access to research data.
+
+The important distinction is that FWF does not require every piece of project data to be made public: open access is mandatory for the data underlying publications, while decisions about sharing other project data remain with the principal investigator and should be addressed in the DMP.
+
+<u>Policies Supporting Open Science at the University</u>
+
+A Long Way to Go: The LERU Roadmap for Open Science 
 --------------------
 
-Transparent and Reproducible Science
---------------------
+Policies and funder requirements tell us a lot about **what researchers are expected to do now**, but they do not necessarily show the full amount of work still needed to make Open Science routine and sustainable. One useful way of seeing that bigger picture is the **LERU Open Science Roadmap**. LERU is the League of European Research Universities, and its roadmap is only one interpretation of how Open Science should be implemented—but it is one we find especially useful because it looks beyond individual compliance and asks what universities themselves need to change, support, and invest in.
+
+The roadmap organizes this work around **eight pillars**:
+
+* **The future of scholarly publishing** – Moving toward publishing systems that are more open, accessible, sustainable, and supportive of wider access to research outputs.
+* **FAIR data** – Ensuring that research data can be appropriately managed, documented, preserved, discovered, accessed, and reused.
+* **The European Open Science Cloud (EOSC)** – Developing and connecting the infrastructure and services needed to support access to and reuse of research data across Europe.
+* **Education and skills** – Giving researchers and research-support staff the knowledge and practical skills needed to work openly and manage research outputs effectively.
+* **Rewards and incentives** – Ensuring that Open Science activities are recognized and valued in research careers rather than simply adding additional work without recognition.
+* **Next-generation metrics** – Developing more responsible ways of assessing research and researchers that go beyond traditional publication counts and journal-based metrics.
+* **Research integrity** – Supporting transparent, rigorous, and reproducible research practices as part of responsible research conduct.
+* **Citizen science** – Creating opportunities for members of the public and other societal actors to participate meaningfully in research.
+
+Taken together, these pillars give a fuller picture of the work involved in Open Science: **infrastructure, services, training, incentives, evaluation systems, policies, and cultural change all need attention**. This is an important distinction because current policies largely reflect the practices that have already become established enough to require; the roadmap also helps us see the areas where considerable institutional development and investment are still needed.
+
+## Why are we doing all of this? 
+Why do we put so much emphasis on Research Data Management, FAIR data, and Open Science? There are many practical reasons, but two arguments sit at the center of this course. The first is public benefit. Research is rarely an entirely private activity, and this is especially true in Europe, where a large proportion of research is supported directly or indirectly through public funding. In that sense, researchers at public universities are, at least in part, acting as public servants: society invests in research because research is expected to produce knowledge that benefits more than the individual researcher or research group. Good RDM and FAIR and Open Science practices help make that investment go further by allowing research outputs to be discovered, understood, combined, and reused rather than disappearing when a project ends.
+
+This matters because scientific progress is cumulative. New discoveries do not appear out of nowhere; they are built from previous observations, datasets, methods, software, and ideas. When those outputs are well documented and made available under appropriate conditions, other researchers can ask new questions of existing data, combine information across studies, develop new methods, and sometimes make discoveries that the original researchers never anticipated. Not every dataset is going to change the world, of course, and not every dataset can or should be completely open. But making research as open as possible and as closed as necessary increases the chances that the work we do can continue to produce value after the original project has finished.
+
+The second argument is about transparency and reproducibility. Scientific claims are more trustworthy when others can understand how they were produced. That requires more than publishing the final numbers in a paper: researchers need adequate information about the data, methods, processing decisions, analyses, software, and other steps that led from observation to conclusion. Good RDM makes those processes easier to reconstruct, FAIR practices make the relevant materials easier to find and interpret, and Open Science encourages researchers to make those processes and outputs visible wherever doing so is responsible. Together, these practices make it easier to verify findings, identify mistakes, reproduce analyses, and build confidently on previous research.
+
+There are also important ethical arguments for careful data management and responsible openness. Questions about research participants, privacy, consent, sensitive information, ownership, equity, and responsible data sharing can determine what should be shared, with whom, and under what conditions. We will return to those issues in a dedicated module on research ethics. For now, the key point is that RDM, FAIR, and Open Science are not simply administrative requirements or boxes to tick for a funder. They are part of the infrastructure that allows research to be trustworthy, reusable, and genuinely useful to the scientific community and to the public that supports it.
 
 ## Conclusion 
+--------------------
+That brings us to the end of this module. You should now have a clearer picture of what we mean by research data and metadata, how data move through the research data life cycle, and how RDM, FAIR, and Open Science fit together as part of responsible and reusable research. Before moving on, complete the knowledge check (up next) to make sure the key concepts are in place. Then, in Module 3: Data Organization, we’ll shift from the big picture to the practical details and look at how thoughtful file structures, naming conventions, and documentation can make your research easier to manage now—and much easier for you and others to understand later.
 
 ## Knowledge Check
 

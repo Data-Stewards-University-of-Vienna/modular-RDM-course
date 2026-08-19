@@ -20,7 +20,9 @@ We are often asked if students will receive ECTS credits for completing the Mood
 
 With that said, if you attend both days of the workshop, you will receive a certificate of completion and the trainers will also send a list of participants to the doctoral schools. 
 
-## What will We Learn? 
+What will We Learn?
+--------------------
+
 What a good question! We should always question what we are learning. Below you will find the primary course objectives and an outline of the course modules. Keep in mind that each module also has specific learning objective on which you should focus. 
 
 **Primary Course Objectives**
