@@ -1,6 +1,3 @@
-
-
-
 <!--
 authors: Lukas Kraiger, Simone Spedicato 
 
@@ -15,42 +12,28 @@ language: en
 # Data Storage, Sharing, and Security
 
 ## Learning Objectives
+Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
+
+Your research data is easily one of the most valuable thing you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic.
 
 By the end of this chapter, you will be able to:
 
-- select appropriate storage solutions for research data,
-- explain the principles of good data storage and backup,
-- identify university-supported storage services.
-
----
-
-Research data is often one of the most valuable outputs of a project. Losing data can mean losing months or even years of work. For this reason, planning where and how your data will be stored should begin **before** data collection starts.
-
-Storage planning is also part of good research data management. It helps ensure that data remain accessible throughout the project, can be shared with collaborators when needed, and are protected against accidental loss.
-
-Before choosing a storage solution, you might want consider the following questions:
-
-- How much data will your project generate?
-- How quickly do you need to access the data?
-- Who needs access?
-- Does your project involve sensitive or confidential information?
-- How long should the data be kept after the project ends?
-
-Even a rough estimate of these requirements will help you choose an appropriate storage solution.
+* Select the right storage solutions for your specific research data.
+* Explain the basic principles of secure data storage and backup.
+* Identify and use the storage services supported directly by the University of Vienna.
 
 ## Choosing Appropriate Storage
 
-Different research projects have different storage requirements. A project consisting mainly of text documents has different needs from one producing terabytes of sequencing or imaging data.
+Not all research data is created equal. If your PhD consists mostly of text documents, your storage needs will look very different from someone generating terabytes of high-resolution images or genetic sequencing data.
 
-Whenever possible, you should use **university-supported storage services**. These services are professionally managed and typically provide
+While it is tempting to just use a personal Dropbox or buy an external hard drive, we strongly recommend using the university’s official storage services (managed by the ZID). Think of them as a secure, worry-free home for your research. By using them, you get:
 
-- secure authentication,
-- controlled access permissions,
-- regular backups,
-- technical support,
-- reliable long-term operation.
+* Automatic backups: If your laptop gets stolen or you spill coffee on it, your data is still safe and sound.
+* Easy sharing: You can easily show your work to your supervisor or collaborators without sending massive email attachments.
+* Safety and privacy: Your data is kept secure and complies with privacy laws, which is especially important if you are working with sensitive information.
+* Tech support: If something goes wrong, there is an IT team ready to help you sort it out.
 
-Using institutional services also makes collaboration easier and reduces the risk of data loss compared with relying solely on personal computers or external hard drives.
+Here is a quick cheat sheet of the different storage options available to you at the University of Vienna:
 
 **University Storage Services**
 
@@ -71,27 +54,31 @@ Using institutional services also makes collaboration easier and reduces the ris
 
 ## Backups and Data Preservation
 
-Even the best storage solution cannot completely eliminate the risk of accidental deletion, hardware failure, theft, or ransomware. Regular backups remain an essential part of research data management.
+Even with the absolute best setup, things can still go wrong. Laptops get stolen, coffee gets spilled, hard drives crash, and sometimes you just accidentally hit "delete" on a file you actually needed. That is why having a solid backup routine is your ultimate safety net.
+
+![XKCD Data Trap](https://imgs.xkcd.com/comics/backups.png " [Backups by XKCD](https://xkcd.com/1718/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
 **The 3-2-1 Rule**
 
-For projects that do not involve sensitive data, the 3-2-1 rule provides a simple guideline:
+If your project doesn't involve highly sensitive data, the easiest way to keep your work safe is the 3-2-1 Rule:
 
-- Keep **three copies** of your data.
-- Store them on **two different types of storage media**.
-- Keep **one copy at a different physical location**.
+* 3 copies: Keep your main working file and at least two backup copies.
+* 2 different types of media: Save them on different devices (for example, your laptop’s hard drive and a university cloud service).
+* 1 offsite location: Keep at least one copy in a different physical place (like storing it on the university network rather than on an external drive sitting right next to your laptop at home).
 
 Many university storage services already include automated backups, but it is important to understand what is—and is not—being backed up.
 
-**Test Your Backups**
+**Two Things to Keep in Mind:**
 
-A backup is only useful if it can be restored successfully. Periodically test that files can be recovered and opened correctly, and verify that important metadata and permissions have been preserved.
+1. Test your backups (seriously!)
 
-**Storage Media Do Not Last Forever**
+A backup is only helpful if it actually works. Every now and then, try restoring a few files from your backup just to make sure they open properly and nothing is corrupted. You don't want to find out your backup system has been failing for months on the day your laptop dies.
 
-No storage medium is permanent. Hard drives fail, USB flash drives can become unreadable, and optical media degrade over time. Professionally managed institutional storage reduces these risks through monitoring, maintenance, and migration to newer storage systems when necessary.
+2. Hard drives don't live forever
 
-## Data Security (need to add some links)
+USB sticks get lost, external hard drives crash, and even CDs degrade over time. No physical storage device lasts forever. This is another major perk of using the university's managed storage—their IT team constantly monitors the hardware and moves your data to new systems before the old ones fail.
+
+## Data Security (a bit too lengthy, need to rework and add some links)
 
 Protecting research data is about more than preventing data loss. It also means ensuring that only authorised people can access the data and that information is handled in accordance with legal, ethical, and institutional requirements.
 
@@ -135,16 +122,18 @@ Depending on the project, appropriate measures may include:
 
 ## Sharing Data During a Project
 
-Research is, as we know, increasingly collaborative. Sharing data within a project allows team members to reproduce analyses, build on previous work, and avoid unnecessary duplication.
+Research is rarely a solo sport. Whether you are collaborating with your supervisor, working with a lab mate, or teaming up with researchers on the other side of the world, you will need to share files.
 
-When sharing data, you should consider consider:
+But we’ve all been there: emailing files back and forth, ending up with confusing filenames like data_analysis_v2_final_corrected_FINAL.csv, and having no idea which version is actually the latest one.
 
-- who requires access,
-- what level of access they need,
-- how changes to files will be tracked,
-- whether the data contain sensitive information.
+Before you hit "share," take a quick second to ask yourself:
 
-Whenever possible, use university-supported collaboration platforms rather than exchanging files by email or using personal cloud storage.
+* Who actually needs to see this? (Does your whole team need access, or just one person?)
+* What can they do with it? (Do they just need to read/view the data, or do they need to edit it?)
+* How will we track changes? (If three people edit a file at the same time, will it create a mess?)
+* Is any of it sensitive? (If yes, standard email is a big no-no).
+
+To keep things organized and secure, step away from email attachments and personal Dropboxes. Instead, use the university-supported tools built specifically for this:
 
 **Choosing the Right Tool**
 
@@ -154,7 +143,7 @@ Different collaboration tasks require different services.
 |----------|--------------------|
 | Collaborative document editing | OneDrive, u:cloud |
 | Team file storage | Share, u:cloud Pro |
-| Source code and version control | GitLab |
+| Source code and version control | GitHub, GitLab |
 | Sending large files | ACONET FileSender |
 
 For projects involving external collaborators, ensure that sharing arrangements comply with ethical approvals, funding requirements, and applicable legislation.
@@ -231,3 +220,30 @@ Planning ahead helps avoid interrupted access to important research data and ens
 If data or research materials need to move to another institution, additional agreements—such as a Data Transfer Agreement (DTA) or Material Transfer Agreement (MTA)—may be required.
 
 Discuss these questions with your supervisor/RDM Team/Legal Help Desk and complete any required offboarding procedures before your university account is closed (how long?).
+
+Here are three quiz questions matching your format and friendly tone, based on the sections we just worked on:
+
+## Quiz
+
+Test your understanding of data storage, security, and sharing.
+
+**Question 1: The 3-2-1 Backup Rule**
+According to the 3-2-1 backup rule, what is the safest way to keep your active research data safe?
+
+[( )] Keep 3 copies of your data on 3 different USB sticks in your desk drawer.
+[(X)] Keep 3 copies of your data, on 2 different types of media (e.g., your laptop and the cloud), with 1 copy stored in a different physical location.
+[( )] Keep 1 copy on your laptop, but back it up once a year to a hard drive at your parents' house.
+
+**Question 2: Handling Sensitive Data**
+You are about to start a project that involves interviewing human participants. When is the best time to contact the Research Data Management (RDM) Support team?
+
+[( )] Only at the very end of your PhD, when you are ready to delete the files.
+[( )] Only if you accidentally lose the data and need someone to try and recover it.
+[(X)] Before you start collecting any data, so they can help you set up secure storage and encryption from day one.
+
+**Question 3: Sharing with Collaborators**
+You need to work on a spreadsheet with a colleague from another university. What is the best way to collaborate without creating version chaos?
+
+[( )] Emailing the file back and forth, adding your initials to the filename (e.g., `data_v2_final_JS.xlsx`).
+[(X)] Using a university-supported sharing platform like u:cloud Pro or OneDrive instead of personal accounts or email.
+[( )] Saving it to a personal, free Dropbox account because it is quicker than checking university options.
