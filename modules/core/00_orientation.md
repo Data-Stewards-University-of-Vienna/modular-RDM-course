@@ -23,7 +23,7 @@ With that said, if you attend both days of the workshop, you will receive a cert
 What will We Learn?
 --------------------
 
-What a good question! We should always question what we are learning. Below you will find the primary course objectives and an outline of the course modules. Keep in mind that each module also has specific learning objective on which you should focus. 
+What a good question! Below you will find the primary course objectives and an outline of the course modules. Keep in mind that each module also has specific learning objective on which you should focus. 
 
 **Primary Course Objectives**
 
