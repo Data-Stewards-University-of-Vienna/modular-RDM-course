@@ -18,7 +18,8 @@ The content in the modules should follow this simple structure:
 3. Content 
 4. Conclusion
 5. Knowledge Check
-   - 3-5 question quiz that includes explanations of correct answers.  
+   - 3-5 question quiz that includes explanations of correct answers.
+6. Bibliography for the module
 
 ## How to (re-)use the course
 The online modules are written in LiaScript, a Markdown dialect, making it convenient to customize them for your research institution. For assistance, please refer to the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1). We advise to provide participants with the online course approximatly two weeks before the in-person workshop so that they can progress through the modules at their own pace. 
