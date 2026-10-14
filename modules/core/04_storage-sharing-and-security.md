@@ -14,7 +14,7 @@ language: en
 ## Learning Objectives
 Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
 
-Your research data is easily one of the most valuable thing you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic.
+Your research data is easily one of the most valuable things you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic or panic in general.
 
 By the end of this chapter, you will be able to:
 
@@ -41,13 +41,13 @@ Here is a quick cheat sheet of the different storage options available to you at
 | -----------|---------------|-------|---------|----------| -----------
 |[Personal Online Storage Space](https://zid.univie.ac.at/en/online-storage-space/) | Personal file storage | 10 GB; Expandable with justification |None |Free|Immediate|
 |[Share](https://zid.univie.ac.at/en/share/) | File storage and sharing; Managed through organizational unit| Unlimited |Between employees and students; Extended u:account available for guests  |EUR 0.03 per GB/year|Request Required|
-|[u:cloud](https://zid.univie.ac.at/en/ucloud/) | Personal file storage and sharing| 100 GB  |Between employees and students; Extended u:account available for guests  |Free|Immediate|
+|[u:cloud](https://zid.univie.ac.at/en/ucloud/) | Personal file storage and sharing| 100 GB  |Between employees and students; Extended u:account available for guests; Non-university users can edit files |Free|Immediate|
 |[u:cloud pro](https://zid.univie.ac.at/en/ucloud-pro/)| File storage and sharing; For projects or teams| 250 GB; expandable with justification  |Between employees and students; Outside users can upload and download  |EUR 0.03 per GB/year|Request Required|
 |[One Drive by Microsoft 365](https://zid.univie.ac.at/en/microsoft-365/)| File storage and sharing| 50 GB|Internal and external sharing; Non-university users can edit files|Comes together with MS365 license for university employees|Immediate|
 |[Gitlab*](https://zid.univie.ac.at/en/gitlab/)| Storing code; Version control| Unlimited; Code and supporting documentation|	Permissions and licensing options available|Free|Request Required|
 |[Central Backup](https://zid.univie.ac.at/en/central-backup/)| For files not otherwised backed-up; Requires some user maintenance| Unlimited|None|Free|Request Required|
 
-*At UNIVIE you are welcome to set-up your own Github or Gitlab account. 
+*At UNIVIE you are welcome to set-up your own Github or Gitlab account. (@Simone: What does this mean?) 
 
 
 > **Tip:** If you are unsure which service best suits your project, contact the Research Data Management Support team before your project begins.
@@ -78,7 +78,7 @@ A backup is only helpful if it actually works. Every now and then, try restoring
 
 USB sticks get lost, external hard drives crash, and even CDs degrade over time. No physical storage device lasts forever. This is another major perk of using the university's managed storage—their IT team constantly monitors the hardware and moves your data to new systems before the old ones fail.
 
-## Data Security (a bit too lengthy, need to rework and add some links)
+## Data Security (a bit too lengthy, need to rework and add some links // Ithink it is fine I added some links//)
 
 Protecting research data is about more than preventing data loss. It also means ensuring that only authorised people can access the data and that information is handled in accordance with legal, ethical, and institutional requirements.
 
@@ -88,10 +88,10 @@ Simple habits can significantly reduce the risk of data loss or unauthorised acc
 
 - Use strong, unique passwords and, where available, enable multi-factor authentication.
 - Keep your operating system and software up to date.
-- Lock your computer when leaving your workspace.
-- Be cautious of phishing emails and suspicious links or attachments.
+- Lock your computer when leaving your workspace (on Windows try Windows Key and L).
+- Be cautious of [phishing emails](https://zid.univie.ac.at/it-security/ransomware#c6686) and suspicious links or attachments .
 - Store research data on university-managed systems whenever possible.
-- Report suspected security incidents promptly according to university procedures.
+- [Report suspected security incidents](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/10) promptly according to university procedures .
 
 Security is not only a technical issue—it is also part of responsible research practice.
 
@@ -116,9 +116,11 @@ Depending on the project, appropriate measures may include:
 - minimising the number of copies,
 - secure deletion when data are no longer required.
 
+
+
 > **Important**
 >
-> If your project involves sensitive data, contact the Research Data Management Support team (rdm@univie.ac.at) before data collection begins. We can help identify appropriate storage solutions and security measures.
+> Sensitive data require additional protection, and if your project involves sensitive information, contact the Research Data Management Support team (rdm@univie.ac.at) before data collection begins. They can help you identify suitable storage solutions and security measures for your project. Encryption may also be necessary in some cases, but it can introduce problems such as being unable to decrypt files later, so it should only be used when absolutely necessary and after careful consideration.
 
 ## Sharing Data During a Project
 
@@ -131,7 +133,7 @@ Before you hit "share," take a quick second to ask yourself:
 * Who actually needs to see this? (Does your whole team need access, or just one person?)
 * What can they do with it? (Do they just need to read/view the data, or do they need to edit it?)
 * How will we track changes? (If three people edit a file at the same time, will it create a mess?)
-* Is any of it sensitive? (If yes, standard email is a big no-no).
+* Is any of it sensitive? (If yes, standard email or a Link without a password is a big no-no).
 
 To keep things organized and secure, step away from email attachments and personal Dropboxes. Instead, use the university-supported tools built specifically for this:
 
@@ -150,7 +152,7 @@ For projects involving external collaborators, ensure that sharing arrangements 
 
 Remember that not every dataset should be shared with every collaborator. Access should be limited to those who need it for their role in the project.
 
-## Data Ownership
+## Data Ownership (@Simone I am not sure if supervisors can help and if this is suitable for here)
 
 Researchers often think of the data they create as "their data", but ownership and responsibility are not always the same.
 
@@ -219,7 +221,7 @@ Planning ahead helps avoid interrupted access to important research data and ens
 
 If data or research materials need to move to another institution, additional agreements—such as a Data Transfer Agreement (DTA) or Material Transfer Agreement (MTA)—may be required.
 
-Discuss these questions with your supervisor/RDM Team/Legal Help Desk and complete any required offboarding procedures before your university account is closed (how long?).
+Discuss these questions with your supervisor/RDM Team/Legal Help Desk and complete any required offboarding procedures before your university account is closed. Normally you have quite some time but we all know what happens when life happens. In general you have 4 years to still access your data but after that all of your personal storage like your ucloud will be deleted and supervisors and collaborators are left with nothing. So it is advisable to safe your data somewhere central where they still have access. [More information](https://zid.univie.ac.at/uaccount-ablauf#c6401)
 
 Here are three quiz questions matching your format and friendly tone, based on the sections we just worked on:
 
