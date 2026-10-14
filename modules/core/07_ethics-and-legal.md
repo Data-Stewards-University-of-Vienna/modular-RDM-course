@@ -9,17 +9,17 @@ language: en
 
 -->
 ## Ethical and Legal Aspects of RDM
-Here's the deal. Issues related to research ethics and legal questions are a massive topic and we can't cover everything during this course. Frankly, we wouldn't even be qualified to do that.What we want to do here is draw you attention to a few topics, so that you are aware of them. By the end of this section, we hope you will have a developed a sense for when your project may involve legal or ethical issues, so that you can ask questions and get the help you need. 
+Here's the deal. Issues related to research ethics and legal questions are a massive topic and we can't cover everything during this course. Frankly, we wouldn't even be qualified to do that. What we want to do here is draw you attention to a few topics, so that you are aware of them. By the end of this section, we hope you will have a developed a sense for when your project may involve legal or ethical issues, so that you can ask questions and get the help you need. 
 
 
 ### Objectives
 1. Develop a sense for when your project involves legal or ethical issues that require consideration.
-2. Understand the difference between Responsible Research and Innovation (RRI)and Research Integrity. 
+2. Understand the difference between Responsible Research and Innovation (RRI) and Research Integrity. 
 3. Know where you can find help with legal and ethical questions at UNIVIE.
 
 ### Responsible Research and Innovation (RRI) and Research Ethics
 
-Let’s talk about the difference between Responsible Research and Innovation (RRI) and Research Ethics. According to the European Union’s Horizon 2020 research program, RRI is defined as “an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation” (European Commission, n.d.). There are two aspects of this definition worth focusing on for the purpose of this introductory section. First, RRI refers to “potential implications and societal expectations.” Second, it’s about “the design of inclusive and sustainable research”. These are two traditionally important aspects of the ethics of science: how research is set up or designed, and what societal consequences this setup has. What is important here is that we consider these aspects of research when speaking of making it ethical.^3^
+Let’s talk about the difference between Responsible Research and Innovation (RRI) and Research Ethics. According to the European Union’s Horizon 2020 research program, RRI is defined as “an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation” (European Commission, n.d.). There are two aspects of this definition worth focusing on for the purpose of this introductory section. First, RRI refers to “potential implications and societal expectations.” Second, it’s about “the design of inclusive and sustainable research”. These are two traditionally important aspects of the ethics of science: how research is set up or designed, and what societal consequences this setup has. What is important here is that we consider these aspects of research when speaking of making it ethical.^3^ //I am not sure what that is?//
 
 In contrast, Research Integrity refers to an “active adherence to the ethical principles and professional standards essential for the responsible practice of research” [(Korenman 2006)](https://ori.hhs.gov/education/products/ucla/default.htm). What this term brings into the discussion about research ethics are “professional standards” and “responsible practice”. Unlike in RRI, the question is no longer on the ethics of scientific output and its consequences, but on the ethics of how scientists conduct themselves in practice. Research integrity, in a sense, captures the ethics of the work done “behind the scenes”, outside the view of the general public^3^.
 
@@ -36,8 +36,15 @@ Third, RRI and research integrity can address how the scientific process is impa
 | Who is interacting?     |Researchers working with the public or study participants     | Researchers working with other researchers    |
 | What shapes research?    | Public expectations and perceptions    | Institutional policy and culture    |
 
+### General Thoughts about Research Ethics
 
-## Ethics
+Even if ethical and legal questions seem far removed from your everyday work, it is important to consider them—especially during the planning phase of a project. Ethical issues are not limited to research involving deception or obvious risks. They can also arise in seemingly harmless projects, for example through the way data are collected, stored, shared, or interpreted.
+
+Try to consider your project from the perspective of the people, communities, or animals affected by it. If you were a research participant, would you feel adequately informed, respected, and protected? If your research uses existing data, have the people represented in those data been treated fairly, and are their privacy and rights adequately protected?
+
+Researchers have a responsibility to minimise potential harm and to ensure that any risks are justified by the value of the research. This includes avoiding unnecessary physical, psychological, social, economic, or environmental harm. Where research involves animals, researchers must also carefully consider animal welfare and follow the relevant legal and ethical requirements.
+
+Thinking about these questions early can help you identify potential concerns, adapt your research design where necessary, and seek advice before problems arise.
 
 ### The CARE Principles 
 The CARE principles for Indigenous Data Governance recognize that current movements towards FAIR and Open research fail to fully engage with the needs, rights, and interests of Indigenous communities. While the FAIR principles encourage a more generous and open scientific environment, they do not take into account power differentials and historic contexts/ trajectories. Overall, the CARE principles address the complex of social, political, and economic relationships that have existed between Indigenous Peoples, researchers, and the broader world. The four CARE principles are:
@@ -45,6 +52,7 @@ The CARE principles for Indigenous Data Governance recognize that current moveme
 * **Collective Benefit:** Data ecosystems should be developed in a way that ensures Indigenous Peoples derive benefit from the data. 
 * **Authority to Control:** Indigenous’ people’s rights and interests in Indigenous data should be recognized and they should be empowered to control how data is used. Indigenous Peoples should be able to establish how Indigenous lands, territories, resources, knowledge, geographical indicators, cultures, and bodies are represented and identified within data. 
 * **Responsibility:** Researchers working with Indigenous data have a responsibility to understand and communicate how their work is used to support the self-determination and collective benefit of Indigenous communities. 
+
 * **Ethics:** The rights and wellbeing of Indigenous Peoples should be at the forefront of all research practice. 
 
 ![GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg "[GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
@@ -58,8 +66,24 @@ The CARE principles for Indigenous Data Governance recognize that current moveme
 - Hardware License
 - Machine Learning License
 
-**What are licenses?**
-A license is a clear legal statement that specifies what other people are allowed to do with your work and under what conditions.
+
+**What are licences?**
+
+A licence is a legal statement attached to your work. It explains what other people are allowed to do with it and which conditions they need to follow.
+
+For example, a licence can specify whether other people may:
+
+- read, download, and share your work;
+- copy or reuse your data, text, images, code, or other materials;
+- adapt or build on your work;
+- use your work for commercial purposes; and
+- whether they have to name you as the original creator.
+
+Without a licence, it may be unclear whether other people are allowed to reuse your work. In many cases, your work is automatically protected by copyright as soon as you create it. This means that others generally need your permission before they can copy, share, or adapt it.
+
+By choosing a licence, you make your intentions clear. You can give others permission to use your work in specific ways without requiring them to ask you individually.
+
+For example, you may choose a licence that allows people to share and adapt your work as long as they give you credit. Alternatively, you may choose a more restrictive licence that allows sharing but does not permit commercial use or changes to the work.
 
 **How do you assign a license?**
 * Ensure that you are the owner of the output OR that you have been given the right to assign a license for the output. 
@@ -97,12 +121,21 @@ NOTE: add overview table of CC licenses
 * GNU General Public Licenses (GPL) and variations
 * Apache
 
-At end: what happens if I don't apply a license? 
+**Why use different licences for data and software?**
+
+Data and software are reused in different ways, so they should usually have different licences.
+
+Research data are often copied, combined, analysed, or visualised. Licences such as **CC0** or **CC BY** can make it clear whether others may reuse and share the data.
+
+Software is copied, run, modified, and redistributed. It needs a software-specific licence, such as the **MIT Licence**, **Apache License 2.0**, or **GPL**, which covers issues that are relevant to source code.
+
+Creative Commons licences are generally suitable for data and documentation, but they are not usually recommended for software. Using an appropriate licence for each output makes reuse easier and reduces legal uncertainty.
 
 ## General Legal 
 - Nagoya Protocol
 - Animal Research
 - Human Research
+
 ### Working with Animals 
 If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. Ethics aside, keep in mind that many journals will ask to see a record of your permits or ethics board approvals before they will agree to publish you research, so be sure to ask questions early and to save important documentation. 
 
@@ -126,17 +159,62 @@ At UNIVIE you could contact the [Research Services](https://forschungsservice.un
 - Data Protection and GDPR
     - What is sensitive data?
     - Who is protected?
-### General Data Protection Regulation (GDPR)
+
+### Working with Humans or General Data Protection Regulation (GDPR)
 If your research project involves the processing of data concerning living people, it may be subject to the General Data Protection and Regulation (GDPR). The GDPR is the strongest privacy and security law in the world and has been applied since May of 2018. The GDPR defines the rights of individuals whose data may be stores, the obligations of those processing personal data, methods for ensuring compliance, and sanctions for those who breach the rules. These penalties can be severe and GDPR regulations should be taken very seriously.
 
 Personal data relating to an identifiable person falls under the GDPR. This includes information about research participants, but also the project team members too. There are also special categories of data that are considered sensitive which include race, ethnic origin, political involvement or opinions, religion, trade union memberships, genetics, biometrics, health indicators, and sexual orientation and behaviors. Information derived from a person’s physical and mental health data is also protected. If you would like to work with any of these kinds of data, talk with your supervisor early during the planning phase of your project. Additionally, it may also be advisable or necessary to consult with the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). If you would like help contacting them, you can consult with your data steward or contact the UNIVIE RDM team (rdm@univie.ac.at). 
 
+## Consent forms, study information, and debriefing
 
-Attention: the following sections are more focused on life sciences but if you are interested you can still read through them but you can also skip them
-======================
+When your research involves human participants, you will often need to obtain their **informed consent** before collecting data. Informed consent means that participants receive clear and sufficient information about the study and agree to take part voluntarily.
 
-- Consent
-    - Consent forms
+Consent is more than signing a form. It is a process: participants should be informed before the study begins, treated respectfully throughout their participation, and given relevant information after the study has ended.
+
+### Providing study information
+
+Before deciding whether to take part, participants should receive a clear **participant-information sheet** or study-information page. This should be written in language that the intended participants can understand and should avoid unnecessary technical terms.
+
+The information provided should normally include:
+
+- the purpose of the study;
+- who is conducting and funding the research;
+- how to contact the researchers;
+- what participants will be asked to do, such as completing a survey, taking part in an interview, or being recorded;
+- how long participation is expected to take;
+- what types of data will be collected;
+- how the data will be stored, protected, used, and, where relevant, shared;
+- whether participants will be anonymous, pseudonymised, or identifiable;
+- possible risks, discomforts, and benefits;
+- whether participants will receive compensation or reimbursement;
+- that participation is voluntary; and
+- how participants can withdraw from the study and whom they can contact with questions or concerns.
+
+Participants should have enough time to consider this information and an opportunity to ask questions before they consent.
+
+### Documenting consent
+
+A consent form documents that a participant has understood the relevant information and has agreed to take part. In many studies, participants confirm their consent by signing a form. In online research, consent may be collected through a digital statement that participants must actively agree to before continuing.
+
+A written signature is not always the best option. For example, in research on sensitive topics, collecting signatures may create an unnecessary link between a participant’s identity and their responses. The appropriate way to obtain and document consent depends on the research design, the participants, and the data being collected.
+
+Participants should also be informed that they may withdraw their consent without negative consequences. However, once data have been anonymised or included in an aggregated analysis, it may no longer be possible to identify and remove an individual participant’s data. This should be explained clearly in advance.
+
+### Debriefing participants
+
+After participating, people should usually receive a **debriefing**. A debriefing provides information about what happened in the study and gives participants an opportunity to ask questions or raise concerns.
+
+A debriefing may include:
+
+- a reminder of the study’s purpose;
+- further information that was not provided before the study;
+- an explanation of any unusual procedures;
+- contact details for the research team; and
+- information about relevant support services, particularly if the study addressed sensitive or potentially distressing topics.
+
+Debriefing is especially important when the study involves deception or does not disclose its full purpose in advance. In such cases, researchers should explain why this was necessary, provide the missing information as soon as possible, and give participants the option to withdraw their data where feasible.
+
+Research involving children, people with limited capacity to consent, sensitive personal data, health information, or potentially vulnerable groups may be subject to additional ethical and legal requirements. If you are unsure about the information, consent, or debriefing requirements for your project, consult your supervisor, the relevant ethics committee, or contact the Research Data Management Support team (rdm@univie.ac.at).
 
 
 ## Conclusion
@@ -154,7 +232,7 @@ Attention: the following sections are more focused on life sciences but if you a
 
 
 ### Quiz
-Last quiz! We promise. Each question has at least one correct answer, but there can also be multiple correct answers. 
+Each question has at least one correct answer, but there can also be multiple correct answers. 
 
 Sample collection and export processes are the same in most countries. 
 
