@@ -1,3 +1,12 @@
+<!--
+authors: Emily J. Kate, Franziska Bauchinger
+
+email: emily.jean.kate@univie.ac.at, franziska.bauchinger@univie.ac.at
+version:  1.0
+
+language: en
+
+-->
 # Orientation
 **Welcome to Research Data Management for Ph.D. Candidates in -Insert Faculty of Discipline-!** 
 
@@ -12,7 +21,6 @@ This course is designed around a concept called “blended learning”, which is
 **Will We be Graded?**
 
 Diligent student that you are, you may be wondering about assignments, quizzes, and grades. The simple answer is that there are no grades. You signed-up for this course because you have an interest in learning more about RDM. We agreed to teach the course because we like teaching about RDM and think students are the most fun to support. Throughout the Moodle modules, there are some self-knowledge quizzes. Most are multiple-choice and you can attempt them as often as you like. No one is keeping score. Actually, the code we used to build this course is digitally incapable of it.
-
 
 **What about ECTS Credits?** 
 
