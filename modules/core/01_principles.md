@@ -8,7 +8,7 @@ language: en
 
 -->
 # Key Concepts and Principles 
-Welcome to Module 1! In this module, we’ll build the foundation for the rest of the course by looking at what research data actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's jump in! 
+Welcome to Module 1! //the 2 confused me when looking at our file names// In this module, we’ll build the foundation for the rest of the course by looking at what research data actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's jump in! 
 
 Objectives
 -------------------- 
@@ -36,12 +36,18 @@ What a mouthful, but the punchline is that your research data is a lot more than
 
 Alright, now that we know what research data is, we can move onto metadata and that mysteriously bureaucratic phrase “research data management”. I bet the people who work in the RDM department are a bunch of boring pencil pushers…oh wait…I’m being told we work in that department…but I’m not boring and I rarely push pencils. 
 
+// I really love the writing of this section I wonder if we can also add some of this to other sections of the course so it feels more coherent//
+
 What is Metadata
 --------------------
 
 In the words of Mugatu from the legendary film *Zoolander*, metadata is “so hot right now.” Despite its seemingly sudden popularity, you might be wondering how to define metadata and what it means for your research. The University of Vienna defines metadata as information that is “used to describe managed resources in a unique and structured manner. The unique structure enables users to search for, find, and select relevant resources. Metadata are a means of communication between producers and users of research data, and are crucial for making data findable.” While accurate, perhaps this definition isn’t the most helpful for someone who is trying to figure how they can document their data more fully. To get a more hands-on explanation, take a look at this video from the University of Ghent.
 
 !?[Ghent University Data Stewards (2020) Knowledge Clip: Metadata](https://youtu.be/DW2T_cnqKPU "[Ghent University Data Stewards (2020) Knowledge Clip: Metadata](https://youtu.be/DW2T_cnqKPU), [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)") 
+
+In practice, metadata is simply the information that helps explain your data. It can be as basic as a title, the name of the creator, the date of collection, and a short description of what the data contain.
+
+Good metadata helps others—and your future self—find, understand, and reuse your data. For example, if someone opens a file called `final_data_v2.csv`, metadata can explain what the file contains, what the columns mean, and how the data were created.
 
 Essentially, metadata is data about your data and there are a few types of metadata you should think about: **administrative metadata**, **structural metadata**, and **descriptive metadata**. Let’s look at each type in a little more detail.
 
@@ -71,7 +77,7 @@ Our friends at Ghent University are also really passionate about RDM and they cr
 
 Finished watching? So now you know that research data management means ensuring that your data are well organized, documented, securely stored, eventually archived, findable, and reusable by others whenever possible. This might seem overwhelming, but never fear! The Research Data Management Team at the University of Vienna is here to help. 
 
-We have a handy website at rdm.univie.ac.at and you can email us anytime at rdm@univie.ac.at. If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. 
+We have a handy website at rdm.univie.ac.at and you can email us anytime at rdm@univie.ac.at. If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. //Should we list the mail adresses here maybe?//
 
 * Faculty of Life Sciences 
 * Centre for Microbiology and Environmental Systems Science (CeMESS) 
@@ -136,7 +142,7 @@ When data is imported from existing sources, like data downloaded from a reposit
 
 After data processing, clean data is ready for analysis and should therefore be available to the members of the project team that need to perform the next steps. Data processing is important to ensure good quality of the collected data and to prepare it for meaningful data analysis. Accurate data processing is also essential for combining two or more datasets into a single dataset. An accurate documentation of every step done during data processing is key for the reproducibility of your result. Processing data correctly makes it easy to arrange, easy to analyse, and saves time.^1^
 
-Also, remember that when you work with sensitive or protected data, you should pseudonymize or anonymize your data during the processing phase whenever possible. You should also use discipline specific methods of encoding variables if they are available, and you should keep careful records of how data was pseudonymized or anonymized. It’s never a bad idea to also maintain a codebook where your vari ables are all explained. 
+Also, remember that when you work with sensitive or protected data, you should pseudonymize or anonymize your data during the processing phase whenever possible. You should also use discipline specific methods of encoding variables if they are available, and you should keep careful records of how data was pseudonymized or anonymized. It’s never a bad idea to also maintain a codebook where your variables are all explained. 
 
 Step 4: Analyzing
 --------------------
