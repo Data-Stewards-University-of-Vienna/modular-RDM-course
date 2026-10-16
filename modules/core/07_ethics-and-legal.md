@@ -8,27 +8,34 @@ version:  1.0
 language: en
 
 -->
-## Ethical and Legal Aspects of RDM
-Here's the deal. Issues related to research ethics and legal questions are a massive topic and we can't cover everything during this course. Frankly, we wouldn't even be qualified to do that. What we want to do here is draw you attention to a few topics, so that you are aware of them. By the end of this section, we hope you will have a developed a sense for when your project may involve legal or ethical issues, so that you can ask questions and get the help you need. 
+# Ethical and Legal Aspects of RDM
+Here's the deal. Issues related to research ethics and legal questions are a massive topic and we can't cover everything during this course. Frankly, we wouldn't be qualified to do that. What we want to do here is draw your attention to a few topics. By the end of this section, we hope you will have a developed a sense for when your project may involve legal or ethical issues, so that you can ask questions and get the help you need. 
 
-
-### Objectives
+Objectives
+-------------------- 
 1. Develop a sense for when your project involves legal or ethical issues that require consideration.
-2. Understand the difference between Responsible Research and Innovation (RRI) and Research Integrity. 
-3. Know where you can find help with legal and ethical questions at UNIVIE.
 
-### Responsible Research and Innovation (RRI) and Research Ethics
+2. Know where you can find help with legal and ethical questions at UNIVIE.
 
-Let’s talk about the difference between Responsible Research and Innovation (RRI) and Research Ethics. According to the European Union’s Horizon 2020 research program, RRI is defined as “an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation” (European Commission, n.d.). There are two aspects of this definition worth focusing on for the purpose of this introductory section. First, RRI refers to “potential implications and societal expectations.” Second, it’s about “the design of inclusive and sustainable research”. These are two traditionally important aspects of the ethics of science: how research is set up or designed, and what societal consequences this setup has. What is important here is that we consider these aspects of research when speaking of making it ethical.^3^ //I am not sure what that is?//
+Introduction
+-------------------- 
+In this module, we'll cover a lot of different topics. First, we'll briefly address Responsible Research and Innovation and Research Integrity, which provide a backbone for modern research ethics. Within that section, we'll also address the CARE principles. Next, we'll jump into some common legal legal issues within research. Not all of them will be relevant to your work, but it's likely that at least one topic will be related to something that interests you. We'll address data ownership, licensing data and outputs, working with imported samples, studies involving animals and humans, and relevant legal frameworks and agreements you might encounter. We'll also direct you towards people at the university who can help you with these issues. Let's get started! 
 
-In contrast, Research Integrity refers to an “active adherence to the ethical principles and professional standards essential for the responsible practice of research” [(Korenman 2006)](https://ori.hhs.gov/education/products/ucla/default.htm). What this term brings into the discussion about research ethics are “professional standards” and “responsible practice”. Unlike in RRI, the question is no longer on the ethics of scientific output and its consequences, but on the ethics of how scientists conduct themselves in practice. Research integrity, in a sense, captures the ethics of the work done “behind the scenes”, outside the view of the general public^3^.
+## Responsible Research and Innovation (RRI) and Research Integrity
+
+Let’s talk about the difference between Responsible Research and Innovation (RRI) and Research Ethics. According to the European Union’s Horizon 2020 research program, RRI is defined as “an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation” (European Commission, n.d.). There are two aspects of this definition worth focusing on for our purposes. First, RRI refers to “potential implications and societal expectations.” Second, it’s about “the design of inclusive and sustainable research”. These are two important aspects of the ethics of science: how does a project's design impact those who are participating that project and how could the outcomes of that project impact society, especially vulnerable communities, both human and biological. 
+
+In contrast, Research Integrity refers to an “active adherence to the ethical principles and professional standards essential for the responsible practice of research” [(Korenman 2006)](https://ori.hhs.gov/education/products/ucla/default.htm). What this term brings into the discussion about research ethics are “professional standards” and “responsible practice”. Unlike in RRI, the question is no longer on the ethics of scientific output and its consequences, but on the ethics of how scientists conduct themselves. Research integrity, in a sense, captures the ethics of the work done “behind the scenes”, outside the view of the general public^3^.
 
 RRI and research integrity are by no means entirely distinct, as they can overlap in important ways. However, three differences between the concepts are outlined below. 
+
 First, we can see that who is most impacted by the ethical questions differs in each case. RRI can be understood as outward-looking and focused on public perception and impact. In contrast, research integrity refers to how research findings are produced — it is inward-looking. A common term to describe a lack of research integrity is “research misconduct”^3^, which can include things like data fabrication or plagiarism. 
 
-Second, RRI and research integrity each refers to a different type of scientific interaction. On the one hand, RRI questions how scientists engage with research subjects, or the public. One (in)famous case in which there was no respect for data subjects was the Tuskagee experiments, wherein African-American men were recruited to study the development of untreated syphilis. Volunteers were falsely told they were receiving free treatment and the monitoring and lies persisted for forty years [(CDC 2021)](https://www.cdc.gov/tuskegee/timeline.htm). On the other hand, Research integrity refers to how scientists engage with fellow researchers.^3^ 
+Second, RRI and research integrity each refers to a different type of scientific interaction. On the one hand, RRI questions how scientists engage with research subjects, or the public. One (in)famous case in which there was no respect for data subjects was the Tuskagee experiments, wherein African-American men were recruited to study the development of untreated syphilis. Volunteers were falsely told they were receiving free treatment and the monitoring [(CDC 2021)](https://www.cdc.gov/tuskegee/timeline.htm). On the other hand, Research integrity can refer to how scientists engage with fellow researchers and their scientific community.^3^ 
 
-Third, RRI and research integrity can address how the scientific process is impacted by societal (RRI) or institutional (research ethics) expectations and practices. Scientists are consistently tasked with communicating their findings to the public, and public interest in specific topics can increase or decrease through time. Projects that spark public interest tend to be more highly rewarded than projects that are important, but less eye-catching. At an institutional level, for example, we can begin to question how scientific achievements are rewarded and which kinds of approaches and outputs garner institutional support and prestige. The three factors discussed here are summarized in the table below.
+Third, RRI and research integrity can also address how the scientific process is impacted by societal or institutional expectations and practices. Scientists are consistently tasked with communicating their findings to the public, and public interest in specific topics can increase or decrease through time. Projects that spark public interest tend to be more highly rewarded than projects that are important, but less eye-catching. At an institutional level, for example, we can begin to question how scientific achievements are rewarded and which kinds of approaches and outputs garner institutional support and prestige. 
+
+These three factors discussed here are summarized in the table below. 
 
 |Factor  | RRI | Research Integrity |
 | -------- | -------- | -------- |
@@ -36,48 +43,68 @@ Third, RRI and research integrity can address how the scientific process is impa
 | Who is interacting?     |Researchers working with the public or study participants     | Researchers working with other researchers    |
 | What shapes research?    | Public expectations and perceptions    | Institutional policy and culture    |
 
-### General Thoughts about Research Ethics
+Context Specific Ethics
+-------------------- 
+At times, generalized ethical principles in research aren't sufficient. They may not take into account the unique needs or vulnerabilities of specific communities. In other cases, they fail to take into account long histories that have created complex relationships between different communities or between communities and institutions. To address these shortcomings, specific guiding principles are sometimes adopted. One example is the CARE Principles.  
 
-Even if ethical and legal questions seem far removed from your everyday work, it is important to consider them—especially during the planning phase of a project. Ethical issues are not limited to research involving deception or obvious risks. They can also arise in seemingly harmless projects, for example through the way data are collected, stored, shared, or interpreted.
-
-Try to consider your project from the perspective of the people, communities, or animals affected by it. If you were a research participant, would you feel adequately informed, respected, and protected? If your research uses existing data, have the people represented in those data been treated fairly, and are their privacy and rights adequately protected?
-
-Researchers have a responsibility to minimise potential harm and to ensure that any risks are justified by the value of the research. This includes avoiding unnecessary physical, psychological, social, economic, or environmental harm. Where research involves animals, researchers must also carefully consider animal welfare and follow the relevant legal and ethical requirements.
-
-Thinking about these questions early can help you identify potential concerns, adapt your research design where necessary, and seek advice before problems arise.
-
-### The CARE Principles 
-The CARE principles for Indigenous Data Governance recognize that current movements towards FAIR and Open research fail to fully engage with the needs, rights, and interests of Indigenous communities. While the FAIR principles encourage a more generous and open scientific environment, they do not take into account power differentials and historic contexts/ trajectories. Overall, the CARE principles address the complex of social, political, and economic relationships that have existed between Indigenous Peoples, researchers, and the broader world. The four CARE principles are:
+The **CARE Principles** for Indigenous Data Governance recognize that current movements towards FAIR and Open research fail to fully engage with the needs, rights, and interests of Indigenous communities. While the FAIR principles encourage a more generous and open scientific environment, they do not take into account power differentials and historic trajectories. Overall, the CARE Principles address the complex of social, political, and economic relationships that have existed between Indigenous Peoples, researchers, and the broader world. The four CARE principles are:
 
 * **Collective Benefit:** Data ecosystems should be developed in a way that ensures Indigenous Peoples derive benefit from the data. 
+
 * **Authority to Control:** Indigenous’ people’s rights and interests in Indigenous data should be recognized and they should be empowered to control how data is used. Indigenous Peoples should be able to establish how Indigenous lands, territories, resources, knowledge, geographical indicators, cultures, and bodies are represented and identified within data. 
+
 * **Responsibility:** Researchers working with Indigenous data have a responsibility to understand and communicate how their work is used to support the self-determination and collective benefit of Indigenous communities. 
 
 * **Ethics:** The rights and wellbeing of Indigenous Peoples should be at the forefront of all research practice. 
 
 ![GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg "[GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
+
+While, you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
+
+## Summarizing Thoughts on Research Ethics
+
+Even if ethical and legal questions seem far removed from your everyday work, it is important to consider them—especially during the planning phase of a project. Ethical issues are not limited to research involving deception or obvious risks. They can also arise in seemingly harmless projects, for example through the way data are collected, stored, shared, or interpreted.
+
+Try to consider your project from the perspective of the people, communities, or animals affected by it. If you were a research participant, would you feel adequately informed, respected, and protected? If your research uses existing data, have the people represented in those data been treated fairly, and are their privacy and rights adequately protected?
+
+Researchers have a responsibility to minimise potential negative impacts of their work and to ensure that any risks are justified by the value of the research. This includes avoiding unnecessary physical, psychological, social, economic, or environmental harm. Where research involves animals, researchers must also carefully consider animal welfare and follow the relevant legal and ethical requirements.
+
+Thinking about these questions early can help you identify potential concerns, adapt your research design where necessary, and seek advice before problems arise. At UNIVIE, we have an Ethics Committee, which provides reviews research projects conducted by researchers at UNIVIE. Keep in mind that the Ethics Committee cannot review projects that have already started or that have finished.  
+
+Information about the Ethics Committee at UNIVIE can be found on their [website](https://ethikkommission.univie.ac.at/en/), which also includes contact information.
+
 - Marginalized Scholars
 - Local Communities
 - Citizen Science
 
-## Licensing
+## Common Legal Issues in Research 
+As mentioned above there are lots of legal issues that can arise in research. The goal of this section isn't to make you into a lawyer in the next 30 minutes. It's to equip you with compass that informs you when you should ask ask someone for help or be a bit careful in your next steps. In this section, well cover: 
+
+* Licensing data, code, and outputs in research 
+* Working with animals 
+* Working with imported samples 
+* Working with humans 
+
+One thing to remember as you read this section: Don't panic. We should take legal issues in research seriously, but there are very few problems that can't be solved. If there is something in your project or in a project you're working on that would possibly benefit from some advice and retooling, the important thing is to ask for help. It is highly unlikely that you'll tell any member of the RDM Team something that shocks them. 
+
+Onwards...to licenses. 
+
 - Data license (CC)
 - Code License (GPL, MIT)
 - Hardware License
 - Machine Learning License
 
-
-**What are licences?**
-
+Licensing Research Outputs 
+-------------------- 
 A licence is a legal statement attached to your work. It explains what other people are allowed to do with it and which conditions they need to follow.
 
 For example, a licence can specify whether other people may:
 
-- read, download, and share your work;
-- copy or reuse your data, text, images, code, or other materials;
-- adapt or build on your work;
-- use your work for commercial purposes; and
-- whether they have to name you as the original creator.
+* read, download, and share your work;
+* copy or reuse your data, text, images, code, or other materials;
+* adapt or build on your work;
+* use your work for commercial purposes; and
+* whether they have to name you as the original creator.
 
 Without a licence, it may be unclear whether other people are allowed to reuse your work. In many cases, your work is automatically protected by copyright as soon as you create it. This means that others generally need your permission before they can copy, share, or adapt it.
 
@@ -87,18 +114,19 @@ For example, you may choose a licence that allows people to share and adapt your
 
 **How do you assign a license?**
 * Ensure that you are the owner of the output OR that you have been given the right to assign a license for the output. 
-* Choose the license that fits how you want others to use your work and clearly attach it to the work, including the full license name and a link to the official license terms.
+* Choose the license that fits how you want others to use your work and clearly attach it to the work, including the full license name and a link to the official license terms. No other steps are required to assign a license to something. 
 
 **Can licenses be switched or changed?**
 * Once something is released under a license, you generally cannot revoke those permissions or impose additional restrictions. 
-* You can re-license work to remove previous limitations.
+* You can re-license work to remove previous limitations, but there is a preference for not modifying licenses once they have been assigned.
 
 **Can licenses be modified?**
 * You should not modify license terms yourself.
 * Licenses are carefully written legal documents and changing them can make them unclear or invalid.
 
-**Frequently used licenses: Data**
-Creative Commons (CC Licences):
+Frequently Used Licenses: Data
+-------------------- 
+**Creative Commons (CC Licences):** 
 * CC 0: Public Domain
 * CC BY: Attribution
 Credit must be given to the author
@@ -109,14 +137,15 @@ May not be modified
 * CC SA: Share Alike
 Redistribution under the same licensing terms
 
-Open Data Commons (https://opendatacommons.org)
+**Open Data Commons (https://opendatacommons.org)**
 * Open Data Commons Open Database License
-* Open Data Commons Atribution License
+* Open Data Commons Attribution License
 * Open Data Commons Public Domain Dedication and License 
 
 NOTE: add overview table of CC licenses
 
-**Frequently used licenses: Code**
+Frequently used licenses: Code
+-------------------- 
 * MIT
 * GNU General Public Licenses (GPL) and variations
 * Apache
@@ -130,6 +159,8 @@ Research data are often copied, combined, analysed, or visualised. Licences such
 Software is copied, run, modified, and redistributed. It needs a software-specific licence, such as the **MIT Licence**, **Apache License 2.0**, or **GPL**, which covers issues that are relevant to source code.
 
 Creative Commons licences are generally suitable for data and documentation, but they are not usually recommended for software. Using an appropriate licence for each output makes reuse easier and reduces legal uncertainty.
+
+//Emily Stopped working here// 
 
 ## General Legal 
 - Nagoya Protocol
@@ -160,7 +191,7 @@ At UNIVIE you could contact the [Research Services](https://forschungsservice.un
     - What is sensitive data?
     - Who is protected?
 
-### Working with Humans or General Data Protection Regulation (GDPR)
+### Working with Humans and the General Data Protection Regulation (GDPR)
 If your research project involves the processing of data concerning living people, it may be subject to the General Data Protection and Regulation (GDPR). The GDPR is the strongest privacy and security law in the world and has been applied since May of 2018. The GDPR defines the rights of individuals whose data may be stores, the obligations of those processing personal data, methods for ensuring compliance, and sanctions for those who breach the rules. These penalties can be severe and GDPR regulations should be taken very seriously.
 
 Personal data relating to an identifiable person falls under the GDPR. This includes information about research participants, but also the project team members too. There are also special categories of data that are considered sensitive which include race, ethnic origin, political involvement or opinions, religion, trade union memberships, genetics, biometrics, health indicators, and sexual orientation and behaviors. Information derived from a person’s physical and mental health data is also protected. If you would like to work with any of these kinds of data, talk with your supervisor early during the planning phase of your project. Additionally, it may also be advisable or necessary to consult with the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). If you would like help contacting them, you can consult with your data steward or contact the UNIVIE RDM team (rdm@univie.ac.at). 
