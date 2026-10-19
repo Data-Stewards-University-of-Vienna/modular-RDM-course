@@ -26,7 +26,7 @@ The online modules are written in LiaScript, a Markdown dialect, making it conve
 
 In order to view this course in LiaScript:
   1. Open https://liascript.github.io/
-  2. Paste the URL of any module `.md` file (or the combined course `.md`) into the form
+  2. Paste the Permalink (three dots -> Copy Permalink) of any module `.md` file (or the combined course `.md`) into the form
   3. Share or embed the resulting link (e.g., in Moodle)
 
 For a comprehensive guide on utilizing the materials for the in-person workshop, please consult the activities guide for detailed instructions. Additionally, it is feasible to deliver the workshop in an online format with some slight modifications.
