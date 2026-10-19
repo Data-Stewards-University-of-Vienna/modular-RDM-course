@@ -36,8 +36,6 @@ What a mouthful, but the punchline is that your research data is a lot more than
 
 Alright, now that we know what research data is, we can move onto metadata and that mysteriously bureaucratic phrase “research data management”. I bet the people who work in the RDM department are a bunch of boring pencil pushers…oh wait…I’m being told we work in that department…but I’m not boring and I rarely push pencils. 
 
-// I really love the writing of this section I wonder if we can also add some of this to other sections of the course so it feels more coherent//
-
 What is Metadata
 --------------------
 
@@ -77,7 +75,7 @@ Our friends at Ghent University are also really passionate about RDM and they cr
 
 Finished watching? So now you know that research data management means ensuring that your data are well organized, documented, securely stored, eventually archived, findable, and reusable by others whenever possible. This might seem overwhelming, but never fear! The Research Data Management Team at the University of Vienna is here to help. 
 
-We have a handy website at rdm.univie.ac.at and you can email us anytime at rdm@univie.ac.at. If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. //Should we list the mail adresses here maybe?//
+We have a handy website at [rdm.univie.ac.at](rdm.univie.ac.at) and you can email us anytime at [rdm@univie.ac.at](rdm@univie.ac.at). If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. You can find the contact information for all of the data stewards on this [page](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/). 
 
 * Faculty of Life Sciences 
 * Centre for Microbiology and Environmental Systems Science (CeMESS) 
