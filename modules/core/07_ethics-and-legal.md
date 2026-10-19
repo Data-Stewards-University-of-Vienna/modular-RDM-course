@@ -167,85 +167,95 @@ Ethics aside, keep in mind that many journals will ask to see a record of your p
 ![Raptor Fences by XKCD](https://imgs.xkcd.com/comics/raptor_fences.png "[Raptor Fences by XKCD](https://xkcd.com/758), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)")
 
 ### Working with Imported Samples
+Even samples not derived from living humans that have been imported from abroad can carry restrictions and requirements. Plant and animal material, soil and water samples, and archaeological remains can all be subject to export and import regulations. Requirements vary considerably depending on the material type and origin location, but we mention a few considerations below. 
+
 International Transport of Samples
 -------------------- 
-Another important legal or ethical aspect you should consider is the collection and/or transport of international samples. You may need to secure special permits or allow certain inspections to take place before samples are allowed to leave their country of origin or enter Austria. You may also need permits to collect the samples too. Legal guidelines vary significantly by country, even if the countries are close to one another geographically or culturally. Investigate these requirements during the planning phase of your project so you can avoid surprises later. In some regions, permitting can be a challenging and time-consuming process, so it is advisable to start early and talk with other researchers who have worked with similar materials from the same countries. Much like permitting for working with animals, many journals ask to see import and/or export permits for samples, so make sure you save important documentation and abide by any laws. 
+Depending on the types of samples you are working with and where they come from, you may need special permits or inspections before samples can leave their country of origin or enter Austria. You may also need permits to collect the samples in the first place. Legal requirements can vary significantly between countries, even those that are geographically or culturally close to one another.
+
+Make sure to investigate these requirements early in the planning phase of your project to avoid surprises later! It's always a good idea to ask your supervisor and collaborators questions about where your samples came from, how they were collected, and what permits or permissions are already in place (or may still be needed). Don't assume that all the necessary paperwork has already been taken care of, especially if you are working with samples collected by someone else. In some regions, obtaining the necessary permits can be a challenging and time-consuming process, so give yourself plenty of time and consider reaching out to other researchers who have worked with similar materials from the same countries. They may have valuable advice to share.
+
+Finally, keep in mind that many journals ask to see import and/or export permits before publishing research, just as they may request documentation for research involving animals. Be sure to follow all relevant regulations and keep copies of your permits and other important documentation so you have them when you need them. 
 
 The Nagoya Protocol
 -------------------- 
-The “Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization” (NP) is an international treaty that came into force on October 12th 2014. It aims to ensure that any access to genetic resources and its derivatives (e.g. metabolites, lipids, enzymes) is done under fair conditions and any benefits (e.g. commercialization, but also more general any type of knowledge gain) that stem from the utilization of genetic resources is shared equitably with the provider country. The NP **applies to all research and utilization of genetic resources, both for commercial and non-commercial purpose**, and includes applied and basic research. To comply with the NP, researchers must obtain permits for their planned research from the provider country and submit due diligance declarations in the user country.
+The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (often simply called the Nagoya Protocol) is an international agreement that came into force on October 12, 2014. Its goal is to ensure that genetic resources and their derivatives (such as metabolites, lipids, and enzymes) are accessed under fair conditions and that the benefits arising from their use are shared equitably with the country providing them. These benefits can include commercial outcomes, but also non-commercial benefits, such as sharing research results, knowledge, or expertise.
 
-For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at UNIVIE [Technologytransfer](https://transfer.univie.ac.at/en/team-and-contact/) .
+Importantly, the Nagoya Protocol is relevant to both commercial and non-commercial research, including basic and applied research. However, whether specific research activities are subject to access and benefit-sharing requirements depends on factors such as the type of material, its country of origin, when it was accessed, and the applicable national legislation.
 
+If you plan to work with genetic resources, it's a good idea to investigate potential Nagoya Protocol requirements early in your project planning. Talk to your supervisor and collaborators about where your samples came from, when and how they were obtained, and whether any permits or agreements are already in place. Depending on the circumstances, you may need to obtain prior informed consent and establish mutually agreed terms with the provider country before beginning your research. Researchers working in the EU may also be required to submit due diligence declarations documenting their compliance. Don't assume that samples are automatically exempt simply because they were provided by a collaborator or are being used for non-commercial research. Taking the time to clarify these questions early can help you avoid complications later in your project.
 
+Documentation is an important part of Nagoya Protocol compliance! Under EU regulations, researchers must retain relevant documentation for 20 years after the end of the period of utilization of the genetic resources. A great way to manage this documentation for your lab is to set up a private collection in PHAIDRA, the University of Vienna's long-term digital repository. This allows your lab to keep permits, agreements, and other important records together in a secure, organized location where they can be accessed when needed. The RDM Team can help you set up a private PHAIDRA collection and develop a practical approach to organizing and preserving your documentation.
 
-### Research using Private Funds 
-We have one final legal tip before you move onto the section quiz. If your research is supported by private funds (for example, from a company), make sure you carefully read any legal documentation you are given at the start of your project. It is also a good idea to have a conversation with your advisor about any private funds you receive or funds they have received that fund your project. Make sure you understand who retains legal ownership of the data you create and if there are any other restrictions that might be placed on the data and its publication.
-At UNIVIE you could contact the [Research Services](https://forschungsservice.univie.ac.at/en/) for legal advice and support with your private funds and your rights regarding the the research output.
-
-- Patents and IP
-    - What is protected by copyright?
-    - What is not protected?
-- Data Protection and GDPR
-    - What is sensitive data?
-    - Who is protected?
+For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](https://transfer.univie.ac.at/en/team-and-contact/) .
 
 ### Working with Humans and the General Data Protection Regulation (GDPR)
-If your research project involves the processing of data concerning living people, it may be subject to the General Data Protection and Regulation (GDPR). The GDPR is the strongest privacy and security law in the world and has been applied since May of 2018. The GDPR defines the rights of individuals whose data may be stores, the obligations of those processing personal data, methods for ensuring compliance, and sanctions for those who breach the rules. These penalties can be severe and GDPR regulations should be taken very seriously.
+If your research project involves collecting, storing, analyzing, or otherwise processing information about living people, you will likely need to consider the General Data Protection Regulation (GDPR). The GDPR is an EU regulation that has applied since May 2018 and establishes rules for how personal data must be handled. It defines the rights of individuals whose data are processed, the responsibilities of those working with personal data, and the measures organizations must take to protect that information. Violations can result in significant penalties, so it's important to understand your responsibilities and plan for data protection from the beginning of your project.
 
-Personal data relating to an identifiable person falls under the GDPR. This includes information about research participants, but also the project team members too. There are also special categories of data that are considered sensitive which include race, ethnic origin, political involvement or opinions, religion, trade union memberships, genetics, biometrics, health indicators, and sexual orientation and behaviors. Information derived from a person’s physical and mental health data is also protected. If you would like to work with any of these kinds of data, talk with your supervisor early during the planning phase of your project. Additionally, it may also be advisable or necessary to consult with the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). If you would like help contacting them, you can consult with your data steward or contact the UNIVIE RDM team (rdm@univie.ac.at). 
+Personal data includes any information relating to an identified or identifiable living person. This includes information about your research participants, but it can also include information about your colleagues, collaborators, and other members of your project team. Some types of personal data receive additional protection under the GDPR. These are known as special categories of personal data and include information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, and trade union membership, as well as genetic data, biometric data used for identification, health data, and information concerning a person's sex life or sexual orientation. Keep in mind that even information that does not directly identify someone, such as a dataset in which names have been replaced with participant codes, may still qualify as personal data under the GDPR.
 
-## Consent forms, study information, and debriefing
+If your research involves personal data, talk with your supervisor early in the planning phase of your project about what information you intend to collect, how it will be used, and what measures are needed to protect it. One important distinction to keep in mind is that consent to participate in a research study and consent to process personal data under the GDPR are not necessarily the same thing. While informed consent is often an important part of ethical research, it is not the only possible legal basis for processing personal data under the GDPR. Depending on the circumstances, research institutions may rely on other legal bases. This means that obtaining a participant's agreement to take part in your study does not automatically fulfill all your GDPR obligations.
 
-When your research involves human participants, you will often need to obtain their **informed consent** before collecting data. Informed consent means that participants receive clear and sufficient information about the study and agree to take part voluntarily.
+Depending on your research, it may also be advisable or necessary to consult the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). Also remember that all projects and tools processing personal data must be entered in the UNIVIE [Verarbeitungsverzeichnis](https://wiki.univie.ac.at/spaces/POL/pages/171480014/Record+of+processing+activities) If you're unsure where to start or who to contact, your faculty data steward or the UNIVIE [RDM Team](rdm@univie.ac.at) can help you find the right resources and connect you with the appropriate experts.
 
-Consent is more than signing a form. It is a process: participants should be informed before the study begins, treated respectfully throughout their participation, and given relevant information after the study has ended.
+Below, we cover a few more issues that are common when working with human partipants.
 
-### Providing study information
+Consent Forms, Study Information, and Debriefing
+-------------------- 
+When your research involves human participants, you will often need to obtain their informed consent before collecting data. Informed consent means that participants receive clear, understandable information about the study, including what they will be asked to do, how their data will be used, and any potential risks or benefits. They should also have the opportunity to ask questions and make a voluntary, informed decision about whether they would like to participate.
 
-Before deciding whether to take part, participants should receive a clear **participant-information sheet** or study-information page. This should be written in language that the intended participants can understand and should avoid unnecessary technical terms.
+Informed consent is more than just signing a form! It is an ongoing process that begins before the study and continues throughout a participant's involvement. Participants should feel comfortable asking questions, understand their options for withdrawing from the study, and be treated respectfully throughout the research process. Depending on the nature of the study, researchers may also need to provide a debriefing afterward, particularly if some information about the study was intentionally withheld to avoid influencing participants' behavior.
 
-The information provided should normally include:
+When preparing your consent forms and participant information sheets, think beyond the immediate needs of your study. Consider how the data might be stored, shared, archived, or reused in the future. For example, will you want to share anonymized data with other researchers, deposit a dataset in a repository, or make your data available for future research projects? These possibilities should be considered from the beginning and clearly communicated to participants where relevant. Planning ahead can help ensure that your consent materials support both your current research and potential future data sharing and reuse.
 
-- the purpose of the study;
-- who is conducting and funding the research;
-- how to contact the researchers;
-- what participants will be asked to do, such as completing a survey, taking part in an interview, or being recorded;
-- how long participation is expected to take;
-- what types of data will be collected;
-- how the data will be stored, protected, used, and, where relevant, shared;
-- whether participants will be anonymous, pseudonymised, or identifiable;
-- possible risks, discomforts, and benefits;
-- whether participants will receive compensation or reimbursement;
-- that participation is voluntary; and
-- how participants can withdraw from the study and whom they can contact with questions or concerns.
+We strongly recommend having your consent forms and participant information sheets reviewed by a member of the UNIVIE [RDM Team](rdm@univie.ac.at) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/) before you begin using them. They can help you identify potential issues, clarify data protection requirements, and ensure that your documentation appropriately addresses data management, sharing, and reuse. It's much easier to make adjustments before data collection begins than to discover later that your consent materials limit what you can do with your research data!
 
-Participants should have enough time to consider this information and an opportunity to ask questions before they consent.
+Finally, keep in mind that informed consent to participate in research is not necessarily the same as consent to process personal data under the GDPR. These serve different purposes, and obtaining informed consent does not automatically fulfill your data protection obligations. If you're unsure what types of consent or documentation your study requires, talk with your supervisor early in the planning process.
 
-### Documenting consent
+In the next sections, we'll take a closer look at providing study information, collecting consent, and debriefing participants. 
 
-A consent form documents that a participant has understood the relevant information and has agreed to take part. In many studies, participants confirm their consent by signing a form. In online research, consent may be collected through a digital statement that participants must actively agree to before continuing.
+Providing Study Information
+-------------------- 
+Before deciding whether to take part in a study, participants should receive a clear **participant information sheet** or study information page that explains what participation will involve. This information should be written in language that your intended participants can easily understand, avoiding unnecessary technical terms or complicated explanations. Remember that your participants may not have the same scientific background as you do!
 
-A written signature is not always the best option. For example, in research on sensitive topics, collecting signatures may create an unnecessary link between a participant’s identity and their responses. The appropriate way to obtain and document consent depends on the research design, the participants, and the data being collected.
+Your participant information sheet should generally include:
+* Purpose of the study: What is the research about, and what are you hoping to learn?
+* Research team and funding: Who is conducting the research, which institution is responsible, and who is funding the study?
+* Contact information: How can participants contact the researchers with questions or concerns?
+* What participation involves: What will participants be asked to do (e.g., complete a survey, participate in an interview, or be recorded), and how long will it take?
+* Data collection and management: What types of data will be collected, and how will they be stored, protected, and used?
+* Data sharing and reuse: Will the data be shared with other researchers, deposited in a repository, or potentially reused for future research? If so, under what conditions?
+* Privacy and confidentiality: Will participants be anonymous, pseudonymised, or identifiable? Who will have access to their information?
+* Risks and benefits: Are there any potential risks, discomforts, or benefits associated with participation?
+* Compensation: Will participants receive payment, compensation, or reimbursement for their time or expenses?
+* Voluntary participation and withdrawal: Make it clear that participation is voluntary, explain how participants can withdraw, and describe any limitations on withdrawing their data once they have been collected or anonymized.
 
-Participants should also be informed that they may withdraw their consent without negative consequences. However, once data have been anonymised or included in an aggregated analysis, it may no longer be possible to identify and remove an individual participant’s data. This should be explained clearly in advance.
+Depending on the study and the applicable data protection requirements, you may also need to provide additional information, such as the legal basis for processing personal data, how long the data will be retained, and participants' rights under the GDPR.
+Give participants enough time to read and consider this information before asking them to consent. They should also have an opportunity to ask questions and receive clear answers. The goal isn't simply to provide a document that checks all the necessary boxes, but to help participants make a genuinely informed decision about taking part in your research
 
-### Debriefing participants
+Documenting Consent
+-------------------- 
+A **consent form** documents a participant's agreement to take part in a research study after receiving information about what participation involves. In many studies, participants provide their consent by signing a paper form. In online research, consent may be collected electronically, for example, by asking participants to actively agree to a consent statement before proceeding with a survey or other research activity.
 
+Keep in mind that a written signature isn't always necessary or even the best option! For example, when researching sensitive topics, collecting signatures may create an unnecessary link between a participant's identity and their responses. Depending on your research design, participants, and the types of data being collected, other methods of documenting consent may be more appropriate. The important thing is that participants can make an informed, voluntary decision and that you have an appropriate way to document their agreement.
+
+Participants should also understand that they can withdraw from a study without facing negative consequences. However, withdrawing from participation and requesting the removal of previously collected data are not always the same thing. For example, once data have been fully anonymized or incorporated into aggregated results, it may no longer be possible to identify and remove an individual participant's contributions. Any limitations on withdrawing data should be clearly explained before participants agree to take part. Again, if you're unsure how best to collect and document consent, talk with your supervisor and consider consulting the UNIVIE RDM Team or the Data Protection Officer (DPO). 
+
+Debriefing Participants
+-------------------- 
 After participating, people should usually receive a **debriefing**. A debriefing provides information about what happened in the study and gives participants an opportunity to ask questions or raise concerns.
 
 A debriefing may include:
 
-- a reminder of the study’s purpose;
-- further information that was not provided before the study;
-- an explanation of any unusual procedures;
-- contact details for the research team; and
-- information about relevant support services, particularly if the study addressed sensitive or potentially distressing topics.
+* a reminder of the study’s purpose;
+* further information that was not provided before the study;
+* an explanation of any unusual procedures;
+* contact details for the research team; and
+* information about relevant support services, particularly if the study addressed sensitive or potentially distressing topics.
 
 Debriefing is especially important when the study involves deception or does not disclose its full purpose in advance. In such cases, researchers should explain why this was necessary, provide the missing information as soon as possible, and give participants the option to withdraw their data where feasible.
 
-Research involving children, people with limited capacity to consent, sensitive personal data, health information, or potentially vulnerable groups may be subject to additional ethical and legal requirements. If you are unsure about the information, consent, or debriefing requirements for your project, consult your supervisor, the relevant ethics committee, or contact the Research Data Management Support team (rdm@univie.ac.at).
-
+Research involving children, people with limited capacity to consent, sensitive personal data, health information, or potentially vulnerable groups may be subject to additional ethical and legal requirements. If you are unsure about the information, consent, or debriefing requirements for your project, it's always best to ask for help! 
 
 ## Conclusion
 - Ethical and legal considerations are core parts of responsible research data management, not optional add-ons.
@@ -286,3 +296,15 @@ The CARE principles are designed to take into account the complex social, politi
 
     [[X]] True
     [[ ]] False
+
+
+### Research using Private Funds 
+We have one final legal tip before you move onto the section quiz. If your research is supported by private funds (for example, from a company), make sure you carefully read any legal documentation you are given at the start of your project. It is also a good idea to have a conversation with your advisor about any private funds you receive or funds they have received that fund your project. Make sure you understand who retains legal ownership of the data you create and if there are any other restrictions that might be placed on the data and its publication.
+At UNIVIE you could contact the [Research Services](https://forschungsservice.univie.ac.at/en/) for legal advice and support with your private funds and your rights regarding the the research output.
+
+- Patents and IP
+    - What is protected by copyright?
+    - What is not protected?
+- Data Protection and GDPR
+    - What is sensitive data?
+    - Who is protected?
