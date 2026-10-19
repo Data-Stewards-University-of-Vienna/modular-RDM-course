@@ -91,12 +91,17 @@ For naming folders, similar guidelines also apply, though they are usually more 
 ## Knowledge Check
 * 3-5 question quiz that includes explanations of correct answers.
 
+Test your knowledge on data organisation.
+
+**Questions on Data Organisation**
 Why do you need file and folder naming conventions?
+
 [[X]] Because it makes it easier and faster to find what you are looking for.
 [[ ]] Because it means collaborations can reach wider audiences.
 [[ ]] Because colourcoding is hard when you are colourblind.
 
 Which of the following tips are good practice for file naming?
+
 [[ ]] File names need to be unique, so longer names are most effective.
 [[X]] Dates should be recorded in the YYYYMMDD format.
 [[ ]] Each project member can have a unique naming system, as long as they are consistent themselves.
@@ -106,5 +111,6 @@ Which of the following tips are good practice for file naming?
 [[ ]] A folder structure containing unlimited levels is fine when it is documented well.
 
 Organising files makes them more findable and accessible
+
 [[X]] True
 [[ ]] False
