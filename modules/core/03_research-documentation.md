@@ -26,39 +26,40 @@ Due to the large variety of experiments, techniques and collaborative studies th
 
 By the end of this section, you should be familiar with best-practices considering data documentation.
 
-### When documenting your data you should keep the following things in mind:
+When documenting your data you should keep the following things in mind:
+-------------------- 
 
 - Write the documentation in such a way that someone else who is known to the field cannot misinterpret any of the data. 
 
 - Independently of the tools you will use, data documentation is needed at two levels:
-    1. **Study-level** 
-        * Documentation about the entire study or project
+  1. **Study-level** 
+     * Documentation about the entire study or project
 
-        * Study-level documentation describes the project title and summary, study aims, authors, institutions involved, funds, methods, licence and identifier for each dataset, folders structure, file naming conventions, versioning system, relation between files or tables and other general information.
+     * Study-level documentation describes the project title and summary, study aims, authors, institutions involved, funds, methods, licence and identifier for each dataset, folders structure, file naming conventions, versioning system, relation between files or tables and other general information.
 
-    2. **Data-level** 
-        * Documentation about individual records, observations or data points
+  2. **Data-level** 
+     * Documentation about individual records, observations or data points
 
-        * Data-level documentation provides information about individual records or data points, such as the meaning of each variable name, label, ID or type (numeric, string, regular expression, date, etc.), units (i.e., cm, kg…), experimental factors, categories, controlled vocabulary or ontology terms accepted as values for each variable, missing values code and so on. 
+     * Data-level documentation provides information about individual records or data points, such as the meaning of each variable name, label, ID or type (numeric, string, regular expression, date, etc.), units (i.e., cm, kg…), experimental factors, categories, controlled vocabulary or ontology terms accepted as values for each variable, missing values code and so on. 
 
-        * An example could be a data file that contains a "sex" field: someone known to the field could try to misinterpret that from "external sex organs present at birth" to "chromosomal XX or XY" or "high or low testosterone level" or "social gender" or other. In order to avoid this, the way the assignment is made must be part of the documentation or of the data itself (controlled vocabulary). 
+     * An example could be a data file that contains a "sex" field: someone known to the field could try to misinterpret that from "external sex organs present at birth" to "chromosomal XX or XY" or "high or low testosterone level" or "social gender" or other. In order to avoid this, the way the assignment is made must be part of the documentation or of the data itself (controlled vocabulary). 
 
 - Both the study- and data-level documentation must be generated as early as possible in the research process and also maintained, in order to be accurate and complete.
 
 - Documentation is also required when publishing your data.
 
-    * General-purpose repositories usually require only study-level documentation.
+  * General-purpose repositories usually require only study-level documentation.
 
-    * Discipline-specific repositories generally require both study-level and data-level documentation.
+  * Discipline-specific repositories generally require both study-level and data-level documentation.
 
-    * > [!IMPORTANT] \
-        > Repositories often only accept data and documentation in a very strict format
+  * > [!IMPORTANT] Repositories often only accept data and documentation in a very strict format
         > - they can require a predefined set of attributes or fields (metadata checklists) to be filled, ontology terms to be used, specific (meta)data schemas to be adopted
         > - We recommend familiarising yourself with  the requirements of the repositories that could be appropriate for publishing your data already at the beginning of the project, so that you can start documenting and formatting your data accordingly as early as possible.
 
 - Make sure the documentation is kept close to the data, so that nobody will be exposed to the data without being able to find the documentation.
 
-### Documentation Tools
+Documentation Tools
+-------------------- 
 
 - It is best practice to use one appropriate tool or an integration of multiple tools for data documentation during a project. 
 
@@ -72,7 +73,8 @@ By the end of this section, you should be familiar with best-practices consideri
 
 - For help making this decision, contact your data steward.
 
-### Documentation File Format
+Documentation File Format
+-------------------- 
 
 - Data documentation files can be stored in several formats depending on the features available in your data documentation tool (if using one), your needs or skills. 
 
@@ -80,11 +82,75 @@ By the end of this section, you should be familiar with best-practices consideri
 
 - Also non-proprietary formats are preferred over proprietary ones.
 
-### Conclusion
+Conclusion
+-------------------- 
 
 When it comes to addressing issues in data documentation, there is no single optimal solution; instead, it exists as a spectrum ranging from inadequate to excellent documentation. Even something as basic as maintaining a digital record of your handwritten lab notebook or including a reference to it in a README file alongside your dataset can serve as an initial step.
 
+
 ## Metadata Standards
+
+Highly structured data documentation is called **metadata**. Generating metadata in a machine-readable or -actionable format makes your data more FAIR . Metadata provides structured and searchable information so that a user can find existing data, evaluate its reusability and cite it.
+
+It is good practice to use international standard metadata schemas to organise and store your (meta)data in a structured way. A metadata schema describes the relations, such as hierarchy, of the elements that belong to the structure. Most metadata schema are accompanied by a fixed set of attributes about the data that needs to be provided. Such metadata standards are community efforts and often under a constant development process. 
+
+Metadata standards often depend on the use of **ontologies** and **controlled vocabularies**. An ontology is a formal representation of knowledge that defines concepts, their properties, and the relationships between them and establishes a hierarchical structure that organizes knowledge in a logical and systematic manner. Controlled vocabularies, on the other hand, consist of a predefined set of terms with specific meanings. They establish a controlled and standardized vocabulary for describing data elements, attributes, or concepts within a specific context. Used wisely, they can enable both humans and computers to understand your data. There is no clear-cut division between the terms "vocabulary" and "ontology", but the latter is more commonly used when dealing with complex (and perhaps more formal) collections of terms and relationships. Ontologies typically provide an identifier. 
+
+The real challenge, however, is to decide on what metadata standards, ontologies and controlled vocabuleries you may want to or have to use for your data.
+
+Finding Metadata Standards for your Datasets
+--------------------
+
+There are multiple standards for different types of data, ranging from generic dataset descriptions (e.g. DCAT, Dublin core, (bio)schema.org) to specific data types (e.g. MIABIS for biosamples).
+
+You should decide at the beginning of the project what are the recommended repositories for your data types (you will learn more on repository choice in the following module). Some repositories require a specific metadata standard. We, therefore, recommend familiarising yourself with the requirements of the repositories that could be appropriate for publishing your data already at the beginning of the project, so that you can start documenting and formatting your data according to their requirements as early as possible.
+
+- ***If you have a repository in mind:***
+
+  * Go to the repository website and check the “help”, "guide" or “how to submit” tab to find information about required metadata.
+  - On the repository website, go through the submission process (try to submit some dummy data) to identify metadata requirements. 
+  * For instance, if you consider publishing your transcriptomic data in ArrayExpress, you can make your metadata spreadsheet by using [Annotare 2.0 submission tool](https://www.ebi.ac.uk/fg/annotare/), at the beginning of the project.
+  * Be aware that data type specific repositories usually have check-lists for metadata. For example, the European Nucleotide Archive provides [sample checklists](https://www.ebi.ac.uk/ena/browser/checklists) that can also be downloaded as a spreadsheet after log in.
+
+- ***If you do not know yet what repository you will use:***
+
+  * look for what is the recommended minimal information required for your type of data in your community
+  * i.e. “Minimum Information ...your topic”,
+
+     - e.g. [MIAME](https://www.fged.org/projects/miame)
+     - or [MINSEQE](https://www.fged.org/projects/minseqe)
+     - or [MIAPPE](https://www.miappe.org))
+
+- ***or other metadata, at the following resources:***
+
+  * [Research Data Alliance (RDA): Metadata Dictionary: Standards](https://rd-alliance.github.io/metadata-directory/standards/)
+  * [FAIRsharing.org](https://fairsharing.org) at “Standards” and “Collections”
+  * [The Digital Curation Centre (DCC): List of Metadata Standards](https://www.dcc.ac.uk/guidance/standards/metadata/list)
+
+Please note that for certain data types, metadata standards may not be established by the research community. In such cases, README files are commonly used to describe the datasets (see below).^1^
+
+Finding appropriate Vocabularies and/or Ontologies
+--------------------
+
+There are many vocabularies and ontologies available on the web. Finding a suitable one can be difficult and time-consuming.
+
+Similarly to the metadata standards, check whether you really need to find a suitable ontology or vocabulary yourself. Perhaps the repository where you are about to submit your data have recommendations? Or the journal where you plan to publish your results? You also have to consider your goal with sharing data. Which formal requirements (by e.g. by funder or publisher) need to be fulfilled? Which parts of your data would benefit the most from adopting ontologies?
+
+- After taking these considerations into account and deciding to adopt specific ontologies or vocabularies for your data, there are several factors you should consider:
+
+  * Learn the basics about ontologies. This will be helpful when you search for terms in ontologies and want to understand how terms are related to one another.
+  * Define a list of terms that you want to find ontologies for. Include in the list also any alternative term names that you are aware of.
+  * Search for your listed terms on dedicated web portals. These are a few:
+
+     - [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
+     - [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols/index)
+     - [Ontobee](http://www.ontobee.org)
+     - [BioPortal](https://bioportal.bioontology.org)
+     - [AgroPortal](https://agroportal.lirmm.fr)
+
+- Accept that one ontology may not be sufficient to describe your data. It is very common that you have to combine terms from more than one ontology.
+- Accept terms that are good enough. Sometimes you you cannot find a term that perfectly match what you want to express. Choosing the best available term is often better than not choosing a term at all. Note that the same concept may also be present in multiple ontologies.^1^
+
 
 ## README files
 

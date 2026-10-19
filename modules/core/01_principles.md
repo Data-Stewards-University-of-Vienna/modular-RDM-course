@@ -1,5 +1,5 @@
 # Key Concepts and Principles 
-Welcome to Module 2! //the 2 confused me when looking at our file names// In this module, we’ll build the foundation for the rest of the course by looking at what research data actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's just in! 
+Welcome to Module 2! //the 2 confused me when looking at our file names// In this module, we’ll build the foundation for the rest of the course by looking at what research ddata actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's just in! 
 
 Objectives
 -------------------- 
