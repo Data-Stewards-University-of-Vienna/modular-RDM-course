@@ -157,7 +157,62 @@ Frequently used licenses: Machine Learning Models
 -------------------- 
 * [OpenRAIL Licenses](https://www.licenses.ai/)
 
-That's everything we have to say about licenses for now. In the next sections, we'll cover some considerations for working with animals, imported samples, and other humans! 
+That's everything we have to say about licenses for now. In the next sections, we'll cover some considerations for working with intellectual property considerations, animals, imported samples, and other humans! 
+
+### Data Ownership and Intellectual Property
+Who actually owns the data and other research outputs you create?
+It's easy to assume that because you collected the data, wrote the code, or developed the research methods, everything you produce belongs to you. However, the legal situation is often more complicated! Depending on your employment status, funding arrangements, and agreements with collaborators, different people or organizations may have rights to your research outputs.
+
+Understanding these rights is particularly important when you want to publish, share, archive, or reuse your research data. Let's look at a few common situations you might encounter during your research career.
+
+Who Owns Your Research Data?
+-------------------- 
+Research data ownership is a surprisingly complicated topic. In fact, under Austrian law, data themselves are not necessarily something that can be owned in the traditional legal sense. Instead, different rights and obligations may apply depending on the type of data, how they were created, and the agreements governing their use.
+
+For example, copyright, database rights, employment contracts, confidentiality agreements, and data protection regulations may all influence what you are allowed to do with your research outputs.
+
+**If you are employed by the University of Vienna, the university generally has extensive rights to research outputs created as part of your employment.** However, the exact situation depends on the type of output, applicable legislation, and your contractual arrangements. This does not necessarily mean that the university owns every piece of data or intellectual property you create.
+
+Importantly, the **University of Vienna's (Research Data Management Policy)[https://rdm.univie.ac.at/rdm-policy-and-faq/] explicitly gives university staff the right to publish their research data in repositories under open licenses or licenses for scientific use, provided that no legal, contractual, ethical, or other applicable restrictions prevent it.**
+
+This means that even though the university may hold rights to the research outputs you create during your employment, you are generally permitted to make your research data openly available when the necessary conditions are met.
+
+What does this mean for you? Before publishing or sharing research data, make sure you understand whether you have the necessary rights to do so. If you're unsure, talk with your supervisor or contact the appropriate university support services.
+
+Copyright, Patents, and Intellectual Property
+-------------------- 
+You have probably encountered copyright when reading scientific publications or using images in presentations, but intellectual property (IP) can also play an important role in research data management.
+
+Different types of research outputs may receive different forms of legal protection.
+Copyright protects original creative or intellectual expressions, rather than the underlying facts or ideas. In a research context, copyright may protect things such as scientific articles, original figures and illustrations, software code, and certain databases or documentation.
+
+However, not everything you produce as a researcher is protected by copyright! Individual measurements, factual observations, numerical values, and scientific discoveries generally do not receive copyright protection simply because someone collected or discovered them.
+
+For example, imagine that you measure the heights of 500 plants during an experiment. The individual measurements are facts and generally are not protected by copyright. However, an original illustration explaining your experimental setup, the software you wrote to analyze the measurements, or an original written description of your methodology may be protected.
+
+There are also other forms of intellectual property protection worth knowing about:
+* **Database rights:** In the EU, certain databases may receive special legal protection when substantial investment has been made in obtaining, verifying, or presenting their contents.
+* **Patents:** Some inventions and technical innovations developed during research may qualify for patent protection. If you think your research could lead to a patentable invention, seek advice before publicly disclosing it, as publication can affect patentability.
+* **Trade secrets** Confidential research information, methods, or technical knowledge may be protected as trade secrets when the relevant legal conditions are met.
+Keep in mind that being named as an author or creator does not necessarily mean that you control all the legal rights to an output. This is especially relevant when working with collaborators, external funding, or materials provided by another institution.
+
+Privately Funded Research and Contractual Restrictions
+-------------------- 
+If your research project is supported by private funding, such as funding from a company or another external organization, make sure you carefully read any legal documentation provided at the beginning of your project.
+
+Private funding agreements may include conditions about who can access the data, who holds intellectual property rights, whether research results can be published, and whether the data can be shared with other researchers.
+
+Even if you are not personally responsible for negotiating these agreements, it's a good idea to talk with your supervisor about any private funding supporting your research. Your supervisor may have signed agreements that affect what you are allowed to do with the data you collect or create.
+
+Some useful questions to ask include:
+* Who has the legal rights to the research data and other outputs?
+* Are there restrictions on publishing or sharing the results?
+* Does the funder have the right to review publications before they are submitted?
+* Can the data be deposited in a repository or made available under an open license?
+* Are there confidentiality requirements or restrictions on future reuse?
+
+These questions are particularly important if you intend to publish an open dataset, release software, or reuse research materials in a future project.
+At the University of Vienna, Research Services can provide guidance on research contracts, intellectual property, and legal questions related to external funding. If you're unsure about the conditions attached to your project, it's much better to ask early than to discover restrictions when you're preparing to publish!
 
 ### Working with Animals 
 If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. If you work at another faculty that is conducting animal research and you have questions contacting the animal facility in your faculty is a great place to start! 
