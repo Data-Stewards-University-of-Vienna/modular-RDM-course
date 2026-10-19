@@ -342,6 +342,67 @@ Debriefing is especially important when the study involves deception or does not
 
 Research involving children, people with limited capacity to consent, sensitive personal data, health information, or potentially vulnerable groups may be subject to additional ethical and legal requirements. If you are unsure about the information, consent, or debriefing requirements for your project, it's always best to ask for help! 
 
+## Hidden Personal Data: When GDPR Applies Without Names
+
+Personal data are not limited to obvious identifiers such as names, email addresses, or phone numbers. Under the GDPR, data count as personal data whenever they relate to an identified or **identifiable living person**.
+
+This means that a dataset can still be personal data even when names have been removed. If someone could realistically identify a participant by combining the dataset with other information, GDPR requirements may still apply.
+
+### Indirect Identifiers
+
+Indirect identifiers may identify a person when combined with other data. Examples include:
+
+* age or date of birth;
+* occupation, employer, or place of study;
+* location or GPS data;
+* dates of events;
+* rare medical conditions or characteristics;
+* detailed demographic information;
+* photographs, voice recordings, or video; and
+* IP addresses, device IDs, or online usernames.
+
+For example, “the only 58-year-old cardiologist working at a particular hospital” may identify a person even without their name.
+
+Personal data can also be hidden in:
+
+* free-text survey responses, interview transcripts, and field notes;
+* document metadata, comments, tracked changes, and file author information;
+* photographs containing faces, name badges, addresses, or vehicle number plates;
+* audio recordings containing identifiable voices;
+* maps and detailed location data; and
+* quotations from online platforms that can be searched and traced back to a user.
+
+### Pseudonymised Is Not Anonymous
+
+Replacing names with participant codes, such as `P001`, is called **pseudonymisation**. It is a useful protective measure, but pseudonymised data remain personal data under the GDPR if a key exists or participants can otherwise be reidentified.
+
+Data are only **anonymous** when individuals can no longer be identified by reasonably likely means. Removing names alone is usually not enough, especially in small datasets or datasets containing detailed qualitative, geographic, health, genetic, or demographic information.
+
+> If you, your team, or another person could realistically work out who a participant is, treat the data as personal data.
+
+### Public Data Are Not Automatically Free to Use
+
+Information posted publicly online may still be personal data. Collecting, storing, analysing, or sharing identifiable social-media posts, profile information, images, or online discussions can be subject to the GDPR, platform terms of use, and ethical requirements.
+
+Be particularly careful when publishing direct quotations: readers may be able to search a quotation online and identify the author.
+
+### Before You Share Data
+
+Before sharing, publishing, or depositing data in a repository, check for hidden identifiers in the dataset and related materials, including file names, metadata, hidden spreadsheet columns, transcripts, images, recordings, codebooks, and README files.
+
+Possible risk-reduction measures include:
+
+* collecting only data necessary for the project;
+* separating contact details and consent forms from research data;
+* using participant codes and securely storing the reidentification key;
+* generalising or removing detailed dates, locations, and rare characteristics;
+* removing document metadata and tracked changes;
+* limiting access to identifiable data; and
+* using controlled-access sharing rather than open publication where needed.
+
+If you are unsure whether your data are anonymous, assume that they are personal data and ask for advice. Contact the UNIVIE [Data Protection Officer (DPO)](https://dsba.univie.ac.at/), your faculty data steward, or the UNIVIE [RDM Team](mailto:rdm@univie.ac.at).
+
+
 ### Other EU Digital Regulations: Data Act, AI Act, Digital Services Act and more
 The GDPR is not the only EU regulation that may affect your research. In recent years, the EU has adopted a series of laws that regulate data, digital services, and artificial intelligence. Most of them are not aimed at researchers specifically, but they can still apply when you collect, share, or analyze data, or when you use or develop digital tools. You do not need to become a legal expert, but you should know that these rules exist and when to ask for advice. Note that these regulations are being phased in over several years and some details are still evolving, so always check the current status with the RDM Team or the respective Website.
 
