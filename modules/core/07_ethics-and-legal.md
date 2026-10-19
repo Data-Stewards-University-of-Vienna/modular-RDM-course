@@ -73,14 +73,11 @@ Thinking about these questions early can help you identify potential concerns, a
 
 Information about the Ethics Committee at UNIVIE can be found on their [website](https://ethikkommission.univie.ac.at/en/), which also includes contact information.
 
-- Marginalized Scholars
-- Local Communities
-- Citizen Science
-
 ## Common Legal Issues in Research 
 As mentioned above there are lots of legal issues that can arise in research. The goal of this section isn't to make you into a lawyer in the next 30 minutes. It's to equip you with compass that informs you when you should ask ask someone for help or be a bit careful in your next steps. In this section, well cover: 
 
 * Licensing data, code, and outputs in research 
+* Data ownership and intellectual property
 * Working with animals 
 * Working with imported samples 
 * Working with humans 
@@ -89,16 +86,11 @@ One thing to remember as you read this section: Don't panic. We should take lega
 
 Onwards...to licenses. 
 
-- Data license (CC)
-- Code License (GPL, MIT)
-- Hardware License
-- Machine Learning License
-
 Licensing Research Outputs 
 -------------------- 
-A licence is a legal statement attached to your work. It explains what other people are allowed to do with it and which conditions they need to follow.
+A license is a legal statement attached to your work. It explains what other people are allowed to do with it and which conditions they need to follow.
 
-For example, a licence can specify whether other people may:
+For example, a license can specify whether other people may:
 
 * read, download, and share your work;
 * copy or reuse your data, text, images, code, or other materials;
@@ -106,11 +98,9 @@ For example, a licence can specify whether other people may:
 * use your work for commercial purposes; and
 * whether they have to name you as the original creator.
 
-Without a licence, it may be unclear whether other people are allowed to reuse your work. In many cases, your work is automatically protected by copyright as soon as you create it. This means that others generally need your permission before they can copy, share, or adapt it.
+Without a license, it may be unclear whether other people are allowed to reuse your work. In many cases, your work is automatically protected by copyright as soon as you create it. This means that others generally need your permission before they can copy, share, or adapt it.
 
-By choosing a licence, you make your intentions clear. You can give others permission to use your work in specific ways without requiring them to ask you individually.
-
-For example, you may choose a licence that allows people to share and adapt your work as long as they give you credit. Alternatively, you may choose a more restrictive licence that allows sharing but does not permit commercial use or changes to the work.
+By choosing a license, you make your intentions clear. You can give others permission to use your work in specific ways without requiring them to ask you individually. For example, you may choose a license that allows people to share and adapt your work as long as they give you credit. Alternatively, you may choose a more restrictive license that allows sharing but does not permit commercial use or changes to the work.
 
 **How do you assign a license?**
 * Ensure that you are the owner of the output OR that you have been given the right to assign a license for the output. 
@@ -124,9 +114,16 @@ For example, you may choose a licence that allows people to share and adapt your
 * You should not modify license terms yourself.
 * Licenses are carefully written legal documents and changing them can make them unclear or invalid.
 
+Not all licenses can be applied to every type of output. For example, different licenses are applied to written work and raw data than software and complex analytical code. Below, we provide a non-exhaustive list of licenses that are commonly used for different outputs. The two newest classes of licenses we mention are options for open hardware and for AI models. If you are licensing open hardware or an machine learning model, you do not need to use a specialized license, but they are available. Open hardware can also be licensed using the Creative Commons licenses and open software licenses are still frequently used for machine learning models.  
+
+If you want help selecting a license, you can always ask a member of the RDM Team, but there are online tools that can be useful. For picking a license for non-code based outputs, try the [Creative Commons License Chooser](https://creativecommons.org/chooser/). You can try the [Open Source License Chooser](https://choosealicense.com/) for code and software. 
+
+If, for any reason, the available licenses are not suitable for your situation, ask for advice before assigning a license to your work. We strongly advise against using a license to solve a problem it was not designed to address. For example, if your data or outputs should only be used for research purposes due to ethical concerns, simply assigning a non-commercial license won't really solve the problem. When in doubt, ask the (RDM Team)[rdm@univie.ac.at] or your data steward for help! 
+
 Frequently Used Licenses: Data
 -------------------- 
-**Creative Commons (CC Licences):** 
+
+**[Creative Commons](https://creativecommons.org/cc-licenses/):** 
 * CC 0: Public Domain
 * CC BY: Attribution
 Credit must be given to the author
@@ -137,7 +134,7 @@ May not be modified
 * CC SA: Share Alike
 Redistribution under the same licensing terms
 
-**Open Data Commons (https://opendatacommons.org)**
+**[Open Data Commons](https://opendatacommons.org)**
 * Open Data Commons Open Database License
 * Open Data Commons Attribution License
 * Open Data Commons Public Domain Dedication and License 
@@ -146,39 +143,41 @@ NOTE: add overview table of CC licenses
 
 Frequently used licenses: Code
 -------------------- 
-* MIT
-* GNU General Public Licenses (GPL) and variations
-* Apache
+* [MIT](https://mit-license.org/)
+* [GNU General Public Licenses (GPL) and variations](https://www.gnu.org/licenses/licenses.en.html)
+* [Apache](https://www.apache.org/licenses/)
+* [Mozilla (MPL)](https://www.mozilla.org/en-US/MPL/)
 
-**Why use different licences for data and software?**
+Frequently used licenses: Open Hardware 
+-------------------- 
+* [CERN Open Hardware Licenses](https://cern-ohl.web.cern.ch/) 
+* [TAPR Open Hardware Licenses](https://tapr.org/the-tapr-open-hardware-license/)
 
-Data and software are reused in different ways, so they should usually have different licences.
+Frequently used licenses: Machine Learning Models
+-------------------- 
+* [OpenRAIL Licenses](https://www.licenses.ai/)
 
-Research data are often copied, combined, analysed, or visualised. Licences such as **CC0** or **CC BY** can make it clear whether others may reuse and share the data.
-
-Software is copied, run, modified, and redistributed. It needs a software-specific licence, such as the **MIT Licence**, **Apache License 2.0**, or **GPL**, which covers issues that are relevant to source code.
-
-Creative Commons licences are generally suitable for data and documentation, but they are not usually recommended for software. Using an appropriate licence for each output makes reuse easier and reduces legal uncertainty.
-
-//Emily Stopped working here// 
-
-## General Legal 
-- Nagoya Protocol
-- Animal Research
-- Human Research
+That's everything we have to say about licenses for now. In the next sections, we'll cover some considerations for working with animals, imported samples, and other humans! 
 
 ### Working with Animals 
-If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. Ethics aside, keep in mind that many journals will ask to see a record of your permits or ethics board approvals before they will agree to publish you research, so be sure to ask questions early and to save important documentation. 
+If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. If you work at another faculty that is conducting animal research and you have questions contacting the animal facility in your faculty is a great place to start! 
+
+Ethics aside, keep in mind that many journals will ask to see a record of your permits or ethics board approvals before they will agree to publish you research, so be sure to ask questions early and to save important documentation. 
 
 ![Raptor Fences by XKCD](https://imgs.xkcd.com/comics/raptor_fences.png "[Raptor Fences by XKCD](https://xkcd.com/758), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)")
 
-### The Nagoya Protocol
+### Working with Imported Samples
+International Transport of Samples
+-------------------- 
+Another important legal or ethical aspect you should consider is the collection and/or transport of international samples. You may need to secure special permits or allow certain inspections to take place before samples are allowed to leave their country of origin or enter Austria. You may also need permits to collect the samples too. Legal guidelines vary significantly by country, even if the countries are close to one another geographically or culturally. Investigate these requirements during the planning phase of your project so you can avoid surprises later. In some regions, permitting can be a challenging and time-consuming process, so it is advisable to start early and talk with other researchers who have worked with similar materials from the same countries. Much like permitting for working with animals, many journals ask to see import and/or export permits for samples, so make sure you save important documentation and abide by any laws. 
+
+The Nagoya Protocol
+-------------------- 
 The “Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization” (NP) is an international treaty that came into force on October 12th 2014. It aims to ensure that any access to genetic resources and its derivatives (e.g. metabolites, lipids, enzymes) is done under fair conditions and any benefits (e.g. commercialization, but also more general any type of knowledge gain) that stem from the utilization of genetic resources is shared equitably with the provider country. The NP **applies to all research and utilization of genetic resources, both for commercial and non-commercial purpose**, and includes applied and basic research. To comply with the NP, researchers must obtain permits for their planned research from the provider country and submit due diligance declarations in the user country.
 
 For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at UNIVIE [Technologytransfer](https://transfer.univie.ac.at/en/team-and-contact/) .
 
-### International Transport of Samples
-Another important legal or ethical aspect you should consider is the collection and/or transport of international samples. You may need to secure special permits or allow certain inspections to take place before samples are allowed to leave their country of origin or enter Austria. You may also need permits to collect the samples too. Legal guidelines vary significantly by country, even if the countries are close to one another geographically or culturally. Investigate these requirements during the planning phase of your project so you can avoid surprises later. In some regions, permitting can be a challenging and time-consuming process, so it is advisable to start early and talk with other researchers who have worked with similar materials from the same countries. Much like permitting for working with animals, many journals ask to see import and/or export permits for samples, so make sure you save important documentation and abide by any laws. 
+
 
 ### Research using Private Funds 
 We have one final legal tip before you move onto the section quiz. If your research is supported by private funds (for example, from a company), make sure you carefully read any legal documentation you are given at the start of your project. It is also a good idea to have a conversation with your advisor about any private funds you receive or funds they have received that fund your project. Make sure you understand who retains legal ownership of the data you create and if there are any other restrictions that might be placed on the data and its publication.
