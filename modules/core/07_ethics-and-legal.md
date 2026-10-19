@@ -445,18 +445,44 @@ Several of these rules can apply to the same project at the same time. If you ar
 - Early consultation with relevant university support structures helps address complex cases such as human and animal research, indigenous data, and intellectual property.
 
 ## Knowledge Check
-- Q: Why are ethical considerations in research data management important beyond formal legal compliance?
-- Q: What is one practical difference between data licensing (for example, Creative Commons) and code licensing (for example, MIT or GPL)?
-- Q: In which situations might additional ethics or legal review be required before data collection or sharing?
-- Q: What types of information are typically considered sensitive personal data under GDPR?
-- Q: What does informed consent need to clarify so participants can make an informed decision?
-- Q: How can CARE principles influence decisions about collecting, managing, and sharing data from local or indigenous communities?
+Test your knowledge with the quiz below. Each question has at least one correct answer, but there can also be multiple correct answers.
 
+Why are ethical considerations in research data management important beyond formal legal compliance?
 
-### Quiz
-Each question has at least one correct answer, but there can also be multiple correct answers. 
+    [[X]] They help protect participants, communities, and research integrity
+    [[X]] They support trust in research and responsible reuse of data
+    [[ ]] They only matter if a law requires them
+    [[ ]] They only matter for research involving animals
 
-Sample collection and export processes are the same in most countries. 
+What is a practical difference between data licensing (e.g., Creative Commons) and code licensing (e.g., MIT or GPL)?
+
+    [[X]] Creative Commons licenses are designed for content and data, while MIT and GPL are designed for software
+    [[ ]] Data and code can never be licensed under the same terms
+    [[ ]] Code licenses are legally optional, data licenses are mandatory
+    [[ ]] There is no difference
+
+In which situations might additional ethics or legal review be required before data collection or sharing?
+
+    [[X]] Research involving human participants or personal data
+    [[X]] Research involving animals or imported samples
+    [[X]] Data from Indigenous or local communities
+    [[ ]] Only when the data is stored on a personal laptop
+
+What does informed consent need to clarify so participants can make an informed decision?
+
+    [[X]] What participation involves and how their data will be used
+    [[X]] Potential risks and benefits, and that participation is voluntary
+    [[X]] How they can withdraw and who to contact with questions
+    [[ ]] That participants must agree to all future uses of the data without exceptions
+
+How can the CARE principles influence decisions about data from local or Indigenous communities?
+
+    [[X]] They emphasize collective benefit, authority to control, responsibility, and ethics
+    [[X]] They encourage involving communities in decisions about how their data are used and shared
+    [[ ]] They replace the need for any other legal or ethical review
+    [[ ]] They only apply to data that is already openly published
+
+Sample collection and export processes are the same in most countries.
 
       [[ ]] True
       [[X]] False
@@ -465,7 +491,7 @@ What are some examples of sensitive data under the GDPR?
 
     [[ ]] A laboratory mouse model's genetic data
     [[X]] Personal data that can be linked to a living person
-    [[ ]] Information about racial identity or ethnic background
+    [[X]] Information about racial identity or ethnic background
     [[X]] Data about political beliefs or affiliations
     [[ ]] Biometric information from a Roman soldier    
 
