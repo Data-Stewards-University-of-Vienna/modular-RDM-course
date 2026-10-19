@@ -212,7 +212,37 @@ Some useful questions to ask include:
 * Are there confidentiality requirements or restrictions on future reuse?
 
 These questions are particularly important if you intend to publish an open dataset, release software, or reuse research materials in a future project.
+
+Data Transfer Agreements (DTAs)
+-------------------- 
+Just as physical research materials may be subject to MTAs, research data may be subject to Data Transfer Agreements (DTAs) or similar data-sharing agreements.
+
+A DTA establishes the conditions under which data can be transferred between organizations or research partners. These agreements are particularly important when working with confidential, sensitive, commercially valuable, or personal data.
+For example, imagine that a research group at another university agrees to share a dataset containing pseudonymized participant information. A DTA might specify who is allowed to access the data, what research purposes are permitted, which security measures must be followed, and whether the data can be shared with additional collaborators.
+
+Depending on the circumstances, DTAs may also address data retention, deletion, publication, and future reuse. When personal data are involved, additional agreements or safeguards may be required under the GDPR. An important point to remember is that receiving a dataset does not automatically give you permission to use it for any purpose you choose. Always check whether restrictions apply, particularly before sharing the data with others or using them for a new research question.
+
+If your project involves transferring data or materials between institutions, consult your supervisor and the relevant university support services before making arrangements.
+
+Material Transfer Agreements (MTAs)
+-------------------- 
+If your research involves receiving or sending physical research materials, you may encounter a Material Transfer Agreement (MTA).
+
+An MTA is a legal agreement that establishes the conditions under which research materials can be transferred between organizations. These agreements are particularly common when working with biological samples, cell lines, microorganisms, chemical compounds, or other specialized research materials.
+
+For example, imagine that a collaborator at another university sends you a collection of bacterial strains to use in your research. An MTA might specify that you can use the strains for a particular research project but cannot distribute them to other researchers without permission.
+
+MTAs may address questions such as who can use the materials, whether they can be transferred to third parties, what happens to any inventions or discoveries resulting from their use, and whether the materials must be returned or destroyed at the end of the project.
+
+Before sending or receiving research materials, check whether an MTA is required. Don't assume that materials can be freely shared simply because they are being exchanged between academic researchers.
+
+Where Can You Get Help?
+--------------------
 At the University of Vienna, Research Services can provide guidance on research contracts, intellectual property, and legal questions related to external funding. If you're unsure about the conditions attached to your project, it's much better to ask early than to discover restrictions when you're preparing to publish!
+
+Depending on the topic, there are different teams at UNIVIE that you can contact, but don't worry too much about finding the right person. We regularly communicate with one another and transfer questions between units. 
+
+For questions about patents, industry partnerships, and material transfer agreements, contact the [Technology Transfer Office](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry). For other questions, you can reach out to the [RDM Team](rdm@univie.ac.at). 
 
 ### Working with Animals 
 If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. If you work at another faculty that is conducting animal research and you have questions contacting the animal facility in your faculty is a great place to start! 
