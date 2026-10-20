@@ -252,9 +252,41 @@ Additionally, existing workflows can be reused or shared on popular services lik
 
 ## Quiz
 
+What a surprise, another quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
 
-Sources 
-======================
+Your data documentation should, at least, include documentation on:
+
+    [[X]] Study-level
+    [[ ]] Folder-level
+    [[ ]] File-level
+    [[X]] Data-level
+    
+Metadata standards, ontologies and controlled vocabularies:
+
+    [[ ]] Should never be used together.
+    [[X]] Can enable both humans and computers to understand your data.
+    [[X]] Describe your data.
+    [[ ]] Require hardly any effort to be established.
+    [[X]] Can be required for specific repositories.
+    
+A README file describing one of your datasets should contain:
+
+    [[X]] Methodological details.
+    [[X]] Validation and quality assurance procedures.
+    [[X]] Data processing steps.
+    [[ ]] A definition of the FAIR principles.
+    [[X]] units of measurement for each variable.
+    [[ ]] As much information as possible.
+
+Which statements on version control are correct:
+
+    [[ ]] You should always use Git for any form of version control.
+    [[X]] Descriptive file names can be used as version control.
+    [[X]] Cloud storage services often provide automatic file versioning.
+    [[X]] File versioning is particulary useful when working collaboratively.
+
+
+## Sources 
 
 Quotations
 --------------------
@@ -262,10 +294,3 @@ Quotations
 
 ^1^ ELIXIR. Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). 2021. URL: https://rdmkit.elixir-europe.org/.
 
-^2^ GO FAIR. Fair Principles. Accessed 2023. URL: https://www.go-fair.org/fair-principles/.
-
-^3^ The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, Anna Krystalli, Alexander Morley, Martin O'Reilly, & Kirstie Whitaker. The Turing Way: A Handbook for Reproducible Data Science (v0.0.4). (2019) DOI: https://doi.org/10.5281/zenodo.3233986
-
-^4^  Jeanne Wilbrandt: Research Data Management Intro Series: Coffee Lectures & Espresso Shots. (2023) DOI: https://doi.org/10.5281/zenodo.7573695
-
-^5^ EDINA and Data Library, University of Edinburgh: Research Data MANTRA (online training units & data handling tutorials). (2017) DOI: https://doi.org/10.5281/zenodo.1035218
