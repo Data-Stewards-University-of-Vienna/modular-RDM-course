@@ -9,8 +9,7 @@ version:  1.0
 language: en
 
 TODO
-- write first draft
-- add section lines
+- insert image properly
 - review round
 
 -->
@@ -89,24 +88,34 @@ Data can exist in different forms, and it is important to keep them separated. G
 
 When preserving data, the raw data is often the most valuable one. Raw data is unique and should be safeguarded to prevent loss. It should also be secured to prevent unauthorised access or modification through the use of pass word protection, encryption, or other security measures. While working on a dataset, it is useful to create a copy of the raw data as a working copy for processing and analysis. This will ensure that the original raw data does not accidentally get overwritten or edited without awareness.
 
-Research Group Norms and Rules/SOPs for Data Organization
+Research Group Norms, Rules, and Procedures for Data Organisation
 --------------------
 
-While this module up to now has mostly focussed on data organisation for an individual, it is important to also apply these guidelines and practices to that of the wider research group. On the group level, further organisational structures might be necessary to ensure easy and effective collaboration with other members of your research team.
-* README files
-* Data clean up days 
-* Exercise on creating naming conventions in a research group
-* Templates
+While this module up to now has mostly focussed on data organisation for an individual, it is important to also apply these guidelines and practices to that of the wider research group. On the group level, further organisational structures might be necessary to ensure easy and effective collaboration with other members of your research team. Since these organisational group norms might differ for each group, it is important that each group member is aware of the implemented structures, as well as where to find the documentation on these structures in case of confusion, or the introduction of a new member to the research group.
+
+**README files**
+
+The easiest aspect to introduce and maintain in a research group, is the use of a README file. As will be discussed in more detail in the next module, a README file is an administrative metadata document detailing the project specifics: Who created the data, what does the data entail, what file formats are there, etc. It is usually the first place someone should look when accessing a new dataset, as it will provide a brief overview of what is there. It is for that reason that README files are also particularly important in research groups, as the specific composition of the project members might change over time.
+
+**Templates**
+
+A second essential aspect for a research group is the use of templates for data organisation. While the README files function on an overarching (meta)level, the templates can be used more specifically within projects. An example of a beneficial template would be a document detailing the metadata variables that should be collected as part of the data collection, as well a the format in which to collect these variables. It could further include details on storage or other relevant aspects to the data collection, processing, or analysing stages. The specifics of such templates will likely vary between groups, but will ensure consistency within a group, regardless of which project member is performing the task.
+
+**Naming conventions**
+
+As part of the creation of templates to use, it is also important to agree on certain naming conventions within a research group. Here, as with the templates, having naming conventions will ensure consistency across the research group, which will in turn make it faster and easier for anyone in the research group to find and use what is needed. Creating the naming conventions might be easy if everyone in the research group already has been following the guidelines on how to name files and folders as listed above, but individual differences and preferences might still exist based on individual needs or habits. Therefore, it is useful to sit down together and work through the needs of the research group overall and develop and document a file organisation system that works for everyone.
+
+**Data clean up days**
+
+An efficient way of ensuring all of the group members are able to keep up with the norms and procedures as planned out with the use of README files, templates, and naming conventions is the introduction of data clean up days. This might be especially helpful at the beginning phases of a new research group, or the introduction of a new person into the research group. On such days, multiple group members can sit together and work on implementing all the agreed-upon organisational structures according to the guidelines. This could be beneficial even for more senior group members, who are likely to have some lingering files or folder structures that are not yet organised according to the research group guidelines.
 
 Conclusion
 --------------------
 
-* Documenting your organization (bridge to next module)
+This module has taught you the importance of data organisation through the use of naming conventions for your files and folders, the structure of your folders, and the implementation of organisational structures and guidelines for both individuals and research groups. This means that you will have the perfect organisational structure in place to actually document your research, i.e. the content of your files and folders. In the next module, you will learn just that: what exactly to include in your metadata for effective research documentation.
 
 Quiz
 --------------------
-
-* 3-5 question quiz that includes explanations of correct answers.
 
 Test your knowledge on data organisation.
 
@@ -130,3 +139,8 @@ Test your knowledge on data organisation.
   [[X]] Data that is in some form been modified, such as through normalisation, to make it more suitable for analysis.
   [[ ]] Data that has been collected and automatically inputted into a tabular format, so that it can easily be understood by a computer.
   [[ ]] Data that has been interpreted, often through using statistical techniques to extract insights from the data.
+
+  **The introduction of a template for data organisation is most useful when a project had ended.**
+
+  [[ ]] True
+  [[X]] False  
