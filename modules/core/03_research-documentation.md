@@ -214,7 +214,41 @@ In conclusion, the richness and structure of README files add significant value 
 
 ## Version Control
 
+Version control is a way to keep track of changes made to files and datasets. While the implementation of a good file naming convention will indicate that different versions exist, this will not explain the difference between two (or more) versions. File versioning will enable transparency about which actions and changes were made and when. This makes it easy to backtrack and find something that was present in a previous version, but was later deleted or changed.
+
+When considering which method of version control to employ, you may want to ask yourself the following questions:
+--------------------
+
+- Do I need to collaborate on files, perhaps at the same time?
+- Is there a need to be able to backtrack and restore a previous version?
+- Will there be many changes made?
+
+For smaller demands of versioning, manual management can be sufficient. This can be done by keeping a log where changes for each respective file are documented, version by version or even descriptive file names.
+
+Many cloud storage services, like u:cloud and OneDrive, provide automatic file versioning, which can be convenient for spreadsheets, text files, and slides.
+
+Version Control with Git
+--------------------
+
+For more advanced version control, conflict resolution, and back-tracing capabilities, it is recommended to use dedicated version control software such as Git. Git can be hosted on platforms like GitHub and GitLab. It is primarily designed for managing source code files. But you could use it for anything text based. It's important to note that large binary files (e.g., videos, large images) may not be suitable for Git repositories due to their size, as they can bloat the repository and slow down operations. 
+While operating Git through the command line may initially seem daunting, there are plenty of short tutorials available online that can help you use it with ease.
+
 ## Workflow Tools
+
+In addition to version control and manual management, there are cases where using workflow tools can be highly beneficial. Workflow management systems help organize and automate the execution of computational tools. Compared to standalone scripts, workflow systems provide advantages such as documentation of computational analyses, scalability (including cloud execution), and improved reproducibility.
+
+Workflow tools enable the specification of software packages or containers for the tools used within the workflow. This allows others to easily rerun the workflow without the need to pre-install every required software component, enhancing reproducibility. The field of workflow management is thriving, and [numerous workflow management systems](https://s.apache.org/existing-workflow-systems) are available.
+
+Among the many workflow management systems available, one can mention:
+--------------------
+
+- Workflow platforms that manage your data and provide an interface (web, GUI, APIs) to run complex pipelines and review their results, such as [Galaxy](https://galaxyproject.org/).
+- Workflow runners that take a workflow written in a proprietary or standardized format and execute it locally or on a remote compute infrastructure, such as [Nextflow](https://www.nextflow.io/) or [Snakemake](https://snakemake.readthedocs.io/).
+    - If you are planning to use Snakemake on the [Life Science Compute Cluster](https://lisc.univie.ac.at/) (LiSC) there is a page in the [LiSC Wiki](https://lisc.univie.ac.at/wiki/content/working_environment/applications/snakemake) that provides support (access requires a user account).
+
+Additionally, existing workflows can be reused or shared on popular services like [WorkflowHub](https://workflowhub.eu/) and [Dockstore](https://dockstore.org/), which provide repositories for workflows, making them accessible to the wider community.^1^
+
+![XKCD Data Pipeline](https://imgs.xkcd.com/comics/data_pipeline.png "[Data Pipeline by XKCD](https://xkcd.com/2054), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
 ## Quiz
 
