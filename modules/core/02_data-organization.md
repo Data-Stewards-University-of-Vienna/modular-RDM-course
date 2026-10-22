@@ -69,7 +69,7 @@ Here are some guidelines for creating effective file names:
 * **Document your naming scheme:** In order to ensure long-term success and facilitate comprehension of your consistent naming scheme, it is advisable to thoroughly document it. This documentation should be structured in a manner that enables people unfamiliar with your data to comprehend it easily.
 
 IMAGE: https://phdcomics.com/comics/archive.php?comicid=1323
-("Piled Higher and Deeper" by Jorge Cham, www.phdcomics.com)
+("Piled Higher and Deeper" by Jorge Cham, www.phdcomics.com) -- I've emailed them to ask for permission to use it, just waiting for response. Haven't figured out how to actually format it to show up though...
 IMAGE ALTERNATIVE: https://xkcd.com/1360/
 
 For naming folders, similar guidelines also apply, though they are usually more general in nature than the names of individual files. Here, you should also keep in mind that the structure of the folders matters. A well-designed folder structure can help you quickly and easily locate the data you need, saving you time and effort. A clear and consistent folder structure can also help you collaborate effectively with other members of your research team. By establishing a standardized approach , everyone involved can easily access and understand your data.
