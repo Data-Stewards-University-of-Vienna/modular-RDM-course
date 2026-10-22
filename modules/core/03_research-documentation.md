@@ -16,7 +16,14 @@ TODO
 
 # Research Documentation
 
-## Learning Objectives
+Learning Objectives
+=======================
+
+1. Summarize general considerations and solutions for your data documentation.
+2. Demonstrate when and how to use README files and what they should include.
+3. Know how to find appropriate standard metadata for datasets or samples. 
+4. Summarize version control and the tools available for managing different versions of outputs. 
+5. Explain how to document common scientific workflows and understand why documentation is important. 
 
 ## Data Documentation
 
@@ -53,8 +60,8 @@ When documenting your data you should keep the following things in mind:
   * Discipline-specific repositories generally require both study-level and data-level documentation.
 
   * > [!IMPORTANT] Repositories often only accept data and documentation in a very strict format
-        > - they can require a predefined set of attributes or fields (metadata checklists) to be filled, ontology terms to be used, specific (meta)data schemas to be adopted
-        > - We recommend familiarising yourself with  the requirements of the repositories that could be appropriate for publishing your data already at the beginning of the project, so that you can start documenting and formatting your data accordingly as early as possible.
+     - they can require a predefined set of attributes or fields (metadata checklists) to be filled, ontology terms to be used, specific (meta)data schemas to be adopted
+     - We recommend familiarising yourself with  the requirements of the repositories that could be appropriate for publishing your data already at the beginning of the project, so that you can start documenting and formatting your data accordingly as early as possible.
 
 - Make sure the documentation is kept close to the data, so that nobody will be exposed to the data without being able to find the documentation.
 
@@ -230,8 +237,17 @@ Many cloud storage services, like u:cloud and OneDrive, provide automatic file v
 Version Control with Git
 --------------------
 
-For more advanced version control, conflict resolution, and back-tracing capabilities, it is recommended to use dedicated version control software such as Git. Git can be hosted on platforms like GitHub and GitLab. It is primarily designed for managing source code files. But you could use it for anything text based. It's important to note that large binary files (e.g., videos, large images) may not be suitable for Git repositories due to their size, as they can bloat the repository and slow down operations. 
+For more advanced version control, conflict resolution, and back-tracing capabilities, it is recommended to use dedicated version control software such as Git. Git can be hosted on platforms like [GitHub](https://github.com/) and [GitLab](https://gitlab.com/), but also on internal GitLab services like from the University of Vienna [Phaidra GitLab](https://gitlab.phaidra.org).
+
+It is primarily designed for managing source code files. But you could use it for anything text based. It's important to note that large binary files (e.g., videos, large images) may not be suitable for Git repositories due to their size, as they can bloat the repository and slow down operations. 
 While operating Git through the command line may initially seem daunting, there are plenty of short tutorials available online that can help you use it with ease.
+
+Some useful links:
+- [Git Official Documentation](https://git-scm.dev/doc)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git as GUI](https://git-scm.com/tools/guis)
+- [.gitignore File Creator](https://www.toptal.com/developers/gitignore/)
+
 
 ## Workflow Tools
 
