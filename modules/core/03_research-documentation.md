@@ -8,8 +8,6 @@ version:  1.0
 language: en
 
 TODO
-- write first draft
-- add section lines
 - review round
 
 -->
@@ -77,6 +75,13 @@ Documentation Tools
 - A university-wide solution does not exist so far, but if you are part of the Faculty of Life Sciences and your research group is interested to use RSpace, reach out to Emily Kate (emily.jean.kate@univie.ac.at).
 
 - Futhermore, you could use online platforms for collaborative research and file sharing services (such as [OSF](https://osf.io/)) as ELN or data management systems. 
+
+- Also standard tools like OneNote from Office 365 or simple spreadsheets like Excel, LibreOffice Calc or Google Sheets can be used in combination with file sharing. The university provides such share options with [ucloud](https://zid.univie.ac.at/ucloud) or the [Share](https://zid.univie.ac.at/share), but also selfhost alternatives are a possibility such as [Nextcloud](https://nextcloud.com) and  [ONLYOFFICE](https://www.onlyoffice.com/).
+
+- more tools:
+   * Wikis like [Confluence](https://www.atlassian.com/software/confluence) or [Outline](https://www.getoutline.com)
+   * markdown notebooks such as [Notion](https://www.notion.com) or [Obsidian](https://obsidian.md)
+   * Project tracking with docs like [Jira](https://www.atlassian.com/software/jira) or [OpenProject](https://www.openproject.org)
 
 - For help making this decision, contact your data steward.
 
@@ -158,6 +163,22 @@ Similarly to the metadata standards, check whether you really need to find a sui
 - Accept that one ontology may not be sufficient to describe your data. It is very common that you have to combine terms from more than one ontology.
 - Accept terms that are good enough. Sometimes you you cannot find a term that perfectly match what you want to express. Choosing the best available term is often better than not choosing a term at all. Note that the same concept may also be present in multiple ontologies.^1^
 
+Metadata formats
+--------------------
+
+Most repositories require specific formats for uploaded metadata, particularly in the life sciences, where these formats can be highly subject-specific. It is always advisable to check the requirements of the various repositories.
+
+Here are some formats:
+- [ISA-Tab](https://isa-specs.readthedocs.io/en/latest/isatab.html)
+- [mzTab-M:](https://hupo-psi.github.io/mzTab/2_0-metabolomics-release/mzTab_format_specification_2_0-M_release.html)
+- [ISA-JSON](https://isa-specs.readthedocs.io/en/latest/isajson.html)
+- [MIxS](https://genomicsstandardsconsortium.github.io/mixs)
+- [EML](https://eml.ecoinformatics.org)
+- [Darwin Core](https://dwc.tdwg.org)
+- [TEI P5](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
+- [ISO 19115 / 19139](https://doc.esri.com/en/arcgis-pro/latest/help/metadata/create-iso-19115-and-iso-19139-metadata.html)
+- [FITS](https://fits.gsfc.nasa.gov/)
+- [CDISC SDTM / ADaM](https://www.cdisc.org/standards/foundational/adam)
 
 ## README files
 
