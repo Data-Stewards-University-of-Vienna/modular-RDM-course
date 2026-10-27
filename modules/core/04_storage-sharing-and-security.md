@@ -148,20 +148,6 @@ For projects involving external collaborators, ensure that sharing arrangements 
 
 Remember that not every dataset should be shared with every collaborator. Access should be limited to those who need it for their role in the project.
 
-## Data Ownership (@Simone I am not sure if supervisors can help and if this is suitable for here; @Lukas fair, should we save it for ethics and legal?)
-
-Researchers often think of the data they create as "their data", but ownership and responsibility are not always the same.
-
-At the University of Vienna, research data are generally governed by university policies, funding agreements, employment contracts, and legal requirements. The exact ownership of research data therefore depends on the circumstances of the project.
-
-Understanding who owns the data is important because ownership affects:
-
-- who may access the data,
-- who can authorise sharing,
-- who is responsible for long-term preservation,
-- what happens to the data when a project ends.
-
-If you are uncertain about data ownership in your project, discuss the issue with your supervisor or contact the appropriate university support service (RDM Team/Legal Help Desk) before sharing or transferring data.
 
 ## Sharing Data Beyond the University
 

@@ -12,11 +12,6 @@ TODO
 
 -->
 
-# Research Documentation
-
-Learning Objectives
-=======================
-
 1. Summarize general considerations and solutions for your data documentation.
 2. Demonstrate when and how to use README files and what they should include.
 3. Know how to find appropriate standard metadata for datasets or samples. 
@@ -289,7 +284,7 @@ Additionally, existing workflows can be reused or shared on popular services lik
 
 ## Quiz
 
-What a surprise, another quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
+- Wikis like Confluence and Outline or markdown notebooks such as Notion or ObsidianWhat a surprise, another quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
 
 Your data documentation should, at least, include documentation on:
 
@@ -330,4 +325,3 @@ Quotations
 **To make this course, we used resurces and text from a diversity of sources. If we quoted text directly from a source or we only lightly edited the text, that quotation is indicated by a superscript number. A list of those sources can be found here.**
 
 ^1^ ELIXIR. Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). 2021. URL: https://rdmkit.elixir-europe.org/.
-

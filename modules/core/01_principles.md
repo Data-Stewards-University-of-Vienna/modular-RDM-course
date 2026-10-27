@@ -1,5 +1,14 @@
+<!--
+authors: Emily J. Kate, Lukas Kraiger 
+email: emily.jean.kate@univie.ac.at, lukas.kraiger@univie.ac.at    
+
+version:  1.0
+
+language: en
+
+-->
 # Key Concepts and Principles 
-Welcome to Module 2! //the 2 confused me when looking at our file names// In this module, we’ll build the foundation for the rest of the course by looking at what research ddata actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's just in! 
+Welcome to Module 1! In this module, we’ll build the foundation for the rest of the course by looking at what research data actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's jump in! 
 
 Objectives
 -------------------- 
@@ -26,8 +35,6 @@ The University of Vienna considers research data to be “all information (irres
 What a mouthful, but the punchline is that your research data is a lot more than just the individual measurements you used to formulate your newest figure or validate your most recent hypothesis. Your research data certainly includes those things, but all information you create during the research process can be considered data too! Even your “negative results” are data. Not all data will be sent into the world as an open source dataset and that’s okay, but it doesn’t mean we shouldn’t give those tidbits as much care and attention as the other stuff. We’ll talk more about why some data shouldn’t be released into the wild a little later. 
 
 Alright, now that we know what research data is, we can move onto metadata and that mysteriously bureaucratic phrase “research data management”. I bet the people who work in the RDM department are a bunch of boring pencil pushers…oh wait…I’m being told we work in that department…but I’m not boring and I rarely push pencils. 
-
-// I really love the writing of this section I wonder if we can also add some of this to other sections of the course so it feels more coherent//
 
 What is Metadata
 --------------------
@@ -68,7 +75,7 @@ Our friends at Ghent University are also really passionate about RDM and they cr
 
 Finished watching? So now you know that research data management means ensuring that your data are well organized, documented, securely stored, eventually archived, findable, and reusable by others whenever possible. This might seem overwhelming, but never fear! The Research Data Management Team at the University of Vienna is here to help. 
 
-We have a handy website at rdm.univie.ac.at and you can email us anytime at rdm@univie.ac.at. If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. //Should we list the mail adresses here maybe?//
+We have a handy website at [rdm.univie.ac.at](rdm.univie.ac.at) and you can email us anytime at [rdm@univie.ac.at](rdm@univie.ac.at). If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. You can find the contact information for all of the data stewards on this [page](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/). 
 
 * Faculty of Life Sciences 
 * Centre for Microbiology and Environmental Systems Science (CeMESS) 
@@ -137,7 +144,7 @@ Also, remember that when you work with sensitive or protected data, you should p
 
 Step 4: Analyzing
 --------------------
-Data analysis begins when you finally dive into your data and use it to answer scientific questions or test hypotheses. The methods you use to analyze your data are also called a “workflow”. During many projects, workflows will likely be repeated several times and modified to increase reliability and efficiency. Always remember to keep clear records of how your workflow changes over time. You always want your workflows to be reproduceable by your team members and other researchers. This reproducibility is a central tenant of making science FAIR. Thinking about how you should analyze your data is certainly important, but you should also consider how you will document you analyses and investigations. 
+Data analysis begins when you finally dive into your data and use it to answer scientific questions or test hypotheses. The methods you use to analyze your data are also called a “workflow”. During many projects, workflows will likely be repeated several times and modified to increase reliability and efficiency. Always remember to keep clear records of how your workflow changes over time. You always want your workflows to be reproduceable by your team members and other researchers. This reproducibility is a central tenant of making science FAIR. Thinking about how you should analyze your data is certainly important, but you should also consider how you will document your analyses and investigations. 
 
 Here are two last tips from people who know some things because they’ve seen some things and *occasionally* made mistakes themselves. First, always keep an unedited version of your unanalysed data stored. Never use this specific file to conduct analyses. Use a copy instead. This way, if you make a problematic edit to your data or your data gets jumbled, you can always make a copy of the original file and start again. This takes the situation from “data disaster” to an "inconvenient afternoon". Second, if you are conducting analyses and find yourself confused with a million files open and an inability to think clearly, it’s probably time for a break. Take a walk. Eat something. Have a nap. Drink some water. You aren’t going to make good analytical decisions when you’re frazzled, and you certainly won’t document things properly. A 30-minute break can save you hours of headache later. 
 
@@ -148,7 +155,7 @@ When you hear of preserving, you might think of culinary delicacies such as smok
 ![Trader Joe's Pickle Car](https://upload.wikimedia.org/wikipedia/commons/4/43/Trader_Joe%27s_-_Pickle_Car_%2812221274575%29.jpg "We know you also wish this section was about making pickles and other preserves. Sadly, it isn't, but maybe you could get yourself a pickle as a treat for making it this far.  [Source: Prayitno / Thank you for (12 millions +) view from Los Angeles, USA](https://upload.wikimedia.org/wikipedia/commons/4/43/Trader_Joe%27s_-_Pickle_Car_%2812221274575%29.jpg), [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en)") 
 
 
-The first step in data preservation is to decide what data should be maintained and what data can be destroyed. All (non-sensitive) data that contributed to a publication should preserved. In most cases, publishers and funding agencies will require that this data be made available. In many projects, researchers generate more data than they include in publications. This is where the decision-making process can be a little tricky. When considering if unpublished datasets should be preserved, researchers can ask themselves some critical questions. 
+The first step in data preservation is to decide what data should be maintained and what data can be destroyed. All (non-sensitive) data that contributed to a publication should be preserved. In most cases, publishers and funding agencies will require that this data be made available. In many projects, researchers generate more data than they include in publications. This is where the decision-making process can be a little tricky. When considering if unpublished datasets should be preserved, researchers can ask themselves some critical questions. 
 
 First, is the data in question high-quality, reproducible, and well documented? You should only archive unpublished data if the answer is a confident “yes”. Second, ask yourself if the data would be a new contribution to the scientific community and if it would be truly useful to another researcher. This is not to say that your experiment confirming the effectiveness of someone else’s method is valueless, but if you are the 275th researcher to make this conclusion, then the data is probably not worth archiving. Also, results from a smattering of disjointed or unorganized experiments are unlikely to be truly helpful. With this said, you should always think very critically about how data you produce might be useful and sometimes the answer is not easy to determine. In these instances, conversations with trusted colleagues and RDM experts can help you make a good choice. Here are few summarizing points about what should always be archived: 
 
@@ -322,7 +329,7 @@ The Austrian Science Fund (FWF) translates Open Science principles into concrete
 In practice, researchers should:
 
 * **Prepare a Data Management Plan (DMP)** A DMP is required for FWF-funded projects and must describe how data and metadata will be collected, organized, stored, shared, published, and archived. It should be treated as a living document and updated during the project.
-* **Make peer-reviewed publications openly accessible** Publications arising wholly or partly from FWF funding must be available Open Access. This can be achieved through an eligible Open Access venue, certain transformative agreements, or immediate repository-based Green Open Access. FWF generally requires a CC BY licence.
+* **Make peer-reviewed publications openly accessible** Publications arising wholly or partly from FWF funding must be available Open Access. This can be achieved through an eligible Open Access venue, certain transformative agreements, or immediate repository-based [Green Open Access](https://openaccess.univie.ac.at/en/oa-basics/). FWF generally requires a CC BY licence.
 * **Share the data needed to support published results** Research data and metadata necessary to reproduce and verify a publication must be made openly available as soon as possible and no later than publication. If data cannot be shared for legal, ethical, or other legitimate reasons, this must be explained in the DMP.
 * **Make shared data FAIR and reusable** Data should be deposited in an appropriate repository, have a persistent identifier such as a DOI, include suitable metadata, and normally use an open licence. FWF funding can also cover eligible costs associated with preparing, archiving, and providing access to research data.
 
