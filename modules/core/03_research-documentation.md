@@ -12,11 +12,22 @@ TODO
 
 -->
 
+# Research Documentation
+Welcome, travelers, to Module 3! Now that we have covered some of the foundations of data organization, we can turn to more concrete aspects of your research—and to how you can document them effectively.
+
+Objectives
+-------------------- 
+By the end of this module, you should be able to:
+
 1. Summarize general considerations and solutions for your data documentation.
 2. Demonstrate when and how to use README files and what they should include.
 3. Know how to find appropriate standard metadata for datasets or samples. 
 4. Summarize version control and the tools available for managing different versions of outputs. 
 5. Explain how to document common scientific workflows and understand why documentation is important. 
+
+Introduction
+-------------------- 
+Research documentation is the process of recording how research is planned, carried out, analysed, and managed. It can include notes on methods and decisions, laboratory or fieldwork records, protocols, code, data-processing steps, file structures, and changes made throughout a project. Clear documentation helps researchers keep track of their own work, makes collaboration easier, and supports the verification and reuse of research results. It is therefore an essential foundation for transparent, reliable, and reproducible research.
 
 ## Data Documentation
 
@@ -89,10 +100,9 @@ Documentation File Format
 
 - Also non-proprietary formats are preferred over proprietary ones.
 
-Conclusion
--------------------- 
-
-When it comes to addressing issues in data documentation, there is no single optimal solution; instead, it exists as a spectrum ranging from inadequate to excellent documentation. Even something as basic as maintaining a digital record of your handwritten lab notebook or including a reference to it in a README file alongside your dataset can serve as an initial step.
+> **Need advice?**  
+>  
+> There is no single perfect approach to data documentation—every improvement is a valuable step. For example, you could keep a digital copy of a handwritten lab notebook or refer to it in a README file accompanying your dataset. For questions or guidance, contact the Research Data Management Support team at [rdm@univie.ac.at](mailto:rdm@univie.ac.at).
 
 
 ## Metadata Standards
@@ -282,7 +292,11 @@ Additionally, existing workflows can be reused or shared on popular services lik
 
 ![XKCD Data Pipeline](https://imgs.xkcd.com/comics/data_pipeline.png "[Data Pipeline by XKCD](https://xkcd.com/2054), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
-## Quiz
+## Conclusion 
+--------------------
+Add conclusions
+
+## Knowledge Check
 
 - Wikis like Confluence and Outline or markdown notebooks such as Notion or ObsidianWhat a surprise, another quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
 
