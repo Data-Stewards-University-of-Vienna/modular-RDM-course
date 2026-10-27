@@ -35,7 +35,7 @@ While you have completed the course and have a (hopefully) better understanding 
 RDM website: rdm.univie.ac.at
 
 
-Find out if your faculty/centre has a data steward: Add URL!
+Find out if your faculty/centre has a data steward: [click here](https://rdm.univie.ac.at/de/data-stewards-universitaet-wien/data-stewards-kennenlernen)
 
 
 RDM Helpdesk: rdm@univie.ac.at
