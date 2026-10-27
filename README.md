@@ -38,6 +38,8 @@ For a comprehensive guide on utilizing the materials for the in-person workshop,
 * Lukas Kraiger <a href="https://orcid.org/0009-0006-6792-0444"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD LK" height="16"></a> (Data Steward, Faculty of Psychology, University of Vienna, Austria)
 * Jeanne Wilbrandt <a href="https://orcid.org/0000-0002-0363-3837"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD JW" height="16"></a> (Data Steward, Urban Research (URBANISE), University of Vienna, Austria)
 * Simone Spedicato <a href="https://orcid.org/0009-0003-0198-4398"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD SiS" height="16"></a> (Data Steward, Faculty of Earth Sciences, Geography and Astronomy, University of Vienna, Austria)
+* Isolde van Dorst <a href="https://orcid.org/0000-0003-1999-5899"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD SiS" height="16"></a> (Data Steward, Faculty of Business, Economics and Statistics, University of Vienna, Austria)
+* Mathias Josef Mayrgündter <a href="https://orcid.org/0009-0000-4262-6376"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD SiS" height="16"></a> (Data Steward, Faculty of Chemistry, University of Vienna, Austria)
   
 ## Useful links
 - [RDM in Life Science course file](https://github.com/feichtingerm/rdmlifesciunivie/blob/main/rdm_lifesciences_liascript-course_v1.md)
