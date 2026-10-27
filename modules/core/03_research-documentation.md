@@ -35,8 +35,6 @@ Data documentation could be defined as the clear description of everything that 
 
 Due to the large variety of experiments, techniques and collaborative studies that usually occur within the same project, it is challenging to keep good documentation. However, lack of good data documentation often leads to data loss, not reproducible results or worklfows and therefore, waste of money and time.
 
-By the end of this section, you should be familiar with best-practices considering data documentation.
-
 When documenting your data you should keep the following things in mind:
 -------------------- 
 
@@ -64,7 +62,7 @@ When documenting your data you should keep the following things in mind:
   * Discipline-specific repositories generally require both study-level and data-level documentation.
 
   * > [!IMPORTANT] Repositories often only accept data and documentation in a very strict format
-     - they can require a predefined set of attributes or fields (metadata checklists) to be filled, ontology terms to be used, specific (meta)data schemas to be adopted
+     - These can require a predefined set of attributes or fields (metadata checklists) to be filled, ontology terms to be used, specific (meta)data schemas to be adopted
      - We recommend familiarising yourself with  the requirements of the repositories that could be appropriate for publishing your data already at the beginning of the project, so that you can start documenting and formatting your data accordingly as early as possible.
 
 - Make sure the documentation is kept close to the data, so that nobody will be exposed to the data without being able to find the documentation.
@@ -84,9 +82,9 @@ Documentation Tools
 
 - Also standard tools like OneNote from Office 365 or simple spreadsheets like Excel, LibreOffice Calc or Google Sheets can be used in combination with file sharing. The university provides such share options with [ucloud](https://zid.univie.ac.at/ucloud) or the [Share](https://zid.univie.ac.at/share), but also selfhost alternatives are a possibility such as [Nextcloud](https://nextcloud.com) and  [ONLYOFFICE](https://www.onlyoffice.com/).
 
-- more tools:
-   * Wikis like [Confluence](https://www.atlassian.com/software/confluence) or [Outline](https://www.getoutline.com)
-   * markdown notebooks such as [Notion](https://www.notion.com) or [Obsidian](https://obsidian.md)
+- More tools:
+   * Wikis like the [University of Vienna's Wiki](https://zid.univie.ac.at/en/uwiki/), [Confluence](https://www.atlassian.com/software/confluence) or [Outline](https://www.getoutline.com)
+   * Markdown notebooks such as [Notion](https://www.notion.com) or [Obsidian](https://obsidian.md)
    * Project tracking with docs like [Jira](https://www.atlassian.com/software/jira) or [OpenProject](https://www.openproject.org)
 
 - For help making this decision, contact your data steward.
@@ -101,7 +99,7 @@ Documentation File Format
 - Also non-proprietary formats are preferred over proprietary ones.
 
 > **Need advice?**  
->  
+>
 > There is no single perfect approach to data documentation—every improvement is a valuable step. For example, you could keep a digital copy of a handwritten lab notebook or refer to it in a README file accompanying your dataset. For questions or guidance, contact the Research Data Management Support team at [rdm@univie.ac.at](mailto:rdm@univie.ac.at).
 
 
@@ -294,7 +292,7 @@ Additionally, existing workflows can be reused or shared on popular services lik
 
 ## Conclusion 
 --------------------
-Add conclusions
+Good research documentation makes your work easier to understand, manage, and build on—both for yourself and for others. In this module, you explored the basics of documenting research data, the role of metadata and relevant standards, and practical tools such as README files and version control. Together, these practices help you record what your data are, how they were created and processed, and how changes were made over time.
 
 ## Knowledge Check
 
