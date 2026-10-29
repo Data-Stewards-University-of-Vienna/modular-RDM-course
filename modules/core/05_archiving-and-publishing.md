@@ -72,7 +72,8 @@ Preserving data successfully requires more than uploading files to a repository.
 
 Before archiving your research outputs, ensure that they are complete, well organised, and sufficiently documented.
 
-**Organise the data**
+Organise the data
+----------------
 
 Prepare a well-structured dataset by:
 
@@ -81,7 +82,8 @@ Prepare a well-structured dataset by:
 * separating raw data from processed data and analysis outputs;
 * including only stable versions intended for preservation.
 
-**Provide documentation**
+Provide documentation
+----------------
 
 Every preserved dataset should include enough information to understand how the data were created and processed.
 
@@ -94,15 +96,18 @@ Useful documentation includes:
 * descriptions of data processing workflows;
 * provenance information documenting how the data evolved throughout the project.
 
-**Use sustainable file formats**
+Use sustainable file formats
+----------------
 
 Whenever possible, preserve data using open, well-documented file formats rather than proprietary formats. Open formats are more likely to remain readable over long periods and across different software platforms.
 
-**Include licensing information (LINK TO LICENSING SECTION)**
+Include licensing information
+----------------
 
-Clearly specify how others may reuse your data by including appropriate licensing information in both the repository metadata and accompanying documentation.
+Clearly specify how others may reuse your data by including appropriate licensing information in both the repository metadata and accompanying documentation. This will be further discussed in the "Ethics and Legal" section.
 
-**Special cases**
+Special cases
+----------------
 
 Some research outputs require specialised preservation strategies.
 
@@ -117,7 +122,8 @@ Once your data have been prepared, the next step is to deposit them in a **trust
 
 Unlike ordinary storage services, repositories are designed for the long-term preservation, discovery, and citation of research outputs. Trusted repositories provide stable access, curated metadata, persistent identifiers, and long-term preservation policies.
 
-**Repositories versus storage**
+Repositories versus storage
+----------------
 
 It is important to distinguish between storage services and repositories.
 
@@ -131,7 +137,8 @@ Storage services (such as institutional network drives or cloud synchronisation 
 
 Repositories, by contrast, focus on preserving, disseminating, and making research outputs discoverable.
 
-**What makes a repository trustworthy?**
+What makes a repository trustworthy?
+----------------
 
 A trusted repository typically provides:
 
@@ -145,7 +152,8 @@ A trusted repository typically provides:
 
 Repositories may also hold recognised certifications such as CoreTrustSeal.
 
-**How to choose a repository**
+How to choose a repository
+----------------
 
 When selecting a repository, consider:
 
@@ -161,7 +169,8 @@ When selecting a repository, consider:
 * deposit costs, storage limits, and curation fees;
 * discoverability through services such as DataCite, OpenAIRE, or Google Scholar.
 
-**Repository hierarchy**
+Repository hierarchy
+----------------
 
 When choosing where to deposit your data, the following order is generally recommended.
 
@@ -209,13 +218,15 @@ Persistent identifiers improve:
 * interoperability between research systems;
 * long-term access to research outputs.
 
-**How to obtain a PID**
+How to obtain a PID
+----------------
 
 The simplest and most common approach is to deposit your research outputs in a repository that automatically assigns persistent identifiers.
 
 Some institutions also maintain local identifier systems, but these require long-term maintenance and governance. For most researchers, depositing data in a trusted public repository is therefore the preferred option.
 
-**ORCID**
+ORCID
+----------------
 
 Researchers are strongly encouraged to obtain an **[ORCID](https://orcid.org/) iD**. ORCID provides a persistent identifier for researchers, making it easier to connect publications, datasets, software, grants, and other scholarly contributions across different systems.
 
@@ -225,7 +236,8 @@ Including your ORCID when depositing datasets improves attribution, discoverabil
 
 Once your data have been prepared and a suitable repository has been selected, the final step is deciding **how** to make the data available. There are several routes for publishing research data, each with different advantages depending on the nature of the dataset and the goals of the project.
 
-**Publishing Routes**
+Publishing Routes
+----------------
 
 <u>Supplementary Material</u>
 
@@ -274,13 +286,14 @@ Data journals are particularly valuable for:
 
 ---
 
-## Managing Access to Research Data (maybe this in legal?)
+## Managing Access to Research Data
 
 Not all datasets can or should be made openly available. Ethical, legal, contractual, and commercial considerations may require restrictions on access.
 
 Whenever possible, however, metadata describing the dataset should remain publicly available, even when access to the data themselves is restricted.
 
-**Open Access**
+Open Access
+----------------
 
 Openly accessible datasets can be downloaded immediately under an open licence.
 
@@ -291,7 +304,8 @@ Open access maximises:
 - reuse;
 - scientific impact.
 
-**Restricted Access**
+Restricted Access
+----------------
 
 Some datasets cannot be openly released but may be shared after approval.
 
@@ -303,7 +317,8 @@ Examples include:
 
 In these cases, repository metadata remain public while access to the data is managed through an approval process.
 
-**Controlled Access**
+Controlled Access
+----------------
 
 Highly sensitive datasets—particularly involving human participants—may require controlled access.
 
@@ -314,7 +329,8 @@ Access may involve:
 - virtual research environments;
 - monitored data access procedures.
 
-**Embargoes**
+Embargoes
+----------------
 
 Researchers may wish to delay public release of a dataset until:
 
@@ -324,8 +340,8 @@ Researchers may wish to delay public release of a dataset until:
 
 Repositories usually support embargo periods while still allowing the dataset metadata to remain publicly discoverable.
 
-**Sensitive Data**
-
+Sensitive Data
+----------------
 Sensitive research data require particular care.
 
 Before sharing such data, researchers should consider:
@@ -346,11 +362,12 @@ Any access restrictions should be clearly documented in the repository metadata 
 
 ---
 
-## Archiving Research Software and Code (maybe this in satellite?)
+## Archiving Research Software and Code
 
 Modern research increasingly depends on software for data processing, analysis, simulation, and visualisation. Reproducible research therefore requires preserving not only datasets but also the code used to generate results.
 
-**Good Practices**
+Good Practices
+----------------
 
 Research software should be managed using version control systems such as **Git**.
 
@@ -366,7 +383,8 @@ Recommended practices include:
 
 Large binary datasets should generally not be stored directly in Git repositories. If necessary, technologies such as **[Git LFS](https://git-lfs.com/)** can be used.
 
-**GitHub/GitLab and Zenodo**
+GitHub/GitLab and Zenodo
+----------------
 
 A widely adopted workflow combines GitHub or GitLab with Zenodo.
 
@@ -383,80 +401,6 @@ Zenodo creates:
 - one DOI for each released version.
 
 The version-specific DOI should be cited in publications to ensure reproducibility.
-
----
-
-## Authorship and Licensing
-
-Publishing data also requires decisions about authorship, attribution, and licensing.
-
-These decisions should be agreed upon before publication.
-
-**Dataset Authorship**
-
-Dataset authorship should reflect substantial intellectual contributions to the creation and curation of the dataset.
-
-Contributions can be documented using the **CRediT taxonomy**, which includes roles such as:
-
-- Conceptualization;
-- Data Curation;
-- Methodology;
-- Software;
-- Validation;
-- Investigation.
-
-Repositories also allow researchers to associate datasets with their **ORCID iDs**, ensuring proper attribution.
-
-In addition to listing authors, consider including:
-
-- an AUTHORS or CONTRIBUTORS file;
-- acknowledgements;
-- funding information.
-
-If third-party data are included, ensure that all original sources and licences are properly acknowledged.
-
----
-
-**Choosing a Licence**
-
-A licence specifies how others may use your research outputs.
-
-Whenever possible, researchers should choose the **least restrictive licence** compatible with legal, contractual, and ethical obligations.
-
-<u>Data Licences</u>
-
-For research data, common recommendations include:
-
-- **[CC0](https://creativecommons.org/public-domain/)**, which places data in the public domain;
-- **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)**, which requires attribution.
-
-For databases, licences from the **[Open Data Commons](https://opendatacommons.org/)** family (e.g. ODC-By or ODbL) may also be appropriate.
-
-Licences that restrict commercial use (NC) or derivative works (ND) reduce interoperability and are generally discouraged when the goal is Open Science.
-
-If legal or ethical restrictions prevent open sharing, access should instead be managed through appropriate agreements rather than by applying an unsuitable open licence.
-
-<u>Software Licences</u>
-
-Creative Commons licences are not recommended for software.
-
-Instead, use established software licences such as:
-
-- [MIT](https://mit-license.org/);
-- [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html);
-- [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
-You should also verify that the licences of software dependencies are compatible with their chosen licence.
-
-**Implementing a Licence**
-
-When publishing research outputs:
-
-- include a LICENSE file in software repositories;
-- specify the licence in repository metadata;
-- document any third-party material and its licence;
-- provide a recommended citation;
-- ensure that you have the legal right to license all materials being shared.
 
 ---
 
@@ -492,9 +436,10 @@ When choosing a repository:
     [[ ]] You avoid repositories that use metadata standards.
     [[X]] You look for a repository that provides PIDs.
     
-Which licenses make your data or software openly available and allows others to adapt them for their use? 
+Which of the following steps help prepare a dataset for long-term preservation and reuse?
 
-    [[X]] CC0
-    [[X]] GNU General Public License 
-    [[X]] CC BY
-    [[ ]] CC BY-NC-ND
+    [[X]] Include a README file explaining the dataset, its contents, and how it was created.
+    [[X]] Provide metadata and, where relevant, codebooks or variable dictionaries.
+    [[X]] Use open, well-documented file formats where possible.
+    [[ ]] Upload temporary files, duplicate files, and every working draft created during the project.
+    [[X]] Clearly state the licence and any access restrictions that apply to the data.
