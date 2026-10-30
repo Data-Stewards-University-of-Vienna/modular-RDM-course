@@ -108,10 +108,10 @@ Much like dissertations, the best DMP is the DMP that actually gets written. The
 Never fear! 
 
 There are people at UNIVIE who are here to help you!
-The first points of contact regarding a DMP are the data stewards of the University of Vienna. You can find all of us listed here: https://rdm.univie.ac.at/data-stewards-at-the-university/
+The first points of contact regarding a DMP are the data stewards of the University of Vienna. You can find all of us listed here: [Data Stewards](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/)
 
 And of course, you will meet some of us during the in-person section of this course.
-Alternatively, you can always reach the UNIVIE RDM team at rdm@univie.ac.at. They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
+Alternatively, you can always reach the UNIVIE RDM team at [RDM Team](mailto:rdm@univie.ac.at). They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
 
 ## Knowledge Check
 
