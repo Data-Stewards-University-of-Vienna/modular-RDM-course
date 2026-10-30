@@ -1001,7 +1001,8 @@ Quotations
 **To make this course, we used resurces and text from a diversity of sources. If we quoted text directly from a source or we only lightly edited the text, that quotation is indicated by a superscript number. A list of those sources can be found here.**
 
 ^1^ ELIXIR. Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). 2021. URL: https://rdmkit.elixir-europe.org/.
-<!--
+
+<!---
 authors: Lukas Kraiger, Simone Spedicato 
 
 email: lukas.kraiger@univie.ac.at, simone.spedicato@univie.ac.at    
@@ -1010,7 +1011,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Data Storage, Sharing, and Security
 Welcome to the next module, where we will discuss storage and managing your research data - and what are considerations to keep in mind during your project!
