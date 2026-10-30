@@ -1,4 +1,5 @@
-<!--
+
+<!---
 authors: Simone Spedicato, Michael Feichtinger 
 
 email: simone.spedicato@univie.ac.at, michael.feichtinger@univie.ac.at    
@@ -7,7 +8,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Archiving and Publishing
 Welcome to Chapter 5, where we will discuss preserving data, what to preserve and which publication routes are out there. Enjoy!
