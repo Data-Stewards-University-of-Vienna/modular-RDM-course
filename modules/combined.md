@@ -1699,7 +1699,8 @@ Which of the following steps help prepare a dataset for long-term preservation a
     [[X]] Provide metadata and, where relevant, codebooks or variable dictionaries.
     [[X]] Use open, well-documented file formats where possible.
     [[ ]] Upload temporary files, duplicate files, and every working draft created during the project.
-<!--
+
+<!---
 authors: Franziska Bauchinger, Simone Spedicato 
 
 email: franziska.bauchinger@univie.ac.at, simone.spedicato@univie.ac.at    
@@ -1708,7 +1709,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Data Reuse
 Welcome to Chapter 6, where it's all about reusing the data, why that is important for different stakeholders and what to keep in mind when doing so. Have a nice read!
