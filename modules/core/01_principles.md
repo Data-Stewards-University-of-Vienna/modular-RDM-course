@@ -1,4 +1,4 @@
-<!--
+<!---
 authors: Emily J. Kate, Lukas Kraiger 
 email: emily.jean.kate@univie.ac.at, lukas.kraiger@univie.ac.at    
 
@@ -6,7 +6,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 # Key Concepts and Principles 
 Welcome to Module 1! In this module, we’ll build the foundation for the rest of the course by looking at what research data actually includes, how it can be managed throughout a project, and how RDM connects to FAIR data and Open Science. Let's jump in! 
 
