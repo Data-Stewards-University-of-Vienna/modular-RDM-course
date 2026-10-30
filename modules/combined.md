@@ -2622,9 +2622,3 @@ Sign-Off
 
 We hope you find this course helpful and interesting! It was a pleasure to have you along for the ride, and we look forward to seeing your research data out in the wild someday (with appropriate documentation, in a nicely organised structure, while adhering to all legal and ethical considerations, findable in a suitable repository)!
 
-
-Additional RDM Tools and Resources (also integrated into the modules)
---------------------
-
-(This is like an extended bibliography)
-To be added by all module authors?
