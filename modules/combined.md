@@ -149,10 +149,8 @@ Our friends at Ghent University are also really passionate about RDM and they cr
 
 Finished watching? So now you know that research data management means ensuring that your data are well organized, documented, securely stored, eventually archived, findable, and reusable by others whenever possible. This might seem overwhelming, but never fear! The Research Data Management Team at the University of Vienna is here to help. 
 
-We have a handy website at [rdm.univie.ac.at](https://rdm.univie.ac.at) and you can email us anytime at rdm@univie.ac.at. If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. You can find the contact information for all of the data stewards on this 
+We have a handy website at [rdm.univie.ac.at](https://rdm.univie.ac.at) and you can email us anytime at [RDM Team](mailto:rdm@univie.ac.at). If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. You can find the contact information for all of the data stewards on this 
 [page](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/).
-
-
 
 * Faculty of Life Sciences 
 * Centre for Microbiology and Environmental Systems Science (CeMESS) 
@@ -764,7 +762,7 @@ Documentation File Format
 
 > **Need advice?**  
 >
-> There is no single perfect approach to data documentation—every improvement is a valuable step. For example, you could keep a digital copy of a handwritten lab notebook or refer to it in a README file accompanying your dataset. For questions or guidance, contact the Research Data Management Support team at [rdm@univie.ac.at](mailto:rdm@univie.ac.at).
+> There is no single perfect approach to data documentation—every improvement is a valuable step. For example, you could keep a digital copy of a handwritten lab notebook or refer to it in a README file accompanying your dataset. For questions or guidance, contact the Research Data Management Support team at [RDM Team](mailto:rdm@univie.ac.at).
 
 
 ## Metadata Standards
@@ -798,7 +796,7 @@ You should decide at the beginning of the project what are the recommended repos
 
      - e.g. [MIAME](https://www.fged.org/projects/miame)
      - or [MINSEQE](https://www.fged.org/projects/minseqe)
-     - or [MIAPPE](https://www.miappe.org))
+     - or [MIAPPE](https://www.miappe.org)
 
 - ***or other metadata, at the following resources:***
 
@@ -837,7 +835,7 @@ Most repositories require specific formats for uploaded metadata, particularly i
 
 Here are some formats:
 - [ISA-Tab](https://isa-specs.readthedocs.io/en/latest/isatab.html)
-- [mzTab-M:](https://hupo-psi.github.io/mzTab/2_0-metabolomics-release/mzTab_format_specification_2_0-M_release.html)
+- [mzTab-M](https://hupo-psi.github.io/mzTab/2_0-metabolomics-release/mzTab_format_specification_2_0-M_release.html)
 - [ISA-JSON](https://isa-specs.readthedocs.io/en/latest/isajson.html)
 - [MIxS](https://genomicsstandardsconsortium.github.io/mixs)
 - [EML](https://eml.ecoinformatics.org)
@@ -1133,7 +1131,7 @@ Depending on the project, appropriate measures may include:
 
 > **Important**
 >
-> Sensitive data require additional protection, and if your project involves sensitive information, contact the Research Data Management Support team (rdm@univie.ac.at) before data collection begins. They can help you identify suitable storage solutions and security measures for your project. Encryption may also be necessary in some cases, but it can introduce problems such as being unable to decrypt files later, so it should only be used when absolutely necessary and after careful consideration.
+> Sensitive data require additional protection, and if your project involves sensitive information, contact the [Research Data Management Support Team](mailto:rdm@univie.ac.at) before data collection begins. They can help you identify suitable storage solutions and security measures for your project. Encryption may also be necessary in some cases, but it can introduce problems such as being unable to decrypt files later, so it should only be used when absolutely necessary and after careful consideration.
 
 ## Sharing Data During a Project
 
@@ -1265,7 +1263,8 @@ language: en
 # Archiving and Publishing
 Welcome to Chapter 5, where we will discuss preserving data, what to preserve and which publication routes are out there. Enjoy!
 
-## Objectives
+Objectives
+-------------------- 
 Once your papers are written, you don’t want your hard-earned data to just gather dust on an old hard drive. In this section, we will cover how to publish your datasets online so other researchers can find, use, and cite your work—giving you extra academic credit and making your research part of the global open science community.
 
 By the end of this section, you will be able to:
@@ -1710,7 +1709,8 @@ language: en
 # Data Reuse
 Welcome to Chapter 6, where it's all about reusing the data, why that is important for different stakeholders and what to keep in mind when doing so. Have a nice read!
 
-## Objectives
+Objectives
+-------------------- 
 Data reuse means using data for other purposes than it was originally collected for. Reuse of data is particularly important in science, as it allows different researchers to analyse and publish findings based on the same data independently of one another. Data that is well-described, curated and shared under clear terms and conditions is more likely to be reused. Integration with other data sources is also important, since that can enable new, yet unanticipated, uses for the data.
 
 By the end of this section you will be able to:
@@ -2023,7 +2023,7 @@ Not all licenses can be applied to every type of output. For example, different 
 
 If you want help selecting a license, you can always ask a member of the RDM Team, but there are online tools that can be useful. For picking a license for non-code based outputs, try the [Creative Commons License Chooser](https://creativecommons.org/chooser/). You can try the [Open Source License Chooser](https://choosealicense.com/) for code and software. 
 
-If, for any reason, the available licenses are not suitable for your situation, ask for advice before assigning a license to your work. We strongly advise against using a license to solve a problem it was not designed to address. For example, if your data or outputs should only be used for research purposes due to ethical concerns, simply assigning a non-commercial license won't really solve the problem. When in doubt, ask the RDM Team (rdm@univie.ac.at) or your data steward for help! 
+If, for any reason, the available licenses are not suitable for your situation, ask for advice before assigning a license to your work. We strongly advise against using a license to solve a problem it was not designed to address. For example, if your data or outputs should only be used for research purposes due to ethical concerns, simply assigning a non-commercial license won't really solve the problem. When in doubt, ask the [RDM Team](mailto:rdm@univie.ac.at) or your data steward for help! 
 
 Frequently Used Licenses: Data
 -------------------- 
@@ -2147,7 +2147,7 @@ At the University of Vienna, Research Services can provide guidance on research 
 
 Depending on the topic, there are different teams at UNIVIE that you can contact, but don't worry too much about finding the right person. We regularly communicate with one another and transfer questions between units. 
 
-For questions about patents, industry partnerships, and material transfer agreements, contact the [Technology Transfer Office](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry). For other questions, you can reach out to the [RDM Team](rdm@univie.ac.at). 
+For questions about patents, industry partnerships, and material transfer agreements, contact the [Technology Transfer Office](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry). For other questions, you can reach out to the [RDM Team](mailto:rdm@univie.ac.at). 
 
 ### Working with Animals 
 If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. If you work at another faculty that is conducting animal research and you have questions contacting the animal facility in your faculty is a great place to start! 
@@ -2177,7 +2177,7 @@ If you plan to work with genetic resources, it's a good idea to investigate pote
 
 Documentation is an important part of Nagoya Protocol compliance! Under EU regulations, researchers must retain relevant documentation for 20 years after the end of the period of utilization of the genetic resources. A great way to manage this documentation for your lab is to set up a private collection in PHAIDRA, the University of Vienna's long-term digital repository. This allows your lab to keep permits, agreements, and other important records together in a secure, organized location where they can be accessed when needed. The RDM Team can help you set up a private PHAIDRA collection and develop a practical approach to organizing and preserving your documentation.
 
-For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry).
+For legal support with NP you can contact [Sofiia Myklush](mailto:sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](https://forschungsservice.univie.ac.at/transfer).
 
 ### Working with Humans and the General Data Protection Regulation (GDPR)
 If your research project involves collecting, storing, analyzing, or otherwise processing information about living people, you will likely need to consider the General Data Protection Regulation (GDPR). The GDPR is an EU regulation that has applied since May 2018 and establishes rules for how personal data must be handled. It defines the rights of individuals whose data are processed, the responsibilities of those working with personal data, and the measures organizations must take to protect that information. Violations can result in significant penalties, so it's important to understand your responsibilities and plan for data protection from the beginning of your project.
@@ -2186,7 +2186,7 @@ Personal data includes any information relating to an identified or identifiable
 
 If your research involves personal data, talk with your supervisor early in the planning phase of your project about what information you intend to collect, how it will be used, and what measures are needed to protect it. One important distinction to keep in mind is that consent to participate in a research study and consent to process personal data under the GDPR are not necessarily the same thing. While informed consent is often an important part of ethical research, it is not the only possible legal basis for processing personal data under the GDPR. Depending on the circumstances, research institutions may rely on other legal bases. This means that obtaining a participant's agreement to take part in your study does not automatically fulfill all your GDPR obligations.
 
-Depending on your research, it may also be advisable or necessary to consult the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). Also remember that all projects and tools processing personal data must be entered in the UNIVIE [Verarbeitungsverzeichnis](https://wiki.univie.ac.at/spaces/POL/pages/171480014/Record+of+processing+activities) If you're unsure where to start or who to contact, your faculty data steward or the UNIVIE [RDM Team](rdm@univie.ac.at) can help you find the right resources and connect you with the appropriate experts.
+Depending on your research, it may also be advisable or necessary to consult the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). Also remember that all projects and tools processing personal data must be entered in the UNIVIE [Verarbeitungsverzeichnis](https://wiki.univie.ac.at/spaces/POL/pages/171480014/Record+of+processing+activities) If you're unsure where to start or who to contact, your faculty data steward or the UNIVIE [RDM Team](mailto:rdm@univie.ac.at) can help you find the right resources and connect you with the appropriate experts.
 
 Below, we cover a few more issues that are common when working with human partipants.
 
@@ -2198,7 +2198,7 @@ Informed consent is more than just signing a form! It is an ongoing process that
 
 When preparing your consent forms and participant information sheets, think beyond the immediate needs of your study. Consider how the data might be stored, shared, archived, or reused in the future. For example, will you want to share anonymized data with other researchers, deposit a dataset in a repository, or make your data available for future research projects? These possibilities should be considered from the beginning and clearly communicated to participants where relevant. Planning ahead can help ensure that your consent materials support both your current research and potential future data sharing and reuse.
 
-We strongly recommend having your consent forms and participant information sheets reviewed by a member of the UNIVIE [RDM Team](rdm@univie.ac.at) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/) before you begin using them. They can help you identify potential issues, clarify data protection requirements, and ensure that your documentation appropriately addresses data management, sharing, and reuse. It's much easier to make adjustments before data collection begins than to discover later that your consent materials limit what you can do with your research data!
+We strongly recommend having your consent forms and participant information sheets reviewed by a member of the UNIVIE [RDM Team](mailto:rdm@univie.ac.at) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/) before you begin using them. They can help you identify potential issues, clarify data protection requirements, and ensure that your documentation appropriately addresses data management, sharing, and reuse. It's much easier to make adjustments before data collection begins than to discover later that your consent materials limit what you can do with your research data!
 
 Finally, keep in mind that informed consent to participate in research is not necessarily the same as consent to process personal data under the GDPR. These serve different purposes, and obtaining informed consent does not automatically fulfill your data protection obligations. If you're unsure what types of consent or documentation your study requires, talk with your supervisor early in the planning process.
 
@@ -2354,7 +2354,7 @@ Which rules might apply to me?
 | studies online platforms or social media | DSA (Article 40), GDPR, platform terms of use |
 | accesses protected public-sector data | Data Governance Act |
 
-Several of these rules can apply to the same project at the same time. If you are unsure which ones apply to you, contact the UNIVIE [RDM Team](rdm@univie.ac.at), the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/), or the [Technology Transfer Office](https://transfer.univie.ac.at/en/team-and-contact/).
+Several of these rules can apply to the same project at the same time. If you are unsure which ones apply to you, contact the UNIVIE [RDM Team](mailto:rdm@univie.ac.at), the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/), or the [Technology Transfer Office](https://transfer.univie.ac.at/en/team-and-contact/).
 
 ## Conclusion
 requirements to address at the end of a project. By considering these issues from the beginning, researchers can protect the rights and interests of others while supporting transparency, reproducibility, and the responsible reuse of research outputs.
