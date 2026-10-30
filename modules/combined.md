@@ -2150,7 +2150,7 @@ Depending on the topic, there are different teams at UNIVIE that you can contact
 For questions about patents, industry partnerships, and material transfer agreements, contact the [Technology Transfer Office](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry). For other questions, you can reach out to the [RDM Team](mailto:rdm@univie.ac.at). 
 
 ### Working with Animals 
-If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact **Herbert Gasser** (herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. If you work at another faculty that is conducting animal research and you have questions contacting the animal facility in your faculty is a great place to start! 
+If your research project involves living animals, you may need special approval to begin your work. This is especially true if you plan to work with vertebrates or cephalopods. Different levels of permission are required for different types of projects. If your project is considered physically invasive, or causes significant psychological stress, your approval process will probably be more complex. If you are part of the Faculty of Life Sciences and are considering working with animals as part of your research project, you should contact [Herbert Gasser](herbert.gasser@univie.ac.at) in the Dean’s Office. He can help you determine what permissions you will need and can give advice on how to proceed. If you work at another faculty that is conducting animal research and you have questions contacting the animal facility in your faculty is a great place to start! 
 
 Ethics aside, keep in mind that many journals will ask to see a record of your permits or ethics board approvals before they will agree to publish you research, so be sure to ask questions early and to save important documentation. 
 
@@ -2535,10 +2535,10 @@ Much like dissertations, the best DMP is the DMP that actually gets written. The
 Never fear! 
 
 There are people at UNIVIE who are here to help you!
-The first points of contact regarding a DMP are the data stewards of the University of Vienna. You can find all of us listed here: https://rdm.univie.ac.at/data-stewards-at-the-university/
+The first points of contact regarding a DMP are the data stewards of the University of Vienna. You can find all of us listed here: [Data Stewards](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/)
 
 And of course, you will meet some of us during the in-person section of this course.
-Alternatively, you can always reach the UNIVIE RDM team at rdm@univie.ac.at. They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
+Alternatively, you can always reach the UNIVIE RDM team at [RDM Team](mailto:rdm@univie.ac.at). They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
 
 ## Knowledge Check
 
@@ -2603,7 +2603,7 @@ While you have completed the course and have a (hopefully) better understanding 
 RDM website: [rdm.univie.ac.at](rdm.univie.ac.at)
 
 
-Find out if your faculty/centre has a data steward: [click here](https://rdm.univie.ac.at/de/data-stewards-universitaet-wien/data-stewards-kennenlernen)
+Find out if your faculty/centre has a data steward: [click here](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/)
 
 
 RDM Helpdesk: rdm@univie.ac.at
