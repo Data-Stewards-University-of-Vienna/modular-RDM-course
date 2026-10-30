@@ -230,22 +230,22 @@ Test your understanding of data storage, security, and sharing.
 
 According to the 3-2-1 backup rule, what is the safest way to keep your active research data safe?
 
-[( )] Keep 3 copies of your data on 3 different USB sticks in your desk drawer.
-[(X)] Keep 3 copies of your data, on 2 different types of media (e.g., your laptop and the cloud), with 1 copy stored in a different physical location.
-[( )] Keep 1 copy on your laptop, but back it up once a year to a hard drive at your parents' house.
+[[ ]] Keep 3 copies of your data on 3 different USB sticks in your desk drawer.
+[[X]] Keep 3 copies of your data, on 2 different types of media (e.g., your laptop and the cloud), with 1 copy stored in a different physical location.
+[[ ]] Keep 1 copy on your laptop, but back it up once a year to a hard drive at your parents' house.
 
 **Question 2: Handling Sensitive Data**
 
 You are about to start a project that involves interviewing human participants. When is the best time to contact the Research Data Management (RDM) Support team?
 
-[( )] Only at the very end of your PhD, when you are ready to delete the files.
-[( )] Only if you accidentally lose the data and need someone to try and recover it.
-[(X)] Before you start collecting any data, so they can help you set up secure storage and encryption from day one.
+[[ ]] Only at the very end of your PhD, when you are ready to delete the files.
+[[ ]] Only if you accidentally lose the data and need someone to try and recover it.
+[[X]] Before you start collecting any data, so they can help you set up secure storage and encryption from day one.
 
 **Question 3: Sharing with Collaborators**
 
 You need to work on a spreadsheet with a colleague from another university. What is the best way to collaborate without creating version chaos?
 
-[( )] Emailing the file back and forth, adding your initials to the filename (e.g., `data_v2_final_JS.xlsx`).
-[(X)] Using a university-supported sharing platform like u:cloud Pro or OneDrive instead of personal accounts or email.
-[( )] Saving it to a personal, free Dropbox account because it is quicker than checking university options.
+[[ ]] Emailing the file back and forth, adding your initials to the filename (e.g., `data_v2_final_JS.xlsx`).
+[[X]] Using a university-supported sharing platform like u:cloud Pro or OneDrive instead of personal accounts or email.
+[[ ]] Saving it to a personal, free Dropbox account because it is quicker than checking university options.
