@@ -118,7 +118,7 @@ Not all licenses can be applied to every type of output. For example, different 
 
 If you want help selecting a license, you can always ask a member of the RDM Team, but there are online tools that can be useful. For picking a license for non-code based outputs, try the [Creative Commons License Chooser](https://creativecommons.org/chooser/). You can try the [Open Source License Chooser](https://choosealicense.com/) for code and software. 
 
-If, for any reason, the available licenses are not suitable for your situation, ask for advice before assigning a license to your work. We strongly advise against using a license to solve a problem it was not designed to address. For example, if your data or outputs should only be used for research purposes due to ethical concerns, simply assigning a non-commercial license won't really solve the problem. When in doubt, ask the (RDM Team)[rdm@univie.ac.at] or your data steward for help! 
+If, for any reason, the available licenses are not suitable for your situation, ask for advice before assigning a license to your work. We strongly advise against using a license to solve a problem it was not designed to address. For example, if your data or outputs should only be used for research purposes due to ethical concerns, simply assigning a non-commercial license won't really solve the problem. When in doubt, ask the RDM Team (rdm@univie.ac.at) or your data steward for help! 
 
 Frequently Used Licenses: Data
 -------------------- 
@@ -134,13 +134,12 @@ May not be modified
 * CC SA: Share Alike
 Redistribution under the same licensing terms
 
+
 **[Open Data Commons](https://opendatacommons.org)**
 * Open Data Commons Open Database License
 * Open Data Commons Attribution License
-* Open Data Commons Public Domain Dedication and License 
-
-NOTE: add overview table of CC licenses
-
+* Open Data Commons Public Domain Dedication and License
+  
 Frequently used licenses: Code
 -------------------- 
 * [MIT](https://mit-license.org/)
@@ -156,6 +155,7 @@ Frequently used licenses: Open Hardware
 Frequently used licenses: Machine Learning Models
 -------------------- 
 * [OpenRAIL Licenses](https://www.licenses.ai/)
+
 
 That's everything we have to say about licenses for now. In the next sections, we'll cover some considerations for working with intellectual property considerations, animals, imported samples, and other humans! 
 
