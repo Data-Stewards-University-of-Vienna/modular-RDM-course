@@ -7,10 +7,6 @@ email: mathias.mayrguendter@univie.ac.at, simone.spedicato@univie.ac.at
 version:  1.0
 
 language: en
-
-TODO
-- review round
-
 --->
 
 # Research Documentation
@@ -71,6 +67,12 @@ When documenting your data you should keep the following things in mind:
 Documentation Tools
 -------------------- 
 
+--- TODO ---
+!make more generic => talk to you supervisor ! at some faculties
+!more on the computational side use markdown (jupyter, Rmarkdown) executbale code
+!remove CeMESS make more general
+--- ---
+
 - It is best practice to use one appropriate tool or an integration of multiple tools for data documentation during a project. 
 
 - Suitable tools for data documentation are Electronic Lab Notebooks (ELNs) and/or Laboratory Information Management Systems (LIMS). 
@@ -106,9 +108,7 @@ Documentation File Format
 
 ## Metadata Standards
 
-Highly structured data documentation is called **metadata**. Generating metadata in a machine-readable or -actionable format makes your data more FAIR . Metadata provides structured and searchable information so that a user can find existing data, evaluate its reusability and cite it.
-
-It is good practice to use international standard metadata schemas to organise and store your (meta)data in a structured way. A metadata schema describes the relations, such as hierarchy, of the elements that belong to the structure. Most metadata schema are accompanied by a fixed set of attributes about the data that needs to be provided. Such metadata standards are community efforts and often under a constant development process. 
+We have already covered what metadata is in great detail. However, what it includes and in what form (whether structured or unstructured) can vary considerably. Therfore, it is good practice to use international standard metadata schemas to organise and store your (meta)data in a structured way. A metadata schema describes the relations, such as hierarchy, of the elements that belong to the structure. Most metadata schema are accompanied by a fixed set of attributes about the data that needs to be provided. Such metadata standards are community efforts and often under a constant development process. 
 
 Metadata standards often depend on the use of **ontologies** and **controlled vocabularies**. An ontology is a formal representation of knowledge that defines concepts, their properties, and the relationships between them and establishes a hierarchical structure that organizes knowledge in a logical and systematic manner. Controlled vocabularies, on the other hand, consist of a predefined set of terms with specific meanings. They establish a controlled and standardized vocabulary for describing data elements, attributes, or concepts within a specific context. Used wisely, they can enable both humans and computers to understand your data. There is no clear-cut division between the terms "vocabulary" and "ontology", but the latter is more commonly used when dealing with complex (and perhaps more formal) collections of terms and relationships. Ontologies typically provide an identifier. 
 
@@ -257,7 +257,14 @@ When considering which method of version control to employ, you may want to ask 
 
 For smaller demands of versioning, manual management can be sufficient. This can be done by keeping a log where changes for each respective file are documented, version by version or even descriptive file names.
 
-Many cloud storage services, like u:cloud and OneDrive, provide automatic file versioning, which can be convenient for spreadsheets, text files, and slides.
+Many cloud storage services, like [u:cloud](https://zid.univie.ac.at/ucloud/), [Google Drive](https://drive.google.com) and [OneDrive](https://www.microsoft.com/de-at/microsoft-365/onedrive/online-cloud-storage), provide automatic file versioning, which can be convenient for spreadsheets, text files, and slides.
+
+Here some more document driven version control tools:
+- [Fossil](https://fossil-scm.org/)
+- [Nextcloud](https://nextcloud.com/)
+- [ONLYOFFICE](https://www.onlyoffice.com/)
+- [SparkleShare](https://sparkleshare.org/)
+- [Seafile](https://www.seafile.com/)
 
 Version Control with Git
 --------------------
@@ -267,12 +274,13 @@ For more advanced version control, conflict resolution, and back-tracing capabil
 It is primarily designed for managing source code files. But you could use it for anything text based. It's important to note that large binary files (e.g., videos, large images) may not be suitable for Git repositories due to their size, as they can bloat the repository and slow down operations. 
 While operating Git through the command line may initially seem daunting, there are plenty of short tutorials available online that can help you use it with ease.
 
-Some useful links:
+However, Git can also be used easily without the command line. One option is to use it as an [extension](https://gitextensions.github.io/) in [RStudio](https://posit.co/downloads) and [VS Code](https://code.visualstudio.com/), or directly through the graphical user interface. In addition, GitHub offers its own application [GitHub Desktop](https://github.com/desktop/desktop), but also allows you to use it directly in your browser.
+
+Some more useful links regarding Git:
 - [Git Official Documentation](https://git-scm.dev/doc)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git as GUI](https://git-scm.com/tools/guis)
 - [.gitignore File Creator](https://www.toptal.com/developers/gitignore/)
-
 
 ## Workflow Tools
 
@@ -331,10 +339,8 @@ Which statements on version control are correct:
     [[X]] File versioning is particulary useful when working collaboratively.
 
 
-## Sources 
+## References
 
-Quotations
---------------------
 **To make this course, we used resurces and text from a diversity of sources. If we quoted text directly from a source or we only lightly edited the text, that quotation is indicated by a superscript number. A list of those sources can be found here.**
 
 ^1^ ELIXIR. Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). 2021. URL: https://rdmkit.elixir-europe.org/.
