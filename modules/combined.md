@@ -72,6 +72,7 @@ Bye!
 If you have any questions during the course, please feel free to contact us! We would love to hear from you. See you soon!
 
 **The UNIVIE Data Stewards**
+
 <!---
 authors: Emily J. Kate, Lukas Kraiger 
 email: emily.jean.kate@univie.ac.at, lukas.kraiger@univie.ac.at    
