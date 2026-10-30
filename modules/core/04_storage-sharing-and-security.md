@@ -1,4 +1,5 @@
-<!--
+
+<!---
 authors: Lukas Kraiger, Simone Spedicato 
 
 email: lukas.kraiger@univie.ac.at, simone.spedicato@univie.ac.at    
@@ -7,7 +8,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Data Storage, Sharing, and Security
 Welcome to the next module, where we will discuss storage and managing your research data - and what are considerations to keep in mind during your project!
