@@ -2573,7 +2573,8 @@ UNIVIE, I can get help with my DMP by:
 [( )] Sending up a flare. 
 [( )] Spinning in a circle three times while reciting an ancient incantation. 
 [(X)] Reaching out to the UNIVIE RDM team via their website.
-<!--
+
+<!---
 authors: Isolde van Dorst, Mathias Mayrgündter
 
 email: isolde.van.dorst@univie.ac.at, mathias.mayrgündter@univie.ac.at
@@ -2582,7 +2583,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Conclusion
 
