@@ -2697,7 +2697,7 @@ Where to find help
 While you have completed the course and have a (hopefully) better understanding of research data management than you did before the course, you can always ask for further help with anything that is still unclear, or that comes up in your research later. The Research Data Management Team at the University of Vienna is always happy to help! You can find us on the RDM website, or contact a data steward directly if your faculty or centre has a dedicated data steward. Even if your faculty or centre does not have a specific data steward yet, the RDM Team will always try to answer your query as best as possible. You can submit any questions to the RDM Helpdesk.
 
 
-RDM website: [https://rdm.univie.ac.at](rdm.univie.ac.at)
+RDM website: [rdm.univie.ac.at](https://rdm.univie.ac.at)
 
 
 Find out if your faculty/centre has a data steward: [click here](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/)
@@ -2711,3 +2711,4 @@ Sign-Off
 
 We hope you find this course helpful and interesting! It was a pleasure to have you along for the ride, and we look forward to seeing your research data out in the wild someday (with appropriate documentation, in a nicely organised structure, while adhering to all legal and ethical considerations, findable in a suitable repository)!
 
+**The UNIVIE Data Stewards**
