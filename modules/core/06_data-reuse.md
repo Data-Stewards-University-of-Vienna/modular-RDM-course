@@ -1,4 +1,5 @@
-<!--
+
+<!---
 authors: Franziska Bauchinger, Simone Spedicato 
 
 email: franziska.bauchinger@univie.ac.at, simone.spedicato@univie.ac.at    
@@ -7,7 +8,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Data Reuse
 Welcome to Chapter 6, where it's all about reusing the data, why that is important for different stakeholders and what to keep in mind when doing so. Have a nice read!
