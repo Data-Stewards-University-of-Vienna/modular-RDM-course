@@ -1908,7 +1908,8 @@ Which of the following is considered best practice when citing a reused dataset 
 [( )] Cite only the journal paper, as datasets are not formal publications.
 [( )] Cite only the dataset, as the paper is redundant.
 [(X)] Cite both the dataset (using its DOI) and the corresponding journal paper.
-b<!--
+
+<!---
 authors: Lukas Kraiger, Emily Kate 
 
 email: lukas.kraiger@univie.ac.at, emily.jean.kate@univie.ac.at    
@@ -1917,7 +1918,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 # Ethical and Legal Aspects of RDM
 Here's the deal. Issues related to research ethics and legal questions are a massive topic and we can't cover everything during this course. Frankly, we wouldn't be qualified to do that. What we want to do here is draw your attention to a few topics. By the end of this section, we hope you will have a developed a sense for when your project may involve legal or ethical issues, so that you can ask questions and get the help you need. 
 
