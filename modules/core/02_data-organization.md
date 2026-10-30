@@ -11,7 +11,7 @@ language: en
 
 # Data Organization
 
-Welcome to Module 2! In this module, you will learn about data organization: why is it important to organize your data, and how do you implement a good structure through the use of naming conventions. It will also discuss different file formats and how to choose the best suited option for your data to ensure the reproducibility and transparency of your research.
+Welcome to Module 2! In this module, you will learn about data organization: why is it important to organize your data, and how do you implement a good strategy through the use of naming conventions and folder structures for different types of data. It will also discuss different file formats and how to choose the best suited option for your data to ensure the reproducibility and transparency of your research.
 
 Objectives
 --------------------
@@ -32,8 +32,9 @@ Introduction
 
 In research, data flows from raw data to results, via tables and figures to communication outlets. We know there will be LOTS of files, that they can change over time (versions), have relationships to each other, and will be required to be understandable as the basis of our findings and publications. How can we keep track of all this?
 
-<img width="337" height="318" alt="image" src="https://github.com/user-attachments/assets/94b6f07a-7445-4876-93d9-7f4e5a5c2d77" />
-(JW, 2026-06-17_RDM_CoBeNe_Presentation_in-person_v02.key)
+<img width="337" height="318" alt="image" src="https://github.com/user-attachments/assets/94b6f07a-7445-4876-93d9-7f4e5a5c2d77"/>
+
+^1^
 
 **The Solution**
 
@@ -49,10 +50,10 @@ So in order to get to the solution, you need a plan and establish naming and str
 
 Any system is better than none!
 
-How to Name Files and Folders
+How to Name and Organize Files and Folders
 --------------------
 
-Naming files and folders consistently ensures that there is a system in place when new files need to be added to ongoing projects. It will also enable you or others to find things again when returning to (potentially long finished) projects and files within those projects. Well thought-out naming conventions allow for easier and more efficient retrieval, tracking, and sharing of data.
+Naming and organizing files and folders consistently ensures that there is a system in place when new files need to be added to ongoing projects. It will also enable you or others to find things again when returning to (potentially long finished) projects and files within those projects. Well thought-out naming conventions and folder organization allow for easier and more efficient retrieval, tracking, and sharing of data.
 
 Here are some guidelines for creating effective file names:
 * **Give a unique name:** Each file should have a unique name that distinguishes it from other files.
@@ -69,7 +70,7 @@ Here are some guidelines for creating effective file names:
 
 ![XKCD Old Files](https://imgs.xkcd.com/comics/old_files.png " [Backups by XKCD](https://xkcd.com/1360/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
-For naming folders, similar guidelines apply, though they are usually more general in nature than the names of individual files. Here, you should also keep in mind that the structure of the folders matters. A well-designed folder structure can help you quickly and easily locate the data you need, saving you time and effort. A clear and consistent folder structure can also help you collaborate effectively with other members of your research team. By establishing a standardized approach, everyone involved can easily access and understand your data.
+For naming and organizing folders, similar guidelines apply, though they are usually more general in nature than the names of individual files. For folders specifically, you should also keep in mind that the organizational structure of the folders matters. A well-designed folder structure can help you quickly and easily locate the data you need, saving you time and effort. A clear and consistent folder structure can also help you collaborate effectively with other members of your research team. By establishing a standardized approach, everyone involved can easily access and understand your data.
 
 * **Design clear folder structures that align with the project:** Before starting your research, plan out a folder structure that aligns with the objectives and goals of your project. This structure should be intuitive, easy to understand, and should follow a logical sequence of stages.
 * **Use the same structure for different locations:** If you are working on the project across multiple computers or with different team members, ensure that the same folder structure is used across all locations.
@@ -80,6 +81,8 @@ For naming folders, similar guidelines apply, though they are usually more gener
 To help make this more understandable, here is an example of such a folder structure:
 
 <img width="520" height="454" alt="PhDModularCourse_02_DataOrganization_FolderStructure" src="https://github.com/user-attachments/assets/01da5a70-4953-4ca1-a6c9-ef26d9bb6b91" />
+
+To help you further develop your own naming conventions and folder structures, you will find a Folder Structure Worksheet in the Moodle course accompanying this workshop. This worksheet will guide you through the steps of creating categories for your files, which will then be organized into a folder structure. It also has a guide for developing your own naming conventions based on the important pieces of information for each file type.
 
 Types of Data to Organize
 --------------------
@@ -155,7 +158,7 @@ File formats
 
 A file format is a way of encoding information within a computer file. A program or application must be able to recognize the file format in order to access data within the file. Understanding file formats is not just a technical consideration; it is a critical aspect of ensuring the reproducibility and transparency of your research.
 
-In general, we can distinguish between proprietary and open formats. Files in proprietary formats usually must be opened by the software in which they were created. Someone without a license to the software may not be able to open the file at all. Open formats, in which the software company or collective publishes the format rather than keeps it proprietary, are more likely to be readable by more than one application. Adobe PDF is an example of an open format that may be viewed in a number of applications, not just Adobe products. File formats that are non-proprietary (e.g. open source), or in widespread use, will tend to retain the best chance of being readable in the future. Proprietary formats, especially non-standard formats, used only by a specific software program or specific software version, are likely to present problems for future use. As you may have already surmised, archiving and publishing your data in the correct file format not only enhances their value but also promotes their FAIRness.^1^
+In general, we can distinguish between proprietary and open formats. Files in proprietary formats usually must be opened by the software in which they were created. Someone without a license to the software may not be able to open the file at all. Open formats, in which the software company or collective publishes the format rather than keeps it proprietary, are more likely to be readable by more than one application. Adobe PDF is an example of an open format that may be viewed in a number of applications, not just Adobe products. File formats that are non-proprietary (e.g. open source), or in widespread use, will tend to retain the best chance of being readable in the future. Proprietary formats, especially non-standard formats, used only by a specific software program or specific software version, are likely to present problems for future use. As you may have already surmised, archiving and publishing your data in the correct file format not only enhances their value but also promotes their FAIRness.^2^
 
 A particular file format is often indicated as part of a file's name by a file name extension, or suffix. Conventionally, the extension follows a dot in the filename and contains three or four letters that identify the format (.jpg or .jpeg). In the Windows operating systems you can choose whether to display file suffixes or not. Mac files often do not have a suffix, which can be problematic when copying files to a different system to use.
 
@@ -166,7 +169,7 @@ Text vs Binary formats and their suitability
 
 Text files are machine-readable through a character encoding standard such as ASCII or Unicode. Binary files can only be read by applicable software, and may be proprietary.
 
-Some commonly used file extensions for saving plain text files include .txt, .csv, .html, .fastq and .tsv. The advantage of creating or saving research data in a text format, where possible, is that such files are highly machine-readable, tool-independent, and still readable for humans in any plain text editor. Therefore, text files are the most unlikely to become obsolete over time, and are a good format for sharing and long-term preservation. Unfortunately, converting binary formats into text files sometimes leads to the loss of valuable metadata associated with your research data (e.g. transforming your microscopy data into TIFF files). Therefore, it is advisable to consider storing and archiving your data in multiple formats to ensure the preservation of comprehensive metadata.^1^
+Some commonly used file extensions for saving plain text files include .txt, .csv, .html, .fastq and .tsv. The advantage of creating or saving research data in a text format, where possible, is that such files are highly machine-readable, tool-independent, and still readable for humans in any plain text editor. Therefore, text files are the most unlikely to become obsolete over time, and are a good format for sharing and long-term preservation. Unfortunately, converting binary formats into text files sometimes leads to the loss of valuable metadata associated with your research data (e.g. transforming your microscopy data into TIFF files). Therefore, it is advisable to consider storing and archiving your data in multiple formats to ensure the preservation of comprehensive metadata.^2^
 
 In order to decide which format is most suitable for your data, you need to assess the following three criteria:
 
@@ -184,8 +187,6 @@ To help you determine whether to use a certain file format over another, this ta
 | Bad       |**In-house** reader software|**No**|Just **contrived** format|**None**|
 
 As a general rule, it is important not to become overwhelmed by the task of selecting a proper file format. It's essential to remember that there may not always be a perfect solution for every type of data. Consider the formats and software you are currently using, evaluate whether it makes sense to save your work in an additional format, and determine if you can easily convert between working/sharing formats and archiving formats. By considering these factors, you can make an informed decision that balances practicality and the long-term preservation of your research data.
-
-
 
 Conclusion
 --------------------
@@ -234,4 +235,7 @@ Now that we discussed the importance of data organization with folder structures
 References
 --------------------
 
-^1^ EDINA and Data Library, University of Edinburgh: Research Data MANTRA (online training units & data handling tutorials). (2017) DOI: https://doi.org/10.5281/zenodo.1035218
+^1^ Wilbrandt, Jeanne. RDM CoBeNe Presentation. (2026). 2026-06-17_RDM_CoBeNe_Presentation_in-person_v02.key
+
+^2^ EDINA and Data Library, University of Edinburgh: Research Data MANTRA (online training units & data handling tutorials). (2017) DOI: https://doi.org/10.5281/zenodo.1035218
+
