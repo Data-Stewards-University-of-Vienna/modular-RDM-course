@@ -21,7 +21,7 @@ By the end of this section you will be able to:
 2. draft a DMP for your research project with potential input from your supervisor(s).
 
 3. know who to contact for DMP support at the university.
-    
+
 Introduction
 --------------------
 A data management plan (DMP) is a formal document that outlines how research data will be handled, stored, organized, protected, and shared during and after a project. In the words of UNIVIE RDM Policy: “A DMP describes how research data should be handled, and is therefore a tool for research data management. The plan explains which data are collected or generated during a research activity and specifies what needs to be done during the data lifecycle, i.e. the whole data process (storage, publication, citation, long-term availability, pseudonymisation, anonymisation, reuse, deletion, etc.).” 
@@ -55,6 +55,8 @@ Not all funders require DMPs, but researchers are still welcome to write one. In
 
 Similarly, for PhD projects, we also recommend that students write a DMP that covers just their portion of a larger project. For PhD candidate projects, you will find a PhD project DMP template in the Moodle course accompanying this workshop. Just remember, the content of your project DMP should be harmonized with 1) the larger project DMP, if it exists, and 2) your research group's data handling procedures. 
 
+Universal DMP Content
+--------------------
 So, what do all DMP templates have in common? What do they ask you to address? 
 
 First, they ask you to provide basic administrative information for your project. This can include: 
@@ -99,18 +101,19 @@ Finally, DMPs often cover legal and ethical concerns. You do not need to fully d
 Now that you know what a DMP should include, let's think about the process of writing a DMP. 
 
 ## How do you write a DMP?
-Much like dissertations, the best DMP is the DMP that actually gets written. The first step is to select the template you want to use. You can use one from a funder, use the template we provide in this workshop, or make one of your own! Next you should familiarize yourself with the requirements of your hosting institution, funders, and any other entity with whom you have a legally or ethically binding relationship. Next, consider what (helpful) data management norms exist in your research group or among your collaborators. Whatever you write in the DMP should be aligned with all of these project stakeholders. Finally, work through all of the topics covered above, but don't expect to address all of them without consulting with your mentors and collaborators. Your mentors may be able to help answer questions and both mentors and colleagues should be involved in deciding what data is released, when, where, and under what licensing conditions. 
+Much like dissertations, the best DMP is the DMP that actually gets written. The first step is to select the template you want to use. You can use one from a funder, use the template we provide in this workshop, or make one of your own! Next, you should familiarize yourself with the requirements of your hosting institution, funders, and any other entity with whom you have a legally or ethically binding relationship. Also consider what (helpful) data management norms exist in your research group or among your collaborators. Whatever you write in the DMP should be aligned with all of these project stakeholders. Finally, work through all of the topics covered above, but don't expect to address all of them without consulting with your mentors and collaborators. Your mentors may be able to help answer questions and both mentors and colleagues should be involved in deciding what data is released, when, where, and under what licensing conditions. 
 
 ** But what if you are the pioneer in your group and the first to use a DMP? **
 
 Never fear! 
+
 There are people at UNIVIE who are here to help you!
 The first points of contact regarding a DMP are the data stewards of the University of Vienna. You can find all of us listed here: https://rdm.univie.ac.at/data-stewards-at-the-university/
 
 And of course, you will meet some of us during the in-person section of this course.
 Alternatively, you can always reach the UNIVIE RDM team at rdm@univie.ac.at. They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
 
-## Quiz
+## Knowledge Check
 
 Alright, it's quiz time. Let's see what you learned about DMPs. Each question has at least one correct answer, but there can also be multiple correct answers.
 
