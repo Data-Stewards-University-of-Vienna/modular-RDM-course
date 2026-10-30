@@ -2363,7 +2363,7 @@ Which rules might apply to me?
 Several of these rules can apply to the same project at the same time. If you are unsure which ones apply to you, contact the UNIVIE [RDM Team](mailto:rdm@univie.ac.at), the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/), or the [Technology Transfer Office](https://transfer.univie.ac.at/en/team-and-contact/).
 
 ## Conclusion
-requirements to address at the end of a project. By considering these issues from the beginning, researchers can protect the rights and interests of others while supporting transparency, reproducibility, and the responsible reuse of research outputs.
+Legal and ethical considerations are an essential part of responsible research data management, rather than simply requirements to address at the end of a project. By considering these issues from the beginning, researchers can better anticipate potential challenges, protect the rights and interests of others, and support transparency, reproducibility, and the responsible reuse of research outputs.
 
 This includes choosing appropriate licenses, protecting personal and sensitive data, and ensuring that informed consent is properly obtained and documented when required. Researchers should also be aware that, beyond the GDPR, other EU regulations, such as the AI Act, Data Act, and Digital Services Act, may affect how data can be obtained, used, and shared, depending on the nature of their research.
 
