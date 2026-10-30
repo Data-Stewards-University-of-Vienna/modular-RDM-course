@@ -135,7 +135,7 @@ May not be modified
 Redistribution under the same licensing terms
 
 
-**[Open Data Commons](https://opendatacommons.org)**
+**[Open Data Commons](https://opendatacommons.org):**
 * Open Data Commons Open Database License
 * Open Data Commons Attribution License
 * Open Data Commons Public Domain Dedication and License
