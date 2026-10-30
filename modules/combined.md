@@ -46,7 +46,7 @@ By the end of this course, you should be able to:
 
 **Course Modules**
 
-The course contains nine modules that you should complete before attending the in-person sessions. 
+The course contains eight modules that you should complete before attending the in-person sessions. 
 
 **Module 1:** Orientation (You are here!)
 
@@ -60,11 +60,9 @@ The course contains nine modules that you should complete before attending the i
 
 **Module 6:** Archiving and Publishing Data  
 
-**Module 7:** Data Reuse 
+**Module 7:** Ethical and Legal Issues in RDM
 
-**Module 8:** Ethical and Legal Issues in RDM
-
-**Module 9:** Data Management Plans (DMPs)
+**Module 8:** Data Management Plans (DMPs)
 
 
 Bye!
