@@ -75,10 +75,8 @@ Our friends at Ghent University are also really passionate about RDM and they cr
 
 Finished watching? So now you know that research data management means ensuring that your data are well organized, documented, securely stored, eventually archived, findable, and reusable by others whenever possible. This might seem overwhelming, but never fear! The Research Data Management Team at the University of Vienna is here to help. 
 
-We have a handy website at [rdm.univie.ac.at](https://rdm.univie.ac.at) and you can email us anytime at rdm@univie.ac.at. If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. You can find the contact information for all of the data stewards on this 
+We have a handy website at [rdm.univie.ac.at](https://rdm.univie.ac.at) and you can email us anytime at [RDM Team](mailto:rdm@univie.ac.at). If you or your friends are part of any of the faculties or centers listed below, there is dedicated data steward who can help you too! Send a data steward or the RDM team an email with a question and we will get back to you within three working days. We’ll either answer your question or outline some next steps. You can find the contact information for all of the data stewards on this 
 [page](https://rdm.univie.ac.at/data-stewards-at-the-university/meet-the-data-stewards/).
-
-
 
 * Faculty of Life Sciences 
 * Centre for Microbiology and Environmental Systems Science (CeMESS) 

@@ -100,7 +100,7 @@ Documentation File Format
 
 > **Need advice?**  
 >
-> There is no single perfect approach to data documentation—every improvement is a valuable step. For example, you could keep a digital copy of a handwritten lab notebook or refer to it in a README file accompanying your dataset. For questions or guidance, contact the Research Data Management Support team at [rdm@univie.ac.at](mailto:rdm@univie.ac.at).
+> There is no single perfect approach to data documentation—every improvement is a valuable step. For example, you could keep a digital copy of a handwritten lab notebook or refer to it in a README file accompanying your dataset. For questions or guidance, contact the Research Data Management Support team at [RDM Team](mailto:rdm@univie.ac.at).
 
 
 ## Metadata Standards
@@ -134,7 +134,7 @@ You should decide at the beginning of the project what are the recommended repos
 
      - e.g. [MIAME](https://www.fged.org/projects/miame)
      - or [MINSEQE](https://www.fged.org/projects/minseqe)
-     - or [MIAPPE](https://www.miappe.org))
+     - or [MIAPPE](https://www.miappe.org)
 
 - ***or other metadata, at the following resources:***
 
@@ -173,7 +173,7 @@ Most repositories require specific formats for uploaded metadata, particularly i
 
 Here are some formats:
 - [ISA-Tab](https://isa-specs.readthedocs.io/en/latest/isatab.html)
-- [mzTab-M:](https://hupo-psi.github.io/mzTab/2_0-metabolomics-release/mzTab_format_specification_2_0-M_release.html)
+- [mzTab-M](https://hupo-psi.github.io/mzTab/2_0-metabolomics-release/mzTab_format_specification_2_0-M_release.html)
 - [ISA-JSON](https://isa-specs.readthedocs.io/en/latest/isajson.html)
 - [MIxS](https://genomicsstandardsconsortium.github.io/mixs)
 - [EML](https://eml.ecoinformatics.org)

@@ -130,7 +130,7 @@ Depending on the project, appropriate measures may include:
 
 > **Important**
 >
-> Sensitive data require additional protection, and if your project involves sensitive information, contact the Research Data Management Support team (rdm@univie.ac.at) before data collection begins. They can help you identify suitable storage solutions and security measures for your project. Encryption may also be necessary in some cases, but it can introduce problems such as being unable to decrypt files later, so it should only be used when absolutely necessary and after careful consideration.
+> Sensitive data require additional protection, and if your project involves sensitive information, contact the [Research Data Management Support Team](mailto:rdm@univie.ac.at) before data collection begins. They can help you identify suitable storage solutions and security measures for your project. Encryption may also be necessary in some cases, but it can introduce problems such as being unable to decrypt files later, so it should only be used when absolutely necessary and after careful consideration.
 
 ## Sharing Data During a Project
 

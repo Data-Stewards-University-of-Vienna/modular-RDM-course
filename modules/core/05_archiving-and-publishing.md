@@ -12,7 +12,8 @@ language: en
 # Archiving and Publishing
 Welcome to Chapter 5, where we will discuss preserving data, what to preserve and which publication routes are out there. Enjoy!
 
-## Objectives
+Objectives
+-------------------- 
 Once your papers are written, you don’t want your hard-earned data to just gather dust on an old hard drive. In this section, we will cover how to publish your datasets online so other researchers can find, use, and cite your work—giving you extra academic credit and making your research part of the global open science community.
 
 By the end of this section, you will be able to:
