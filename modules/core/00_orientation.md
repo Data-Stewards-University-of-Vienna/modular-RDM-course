@@ -66,8 +66,8 @@ The course contains nine modules that you should complete before attending the i
 **Module 9:** Data Management Plans (DMPs)
 
 
-**Bye!** 
-
+Bye!
+--------------------
 If you have any questions during the course, please feel free to contact us! We would love to hear from you. See you soon!
 
 **The UNIVIE Data Stewards**
