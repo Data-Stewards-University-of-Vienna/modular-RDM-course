@@ -1,35 +1,37 @@
 
 <!---
-authors: Simone Spedicato, Michael Feichtinger 
+authors: Simone Spedicato, Franziska Bauchinger
 
-email: simone.spedicato@univie.ac.at, michael.feichtinger@univie.ac.at    
+email: simone.spedicato@univie.ac.at, franziska.bauchinger@univie.ac.at
 
-version:  1.0
+version: 1.0
 
 language: en
-
 --->
 
-# Archiving and Publishing
-Welcome to Chapter 5, where we will discuss preserving data, what to preserve and which publication routes are out there. Enjoy!
+# Archiving and Publishing Research Data
+
+Welcome to this module, where we will discuss preserving data, what to preserve, which publication routes are out there, how to find and evaluate data for reuse — and why reusing data is an important aspect for different stakeholders. Enjoy!
 
 Objectives
--------------------- 
-Once your papers are written, you don’t want your hard-earned data to just gather dust on an old hard drive. In this section, we will cover how to publish your datasets online so other researchers can find, use, and cite your work—giving you extra academic credit and making your research part of the global open science community.
+--------------------
 
 By the end of this section, you will be able to:
 
 * Explain why long-term preservation of research data is an essential part of Research Data Management.
 * Decide which research outputs should be preserved.
-* Prepare data and documentation for long-term preservation.
 * Select an appropriate repository for your research outputs.
 * Understand the role of persistent identifiers (PIDs) in making research outputs FAIR and citable.
+* Explain the legal framework surrounding data reuse and evaluate if proper permissions exist to reuse specific resources.
+* Evaluate the basic quality and reliability of reuseable data and outputs.
+
+Introduction
+----------
+Research data can remain valuable long after a project has ended—provided that they are properly preserved, documented, published, and shared. This module introduces the key steps for preparing research outputs for long-term preservation, selecting repositories, managing access, and making data citable. It also explores how to find, evaluate, legally reuse, and cite data created by others.
 
 ---
 
 ## Why Preserve and Publish Research Data?
-
-Research data are valuable research outputs that often remain useful long after a project has ended. Preserving and publishing data allows other researchers to verify findings, reproduce analyses, and build upon existing work. It also increases the visibility and impact of your research by enabling data citation and reuse.
 
 Data preservation is more than simply storing files or creating backups. While storage protects against accidental loss, preservation ensures that data remain **accessible, understandable, and reusable** for many years, even as technologies evolve.
 
@@ -49,9 +51,95 @@ The **[University of Vienna Research Data Management Policy](https://rdm.univie.
 
 ---
 
+## What are the benefits of reusing data (and making data available for reuse)?
+
+On the other side, reusing existing data that was published has a lot advantages - not only for you, but also for communities and the public around you. 
+
+There are four primary groups that can benefit from data reuse: 
+data reusers themselves, data producers and publishers, 
+research disciplines and communities, and society or the public. 
+Let's have a closer look at the benefits for each group.
+
+Data reusers
+---------
+
+If you reuse already existing data 
+* you can save time and money, because you don't have to produce the data yourself
+* you can test your new questions or methods on additional data
+* you can test for change over time by comparing to older data
+* you can find new collaborators through the data they published
+
+Data producers and publishers
+-----------
+
+If data you published is reused by others
+* you receive more citations and your research becomes more visible
+* your work becomes more transparent
+* your professional reputation can increase
+* you can find new collaborators
+
+Research disciplines and communities
+----------
+
+If more data from a research discipline or community is available for reuse
+* they can gain a better understanding of results
+* they can verify results on more data
+* everyone gains access to expensive or difficult to generate data
+* they have access to varied data for teaching purposes
+
+Society or the public
+------------
+
+If more research data is available for reuse
+* research becomes more transparent which can increase the public confidence in science
+* tax dollars spent on research can deliver a greater impact
+* private and public sectors can reuse the data and benefit society
+
+---
+
+## Publishing and Sharing Research Data
+
+Let's first have a look at how research data is published: 
+Research data is generally published in an article appendix or supplement, a data journal, or a data repository.
+
+Article appendix or supplement
+------------
+
+An article appendix or supplement (these terms are used interchangeably) is a separate, optional section of a research article that contains additional information.
+Information you frequently find in an appendix are more detailed methods, additional figures or, of course, data.
+Publishing the data corresponding to an article in its appendix is very common and you can usually download the supplementary material directly with the article on the publisher's website.
+Take a look at this Nature article about the CRISPR-Cas system: https://doi.org/10.1038/s41586-026-10833-9. 
+If you scroll all the way to the bottom of the article, you can see that the supplementary information contains additional figures and tables, as well as the exact source data that was used to create all figures.
+
+> Our advice: avoid publishing datasets solely as supplementary material. Supplementary files often have limited metadata, file-size restrictions, and may be difficult to find, cite, preserve, or reuse in the long term. Instead, deposit your data in a trusted repository and link to it from the publication using the dataset’s DOI.
+Data journals
+------------
+
+A data journal is a peer-reviewed academic publication that focuses on sharing and describing research datasets. 
+The articles of such a journal describe how data was collected, processed, formatted, etc. The data itself is not stored with the data journal but in a research data repository and the article simply links to the repository entry. Let's look at this article published in Scientific Data: https://doi.org/10.1038/s41597-025-05635-z. The article includes a detailed description of the methodology and in the references you find the link to the published dataset which is located on an institute repository:
+
+> White, E. C., Seymour, A., Dale, J., Newton, E. & Johnston, D. W. Mapping the Ghost Fleet: Orthomosaics and ship locations from drone-based imagery of Mallows Bay, Maryland. Duke Research Data Repository.  https://doi.org/10.7924/r4v12927x (2024)
+
+Data journals can be broad in scope (e.g. Scientific Data) or discipline-specific (e.g. Viticulture Data Journal). You can find a list of data journals on Zenodo (no guarentee for completeness): https://zenodo.org/records/7082126
+
+Data repositories
+------------
+
+Data repositories are centralized places to hold, organize and share data. They keep data save and usable over time, allow sharing of data and enable proper tracking and citing of datasets by assigning unique persistent identifiers (usually DOIs - digital object identifiers - or accession numbers).
+We distinguish three types of research data repositories:
+
+* Institutional repositories: managed by universities or organizations (e.g. PHAIDRA at the University of Vienna: https://phaidra.univie.ac.at/)
+
+* Discipline-specific repositories: tailored to specific fields and data types (e.g. Oral-History.Digital: https://www.oral-history.digital/)
+
+* Generalist repositories: large platforms that accept a variety of datasets (e.g. Zenodo: https://zenodo.org/)
+
+Usually, discipline-specific repositories require the data to be curated and follow certain formatting and metadata standards. Generalist repositories tend to have no specific requirements due to their broad nature.
+
+---
 ## Deciding What to Preserve
 
-Not every file produced during a research project needs to be preserved. Long-term preservation requires resources, so you should carefully decide which outputs have lasting value.
+Now that you have an idea of where to put your data, you might be asking yourself: do I really need to put everything up there? Actually: no! Not every file produced during a research project needs to be preserved. Long-term preservation requires resources, so you should carefully decide which outputs have lasting value.
 
 As a general principle, all data that support published findings should be preserved. Increasingly, journals and funding agencies require researchers to deposit the data underlying publications in trusted repositories. For example, **[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en)** requires research data to be deposited in trusted repositories and made openly available whenever possible.
 
@@ -121,7 +209,7 @@ Some research outputs require specialised preservation strategies.
 
 ## Choosing a Repository
 
-Once your data have been prepared, the next step is to deposit them in a **trusted repository**.
+Once your data have been prepared, the next step might be to deposit them in a **trusted repository** (if you chose this publication route!).
 
 Unlike ordinary storage services, repositories are designed for the long-term preservation, discovery, and citation of research outputs. Trusted repositories provide stable access, curated metadata, persistent identifiers, and long-term preservation policies.
 
@@ -187,6 +275,7 @@ Useful resources for identifying discipline-specific repositories include:
 * [FAIRsharing](https://fairsharing.org/)
 * Discipline-specific examples: EMBL-EBI Data Submission Wizard, ELIXIR Deposition Databases
 
+Keep in mind that some specialist repositories may have longer processing times before datasets are published, so it is worth planning for this in advance. If you have any questions or run into issues, you can always contact the repository team for support.
 > **Tip:** Checking repositories used in recent publications within your field is also a useful strategy!
 
 <u>2. Institutional repositories</u>
@@ -208,86 +297,63 @@ Popular examples include:
 
 ---
 
-## Persistent Identifiers (PIDs)
+Publishing data in a trusted repository is only part of making it FAIR. To make research outputs easier to find, cite, connect, and reuse, they should also receive appropriate **persistent identifiers (PIDs)**.
 
-Publishing data in a trusted repository is only part of making them FAIR. Research outputs should also receive **persistent identifiers (PIDs)**.
-
-A PID is a permanent, globally unique identifier that continues to resolve to a digital resource even if its web address changes.
+A PID is a permanent, globally unique identifier that points to a digital resource or entity. Unlike a normal web address, a PID is designed to keep resolving even if the location of the resource changes.
 
 Persistent identifiers improve:
 
 * findability;
-* reliable citation;
+* reliable citation and attribution;
 * interoperability between research systems;
+* linking between people, organisations, outputs, funders, and instruments;
 * long-term access to research outputs.
 
+## Persistent identifiers (PIDs)
+
+The most common PID for datasets is a **Digital Object Identifier (DOI)**. DOIs can be assigned to datasets, software, publications, preprints, protocols, reports, and other research outputs. A DOI allows others to cite a specific output reliably and helps link it to related publications, authors, and funders.
+
+Repositories may also use other PID systems, such as:
+
+* **Handles** — a persistent identifier system often used by institutional repositories;
+* **ARKs (Archival Resource Keys)** — identifiers commonly used by archives, libraries, and cultural-heritage institutions;
+* **accession numbers** — identifiers assigned by specialist repositories, for example for sequencing data, protein structures, or other domain-specific datasets. These may be linked to a DOI, but can also function as the primary identifier in a particular research community.
+
+When choosing a repository, check whether it assigns a DOI or another widely recognised, persistent identifier. Specialist repositories are often preferable where they exist, as they use domain-specific metadata standards and identifiers that are familiar to researchers in the field.
+
+Persistent identifiers for people: ORCID
+--------
+
+Researchers are strongly encouraged to obtain an **[ORCID](https://orcid.org/) iD**. ORCID provides a persistent identifier for individual researchers, making it easier to distinguish you from others with a similar name and to connect your publications, datasets, software, grants, peer-review activities, and other scholarly contributions across different systems.
+
+Include your ORCID iD when depositing datasets, submitting manuscripts, applying for funding, or registering software. This improves attribution, discoverability, and recognition of your contributions.
+
+Persistent identifiers for organisations: ROR
+--------
+
+A **[Research Organization Registry (ROR)](https://ror.org/) ID** is a persistent identifier for research organisations, such as universities, research institutes, hospitals, funders, and government organisations.
+
+Including a ROR ID where possible helps make institutional affiliations more consistent and machine-readable. For example, it can help distinguish between organisations with similar names, identify the correct institutional affiliation of dataset creators, and support reporting on an institution’s research outputs.
+
+Many repositories and publishing systems allow you to select an organisation from a standardised list; these entries may be connected to ROR IDs in the background.
+
+Other useful PIDs
+---------
+
+Other PID types may be relevant depending on your discipline and the type of research:
+
+* **RAiD (Research Activity Identifier):** identifies a research project or activity and can link the people, organisations, outputs, and funding associated with it.
+* **Grant identifiers:** identify a specific funding award or project. These should be included in dataset metadata where available.
+* **RRIDs (Research Resource Identifiers):** identify research resources such as antibodies, model organisms, cell lines, software tools, and databases.
+* **IGSNs (International Generic Sample Numbers):** identify physical samples, such as geological, environmental, or archaeological samples.
+* **PIDs for instruments and facilities:** in some fields, identifiers can be assigned to instruments, laboratory equipment, or research infrastructures to support provenance and reproducibility.
+
 How to obtain a PID
-----------------
+--------
 
-The simplest and most common approach is to deposit your research outputs in a repository that automatically assigns persistent identifiers.
+For most researchers, the simplest approach is to deposit research outputs in a trusted repository that automatically assigns a DOI or another suitable PID. When depositing your data, provide as much metadata as possible, including author ORCID iDs, institutional affiliations, funder information, grant numbers, and links to related publications or software.
 
-Some institutions also maintain local identifier systems, but these require long-term maintenance and governance. For most researchers, depositing data in a trusted public repository is therefore the preferred option.
-
-ORCID
-----------------
-
-Researchers are strongly encouraged to obtain an **[ORCID](https://orcid.org/) iD**. ORCID provides a persistent identifier for researchers, making it easier to connect publications, datasets, software, grants, and other scholarly contributions across different systems.
-
-Including your ORCID when depositing datasets improves attribution, discoverability, and recognition of your research contributions.
-
-## Publishing and Sharing Research Data
-
-Once your data have been prepared and a suitable repository has been selected, the final step is deciding **how** to make the data available. There are several routes for publishing research data, each with different advantages depending on the nature of the dataset and the goals of the project.
-
-Publishing Routes
-----------------
-
-<u>Supplementary Material</u>
-
-Many journals allow authors to upload datasets as supplementary files alongside a research article.
-
-Advantages
-
-- Simple publication process.
-- Directly linked to the associated article.
-- Often reviewed together with the manuscript.
-
-Limitations
-
-- Metadata are often minimal.
-- Long-term preservation is not always guaranteed.
-- Discoverability is usually poor.
-- File size and format restrictions are common.
-- Supplementary files often do not receive their own DOI.
-
-This approach is most appropriate for **small datasets that are closely tied to a single publication**.
-
-<u>Data Repositories</u>
-
-Depositing data in a trusted repository is considered the preferred approach for most research projects.
-
-Repositories typically provide:
-
-- persistent identifiers (e.g. DOI);
-- rich metadata;
-- long-term preservation;
-- version control;
-- citation support;
-- access management (including embargoes and restricted access).
-
-<u>Data Journals</u>
-
-Some journals publish **data descriptor articles**, which focus on describing datasets rather than reporting scientific findings.
-
-These articles are peer reviewed and are linked to a dataset deposited in a repository.
-
-Data journals are particularly valuable for:
-
-- large or complex datasets;
-- community reference datasets;
-- datasets that require extensive methodological documentation.
-
----
+Some institutions maintain local identifier systems, but these require long-term maintenance and governance. For most researchers, depositing data in a trusted public or disciplinary repository is therefore the preferred option.
 
 ## Managing Access to Research Data
 
@@ -364,6 +430,38 @@ Where data cannot be shared openly, researchers should still aim to publish:
 Any access restrictions should be clearly documented in the repository metadata and accompanying README files.
 
 ---
+## Can I even reuse that data?
+Imagine you’ve now found an interesting dataset you might want to reuse. Before integrating it into your workflow, you must evaluate some aspects, such as its suitability, quality, and legal status.
+
+How to evaluate reusability?
+------------
+
+When assessing a dataset, ask yourself the following questions:
+
+* **Legal Terms:** Is an appropriate license applied (e.g., Creative Commons) that permits reuse? (more details on proper licensing in the next section)
+* **Scientific Relevance:** Does the data match your research question?
+* **Methodology:** Are the collection methods well-documented? Do they match current quality standards in your field?
+* **Metadata & Context:** 
+  * Does the dataset include important information about instruments and parameters?
+  * Is the data described in a way that allows you to understand its context?
+* **Provenance:** Has the data been processed since collection? Are those processing steps clear?
+* **Clarity:** Are variables, units, or abbreviations clearly defined? Is the documentation internally consistent?
+* **Trustworthiness:** Does the data come from a reputable source or a trusted repository?
+
+> Data documentation does not always equal data quality
+
+It is important to distinguish between how well a dataset is *documented* and the actual *quality* of the data itself:
+* **High documentation, low quality:** A dataset can have perfect metadata, clear variables, and a complete readme file, yet the actual measurements may be imprecise, biased, or scientifically flawed.
+* **Low documentation, high quality:** Conversely, highly precise and valuable data may be practically useless if it lacks the documentation needed to understand and interpret it.
+
+*Always evaluate both the completeness of the documentation and the scientific validity of the methodology.*
+
+> Repositories don't check if data is correct/high quality
+
+A common misconception is that hosting platform approval equals scientific validation. 
+* **The Role of Repositories:** Most data repositories (such as Zenodo, Figshare, or Dryad) perform basic technical checks (e.g., checking if files open or if metadata fields are filled). They generally do **not** peer-review the scientific accuracy, integrity, or quality of the dataset. 
+* **Your Responsibility:** As the reusing researcher, the responsibility of quality assurance lies entirely with you.
+
 
 ## Archiving Research Software and Code
 
@@ -405,9 +503,29 @@ Zenodo creates:
 
 The version-specific DOI should be cited in publications to ensure reproducibility.
 
+
 ---
 
-## Summary
+## Citing Data you Reuse
+
+Just like traditional literature, research data is a first-class scholarly output and must be cited formally. Proper citation ensures academic integrity, enables reproducibility, and gives credit to the original creators.
+
+Guidelines for Citing Datasets
+-----------
+
+* **Give Credit:** Always include the core citation elements: Author(s), Publication Year, Dataset Title, Publisher/Repository, and Version (if applicable).
+* **Indicate the License:** Mention the license of the original dataset to show you have the legal right to use and distribute your findings.
+* **Use Persistent Identifiers (PIDs):** Always include a resolving link such as a DOI (Digital Object Identifier), accession number, or handle. Do not rely on temporary URLs.
+* **Follow Citation Styles:** Most major citation styles (APA, Chicago, MLA, Harvard) now have official guidelines for datasets.
+* **Double Cite:** If a dataset is associated with a peer-reviewed paper, it is best practice to cite **both** the dataset itself and the article describing it.
+
+Example (APA 7th Style):
+> Creator, A. A., & Creator, B. B. (Year). *Title of the dataset* (Version V) [Data set]. Repository Name. https://doi.org/10.xxxx/xxxxx
+
+---
+
+
+## Conclusions
 
 Long-term preservation and publication are essential components of responsible Research Data Management. Preserving research outputs ensures that they remain understandable, accessible, and reusable long after a project has ended.
 
@@ -423,8 +541,9 @@ A successful preservation strategy involves:
 
 Publishing research data not only satisfies the requirements of many funders and journals but also improves the visibility, reproducibility, and long-term impact of research.
 
-## Quiz
+---
 
+## Knowledge Check
 You learned how to preserve and publish your data and all you get is another stupid quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
 
 All your data should be preserved for at least 5 to 10 years. 
@@ -445,3 +564,23 @@ Which of the following steps help prepare a dataset for long-term preservation a
     [[X]] Provide metadata and, where relevant, codebooks or variable dictionaries.
     [[X]] Use open, well-documented file formats where possible.
     [[ ]] Upload temporary files, duplicate files, and every working draft created during the project.
+
+Does the fact that a dataset is published in a reputable repository guarantee its scientific quality?
+
+[( )] Yes, repositories conduct rigorous scientific peer-reviews of all deposited data.
+[(X)] No, repositories mostly perform technical checks; the scientific evaluation is the user's responsibility.
+[( )] Yes, but only if the repository is discipline-specific.
+
+Which of the following correctly matches one of the four primary groups with a benefit of data reuse?
+
+[( )] Data producers benefit because they save time and money by not having to produce the data themselves.
+[(X)] Research disciplines benefit because everyone gains access to expensive or difficult-to-generate data.
+[( )] Society benefits primarily because individual researchers receive more academic citations.
+
+Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?
+
+[( )] Cite only the journal paper, as datasets are not formal publications.
+[( )] Cite only the dataset, as the paper is redundant.
+[(X)] Cite both the dataset (using its DOI) and the corresponding journal paper.
+
+## Sources
