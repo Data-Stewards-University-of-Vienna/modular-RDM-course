@@ -173,7 +173,7 @@ For example, copyright, database rights, employment contracts, confidentiality a
 
 **If you are employed by the University of Vienna, the university generally has extensive rights to research outputs created as part of your employment.** However, the exact situation depends on the type of output, applicable legislation, and your contractual arrangements. This does not necessarily mean that the university owns every piece of data or intellectual property you create.
 
-Importantly, the **University of Vienna's (Research Data Management Policy)[https://rdm.univie.ac.at/rdm-policy-and-faq/] explicitly gives university staff the right to publish their research data in repositories under open licenses or licenses for scientific use, provided that no legal, contractual, ethical, or other applicable restrictions prevent it.**
+Importantly, the **University of Vienna's [Research Data Management Policy](rdm.univie.ac.at/rdm-policy-and-faq/) explicitly gives university staff the right to publish their research data in repositories under open licenses or licenses for scientific use, provided that no legal, contractual, ethical, or other applicable restrictions prevent it.**
 
 This means that even though the university may hold rights to the research outputs you create during your employment, you are generally permitted to make your research data openly available when the necessary conditions are met.
 
@@ -272,7 +272,7 @@ If you plan to work with genetic resources, it's a good idea to investigate pote
 
 Documentation is an important part of Nagoya Protocol compliance! Under EU regulations, researchers must retain relevant documentation for 20 years after the end of the period of utilization of the genetic resources. A great way to manage this documentation for your lab is to set up a private collection in PHAIDRA, the University of Vienna's long-term digital repository. This allows your lab to keep permits, agreements, and other important records together in a secure, organized location where they can be accessed when needed. The RDM Team can help you set up a private PHAIDRA collection and develop a practical approach to organizing and preserving your documentation.
 
-For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](https://transfer.univie.ac.at/en/team-and-contact/) .
+For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](transfer.univie.ac.at/en/team-and-contact/).
 
 ### Working with Humans and the General Data Protection Regulation (GDPR)
 If your research project involves collecting, storing, analyzing, or otherwise processing information about living people, you will likely need to consider the General Data Protection Regulation (GDPR). The GDPR is an EU regulation that has applied since May 2018 and establishes rules for how personal data must be handled. It defines the rights of individuals whose data are processed, the responsibilities of those working with personal data, and the measures organizations must take to protect that information. Violations can result in significant penalties, so it's important to understand your responsibilities and plan for data protection from the beginning of your project.
