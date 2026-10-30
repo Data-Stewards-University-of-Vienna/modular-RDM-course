@@ -38,7 +38,7 @@ RDM website: [rdm.univie.ac.at](rdm.univie.ac.at)
 Find out if your faculty/centre has a data steward: [click here](https://rdm.univie.ac.at/de/data-stewards-universitaet-wien/data-stewards-kennenlernen)
 
 
-RDM Helpdesk: [rdm@univie.ac.at](rdm@univie.ac.at)
+RDM Helpdesk: rdm@univie.ac.at
 
 
 Sign-Off
