@@ -1,4 +1,5 @@
-<!--
+
+<!---
 authors: Franziska Bauchinger, Jeanne Wilbrandt, Emily J. Kate 
 
 email: franziska.bauchinger@univie.ac.at, jeanne.wilbrandt@univie.ac.at, emily.jean.kate@univie.ac.at 
@@ -7,7 +8,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 # Data Management Plans (DMPs)
 
 Objectives
