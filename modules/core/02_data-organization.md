@@ -11,7 +11,7 @@ language: en
 
 # Data Organization
 
-Welcome to Module 2! In this module, you will learn about data organization: why is it important to organize your data, and how do you implement a good structure through the use of naming conventions. It will also discuss different file formats and how 
+Welcome to Module 2! In this module, you will learn about data organization: why is it important to organize your data, and how do you implement a good structure through the use of naming conventions. It will also discuss different file formats and how to choose the best suited option for your data to ensure the reproducibility and transparency of your research.
 
 Objectives
 --------------------
@@ -113,7 +113,21 @@ When working with tables, standardization plays a pivotal role in ensuring accur
 * **Data is in rectangular format:** Information is organized in a rectangular structure, where each row represents a distinct observation, and each column represents a unique variable.
 * **Keep data and metadata separate:** Accompanying notes, annotations, or metadata are kept separate from your actual data. This separation ensures that the core dataset remains clean and uncluttered.
 * **Do not encode information via color, font, etc.:** Conveying important information solely through visual attributes like color, font size, or formatting might improve your understanding, but introduces ambiguity and potential difficulties in the interpretation for other humans and machines.
-* **Do not leave empty cells:** Missing data should not result in empty cells, instead, denote missing values clearly with a standardized label.
+* **Do not leave cells empty:** Missing data should not result in empty cells, instead, denote missing values clearly with a standardized label.
+
+After creating, formatting and standardizing your data you should also validate them as quality control. This is in particular important if you are re-using data that you did not create on your own already following the above mentioned standards.
+
+Data validation or cleaning involves checking if values fall within valid ranges and identifying any unexpected entries that may require further investigation. Additionally, it is important to eliminate leading or trailing spaces and other characters that could interfere with data analysis. The presence of outliers, missing data, or typos should be carefully examined to maintain data quality.
+
+For small datasets you may still be able to check these things manually, but if you are dealing with larger amounts of (messy) data that you have to review or clean up before your analysis, you could automate this process by using for example Python, R, Excel, Google Sheets or OpenRefine. There a loads of guides and tutorials on the internet about this topic, but here are some sources you can use as a starting point:
+
+[Pythonic Data Cleaning With pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
+
+[Cleaning Data in Excel (Youtube)](https://youtu.be/_jmiEGZ6PIY)
+
+[Understanding Data Cleaning - Google Sheets (Youtube)](https://www.youtube.com/watch?v=kCP-H8VRDCw)
+
+[OpenRefine](https://openrefine.org/)
 
 Research Group Norms, Rules, and Procedures for Data Organization
 --------------------
@@ -139,9 +153,9 @@ An efficient way of ensuring all of the group members are able to keep up with t
 File formats
 --------------------
 
-A file format is a way of encoding information within a computer file. A program or application must be able to recognise the file format in order to access data within the file. Understanding file formats is not just a technical consideration; it is a critical aspect of ensuring the reproducibility and transparency of your research.
+A file format is a way of encoding information within a computer file. A program or application must be able to recognize the file format in order to access data within the file. Understanding file formats is not just a technical consideration; it is a critical aspect of ensuring the reproducibility and transparency of your research.
 
-In general, we can distinguish between proprietary and open formats. Files in proprietary formats usually must be opened by the software in which they were created. Someone without a licence to the software may not be able to open the file at all. Open formats, in which the software company or collective publishes the format rather than keeps it proprietary, are more likely to be readable by more than one application. Adobe PDF is an example of an open format that may be viewed in a number of applications, not just Adobe products. File formats that are non-proprietary (e.g. open source), or in widespread use, will tend to retain the best chance of being readable in the future. Proprietary formats, especially non-standard formats, used only by a specific software program or specific software version, are likely to present problems for future use. As you may have already surmised, archiving and publishing your data in the correct file format not only enhances their value but also promotes their FAIRness.^5^
+In general, we can distinguish between proprietary and open formats. Files in proprietary formats usually must be opened by the software in which they were created. Someone without a license to the software may not be able to open the file at all. Open formats, in which the software company or collective publishes the format rather than keeps it proprietary, are more likely to be readable by more than one application. Adobe PDF is an example of an open format that may be viewed in a number of applications, not just Adobe products. File formats that are non-proprietary (e.g. open source), or in widespread use, will tend to retain the best chance of being readable in the future. Proprietary formats, especially non-standard formats, used only by a specific software program or specific software version, are likely to present problems for future use. As you may have already surmised, archiving and publishing your data in the correct file format not only enhances their value but also promotes their FAIRness.^1^
 
 A particular file format is often indicated as part of a file's name by a file name extension, or suffix. Conventionally, the extension follows a dot in the filename and contains three or four letters that identify the format (.jpg or .jpeg). In the Windows operating systems you can choose whether to display file suffixes or not. Mac files often do not have a suffix, which can be problematic when copying files to a different system to use.
 
@@ -152,7 +166,7 @@ Text vs Binary formats and their suitability
 
 Text files are machine-readable through a character encoding standard such as ASCII or Unicode. Binary files can only be read by applicable software, and may be proprietary.
 
-Some commonly used file extensions for saving plain text files include .txt, .csv, .html, .fastq and .tsv. The advantage of creating or saving research data in a text format, where possible, is that such files are highly machine-readable, tool-independent, and still readable for humans in any plain text editor. Therefore, text files are the most unlikely to become obsolete over time, and are a good format for sharing and long-term preservation. Unfortunately, converting binary formats into text files sometimes leads to the loss of valuable metadata associated with your research data (e.g. transforming your microscopy data into TIFF files). Therefore, it is advisable to consider storing and archiving your data in multiple formats to ensure the preservation of comprehensive metadata.^5^
+Some commonly used file extensions for saving plain text files include .txt, .csv, .html, .fastq and .tsv. The advantage of creating or saving research data in a text format, where possible, is that such files are highly machine-readable, tool-independent, and still readable for humans in any plain text editor. Therefore, text files are the most unlikely to become obsolete over time, and are a good format for sharing and long-term preservation. Unfortunately, converting binary formats into text files sometimes leads to the loss of valuable metadata associated with your research data (e.g. transforming your microscopy data into TIFF files). Therefore, it is advisable to consider storing and archiving your data in multiple formats to ensure the preservation of comprehensive metadata.^1^
 
 In order to decide which format is most suitable for your data, you need to assess the following three criteria:
 
@@ -171,10 +185,12 @@ To help you determine whether to use a certain file format over another, this ta
 
 As a general rule, it is important not to become overwhelmed by the task of selecting a proper file format. It's essential to remember that there may not always be a perfect solution for every type of data. Consider the formats and software you are currently using, evaluate whether it makes sense to save your work in an additional format, and determine if you can easily convert between working/sharing formats and archiving formats. By considering these factors, you can make an informed decision that balances practicality and the long-term preservation of your research data.
 
+
+
 Conclusion
 --------------------
 
-This module has taught you the importance of data organization through the use of naming conventions for your files and folders, the structure of your folders, and the implementation of organizational structures and guidelines for both individuals and research groups. This means that you will have the perfect organizational structure in place to actually document your research, i.e. the content of your files and folders. We have also discussed the importance of assessing file formats, and why it is important to choose these wisely to ensure longevity of the data. In the next module, you will learn what exactly should be included in your metadata for effective research documentation.
+This module has taught you the importance of data organization through the use of naming conventions for your files and folders, the structure of your folders, and the implementation of organizational structures and guidelines for both individuals and research groups. This means that you will have the perfect organizational structure in place to actually document your research, i.e. the content of your files and folders. We have also discussed the importance of assessing file formats, and why it is important to choose these wisely to ensure longevity of your data. In the next module, you will learn what exactly should be included in your metadata for effective research documentation.
 
 Knowledge Check
 --------------------
@@ -202,7 +218,7 @@ Now that we discussed the importance of data organization with folder structures
   [[ ]] Data that has been collected and automatically put into a tabular format, so that it can easily be understood by a computer.
   [[ ]] Data that has been interpreted, often through using statistical techniques to extract insights from the data.
 
-**The introduction of a template for data organization is most useful when a project had ended.**
+**The introduction of a template for data organization is most useful when a project has ended.**
 
   [[ ]] True
   [[X]] False  
@@ -214,3 +230,8 @@ Now that we discussed the importance of data organization with folder structures
 [[X]] Human readability
 [[ ]] University software availability
 [[X]] Metadata inclusion   
+
+References
+--------------------
+
+^1^ EDINA and Data Library, University of Edinburgh: Research Data MANTRA (online training units & data handling tutorials). (2017) DOI: https://doi.org/10.5281/zenodo.1035218
