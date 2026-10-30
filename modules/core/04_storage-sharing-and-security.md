@@ -10,10 +10,12 @@ language: en
 -->
 
 # Data Storage, Sharing, and Security
+Welcome to the next module, where we will discuss storage and managing your research data - and what are considerations to keep in mind during your project!
 
-Learning Objectives
--------------------- 
-Welcome to Module 4! In this module, we will explore how to store, protect, and share research data throughout the research lifecycle, focusing on practical strategies for keeping data secure, accessible, and available for responsible reuse.
+## Objectives
+Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
+
+Your research data is easily one of the most valuable things you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic or panic in general.
 
 By the end of this chapter, you will be able to:
 
@@ -73,7 +75,8 @@ If your project doesn't involve highly sensitive data, the easiest way to keep y
 
 Many university storage services already include automated backups, but it is important to understand what is—and is not—being backed up.
 
-**Two Things to Keep in Mind:**
+Two Things to Keep in Mind:
+-----------------
 
 1. Test your backups (seriously!)
 
@@ -198,7 +201,8 @@ Need advice?
 
 Research data often remain valuable long after a project has finished. Planning for the end of a project should therefore begin well before the final day of employment or study.
 
-**Before Leaving the University**
+Before Leaving the University
+--------------
 
 University accounts, storage space, and access permissions cannot be guaranteed after you leave the University of Vienna.
 
