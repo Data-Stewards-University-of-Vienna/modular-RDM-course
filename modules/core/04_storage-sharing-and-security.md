@@ -12,7 +12,8 @@ language: en
 # Data Storage, Sharing, and Security
 Welcome to the next module, where we will discuss storage and managing your research data - and what are considerations to keep in mind during your project!
 
-## Objectives
+Objectives
+-------------------- 
 Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
 
 Your research data is easily one of the most valuable things you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic or panic in general.
