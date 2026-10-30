@@ -10,8 +10,9 @@ language: en
 -->
 
 # Data Storage, Sharing, and Security
+Welcome to the next module, where we will discuss storage and managing your research data - and what are considerations to keep in mind during your project!
 
-## Learning Objectives
+## Objectives
 Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
 
 Your research data is easily one of the most valuable things you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic or panic in general.
@@ -35,7 +36,8 @@ While it is tempting to just use a personal Dropbox or buy an external hard driv
 
 Here is a quick cheat sheet of the different storage options available to you at the University of Vienna:
 
-**University Storage Services**
+University Storage Services
+-----------------
 
 |Service | Function | Storage Space | Collaboration Features|Cost|Availability|
 | -----------|---------------|-------|---------|----------| -----------
@@ -55,7 +57,8 @@ Even with the absolute best setup, things can still go wrong. Laptops get stolen
 
 ![XKCD Data Trap](https://imgs.xkcd.com/comics/backups.png " [Backups by XKCD](https://xkcd.com/1718/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
-**The 3-2-1 Rule**
+The 3-2-1 Rule
+------------
 
 If your project doesn't involve highly sensitive data, the easiest way to keep your work safe is the 3-2-1 Rule:
 
@@ -65,7 +68,8 @@ If your project doesn't involve highly sensitive data, the easiest way to keep y
 
 Many university storage services already include automated backups, but it is important to understand what is—and is not—being backed up.
 
-**Two Things to Keep in Mind:**
+Two Things to Keep in Mind:
+-----------------
 
 1. Test your backups (seriously!)
 
@@ -79,7 +83,8 @@ USB sticks get lost, external hard drives crash, and even CDs degrade over time.
 
 Protecting research data is about more than preventing data loss. It also means ensuring that only authorised people can access the data and that information is handled in accordance with legal, ethical, and institutional requirements.
 
-**Good Security Practices**
+Good Security Practices
+---------------
 
 Simple habits can significantly reduce the risk of data loss or unauthorised access:
 
@@ -92,7 +97,8 @@ Simple habits can significantly reduce the risk of data loss or unauthorised acc
 
 Security is not only a technical issue—it is also part of responsible research practice.
 
-**Working with Sensitive Data**
+Working with Sensitive Data
+----------------
 
 Some research projects involve sensitive data, such as:
 
@@ -133,7 +139,8 @@ Before you hit "share," take a quick second to ask yourself:
 
 To keep things organized and secure, step away from email attachments and personal Dropboxes. Instead, use the university-supported tools built specifically for this:
 
-**Choosing the Right Tool**
+Choosing the Right Tool
+---------------
 
 Different collaboration tasks require different services.
 
@@ -153,7 +160,8 @@ Remember that not every dataset should be shared with every collaborator. Access
 
 Collaborating with researchers outside your institution often involves sharing data or research materials. In some cases, formal agreements are required before this transfer can take place.
 
-**Data Transfer Agreements (DTAs)**
+Data Transfer Agreements (DTAs)
+--------------
 
 A Data Transfer Agreement (DTA) defines the conditions under which data may be transferred between organisations.
 
@@ -167,7 +175,8 @@ A DTA typically specifies:
 
 DTAs help ensure that data sharing complies with legal, ethical, and contractual obligations.
 
-**Material Transfer Agreements (MTAs)**
+Material Transfer Agreements (MTAs)
+---------------
 
 A Material Transfer Agreement (MTA) serves a similar purpose but applies to **physical research materials**, such as:
 
@@ -187,7 +196,8 @@ MTAs clarify how materials may be used, who owns resulting discoveries, and what
 
 Research data often remain valuable long after a project has finished. Planning for the end of a project should therefore begin well before the final day of employment or study.
 
-**Before Leaving the University**
+Before Leaving the University
+--------------
 
 University accounts, storage space, and access permissions cannot be guaranteed after you leave the University of Vienna.
 
