@@ -1252,7 +1252,8 @@ You need to work on a spreadsheet with a colleague from another university. What
 [( )] Emailing the file back and forth, adding your initials to the filename (e.g., `data_v2_final_JS.xlsx`).
 [(X)] Using a university-supported sharing platform like u:cloud Pro or OneDrive instead of personal accounts or email.
 [( )] Saving it to a personal, free Dropbox account because it is quicker than checking university options.
-<!--
+
+<!---
 authors: Simone Spedicato, Michael Feichtinger 
 
 email: simone.spedicato@univie.ac.at, michael.feichtinger@univie.ac.at    
@@ -1261,7 +1262,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 
 # Archiving and Publishing
 Welcome to Chapter 5, where we will discuss preserving data, what to preserve and which publication routes are out there. Enjoy!
@@ -1967,7 +1968,7 @@ The **CARE Principles** for Indigenous Data Governance recognize that current mo
 
 ![GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg "[GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
 
-While, you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
+While you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
 
 ## Summarizing Thoughts on Research Ethics
 
