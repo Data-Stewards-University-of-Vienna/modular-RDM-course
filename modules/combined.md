@@ -514,7 +514,7 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 **********************************
 
-<!--
+<!---
 authors: Jeanne Wilbrandt, Michael Feichtinger, Isolde van Dorst
 
 email: jeanne.wilbrandt@univie.ac.at, michael.feichtinger@univie.ac.at, isolde.van.dorst@univie.ac.at    
@@ -527,7 +527,7 @@ TODO
 - insert image properly
 - review round
 
--->
+--->
 
 # Data Organization
 
