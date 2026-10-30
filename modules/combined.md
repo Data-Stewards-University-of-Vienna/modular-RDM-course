@@ -9,7 +9,7 @@ language: en
 
 --->
 # Orientation
-**Welcome to Research Data Management for Ph.D. Candidates in CoBeNe** 
+**Welcome to Research Data Management for Ph.D. Candidates in (insert faculty)** 
 
 We’re so glad you’re here! Before we delve into the exciting world of Research Data Management (RDM), we want to make sure you know what you’ve gotten yourself into. Don’t worry. We removed most of the scary stuff during beta testing. 
 
@@ -27,7 +27,7 @@ Diligent student that you are, you may be wondering about assignments, quizzes, 
 
 We are often asked if students will receive ECTS credits for completing the Moodle modules and attending the in-person workshop. The answer varies depending upon which doctoral school you call home. You can always ask the data steward teaching this course if they know how the doctoral schools for each discipline handle this workshop, but doctoral school coordinators provide the final determination on awarded credits. 
 
-With that said, if you attend both days of the workshop, you will receive a certificate of completion and the trainers will also send a list of participants to the doctoral schools. 
+With that said, if you attend the in-person workshop, you will receive a certificate of completion and the trainers will also send a list of participants to the doctoral schools. 
 
 What will We Learn?
 --------------------
