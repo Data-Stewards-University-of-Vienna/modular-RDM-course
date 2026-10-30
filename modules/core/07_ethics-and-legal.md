@@ -284,7 +284,7 @@ If your research involves personal data, talk with your supervisor early in the 
 
 Depending on your research, it may also be advisable or necessary to consult the [UNIVIE Ethics Committee](https://www.qs.univie.ac.at/en/services/ethics-committee/) or the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/). Also remember that all projects and tools processing personal data must be entered in the UNIVIE [Verarbeitungsverzeichnis](https://wiki.univie.ac.at/spaces/POL/pages/171480014/Record+of+processing+activities) If you're unsure where to start or who to contact, your faculty data steward or the UNIVIE [RDM Team](mailto:rdm@univie.ac.at) can help you find the right resources and connect you with the appropriate experts.
 
-Below, we cover a few more issues that are common when working with human partipants.
+Below, we cover a few more issues that are common when working with human participants.
 
 Consent Forms, Study Information, and Debriefing
 -------------------- 
