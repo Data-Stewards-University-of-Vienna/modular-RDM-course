@@ -25,7 +25,7 @@ Introduction
 --------------------
 Before we get into file naming, tidy data, repositories, or any of the other practical parts of research data management, we need to make sure we are speaking the same language. This module introduces the core ideas that will come up again and again throughout the course: research data, metadata, Research Data Management, the research data life cycle, FAIR data, and Open Science. We’ll look at how these concepts fit together, why they matter for day-to-day research, and how broader Open Science principles are increasingly reflected in institutional, national, European, and funder expectations. Don’t worry about memorizing every policy, acronym, or framework along the way—the goal here is to understand the bigger picture and start thinking about where your own research fits within it.
 
-## What is Research Data Management? 
+## Research Data, Metadata, and the Research Data Life Cycle
 
 What is Research Data?
 --------------------
