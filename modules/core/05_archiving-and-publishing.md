@@ -9,7 +9,7 @@ version: 1.0
 language: en
 --->
 
-# Archiving and Publishing Research Data
+# Archiving and Publishing
 
 Welcome to this module, where we will discuss preserving data, what to preserve, which publication routes are out there, how to find and evaluate data for reuse — and why reusing data is an important aspect for different stakeholders. Enjoy!
 
@@ -525,7 +525,7 @@ Example (APA 7th Style):
 ---
 
 
-## Conclusions
+## Conclusion
 
 Long-term preservation and publication are essential components of responsible Research Data Management. Preserving research outputs ensures that they remain understandable, accessible, and reusable long after a project has ended.
 
@@ -544,43 +544,36 @@ Publishing research data not only satisfies the requirements of many funders and
 ---
 
 ## Knowledge Check
-You learned how to preserve and publish your data and all you get is another stupid quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
+You learned how to preserve, publish and share your data and all you get is another stupid quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
 
-All your data should be preserved for at least 5 to 10 years. 
+**1. All your data should be preserved for at least 5 to 10 years.**
 
     [[ ]] True
     [[X]] False
 
-When choosing a repository:
+**2. When choosing a repository:**
 
     [[X]] You try to find a discipline-specific repository.
     [[X]] You check publications in your field to see which repositories are used by the community.
     [[ ]] You avoid repositories that use metadata standards.
     [[X]] You look for a repository that provides PIDs.
-    
-Which of the following steps help prepare a dataset for long-term preservation and reuse?
 
-    [[X]] Include a README file explaining the dataset, its contents, and how it was created.
-    [[X]] Provide metadata and, where relevant, codebooks or variable dictionaries.
-    [[X]] Use open, well-documented file formats where possible.
-    [[ ]] Upload temporary files, duplicate files, and every working draft created during the project.
-
-Does the fact that a dataset is published in a reputable repository guarantee its scientific quality?
+**4. Does the fact that a dataset is published in a reputable repository guarantee its scientific quality?**
 
 [( )] Yes, repositories conduct rigorous scientific peer-reviews of all deposited data.
 [(X)] No, repositories mostly perform technical checks; the scientific evaluation is the user's responsibility.
 [( )] Yes, but only if the repository is discipline-specific.
 
-Which of the following correctly matches one of the four primary groups with a benefit of data reuse?
+**5. Which of the following correctly matches one of the four primary groups with a benefit of data reuse?**
 
 [( )] Data producers benefit because they save time and money by not having to produce the data themselves.
 [(X)] Research disciplines benefit because everyone gains access to expensive or difficult-to-generate data.
 [( )] Society benefits primarily because individual researchers receive more academic citations.
 
-Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?
+**6. Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?**
 
 [( )] Cite only the journal paper, as datasets are not formal publications.
 [( )] Cite only the dataset, as the paper is redundant.
 [(X)] Cite both the dataset (using its DOI) and the corresponding journal paper.
 
-## Sources
+## References
