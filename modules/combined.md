@@ -695,9 +695,9 @@ Research documentation is the process of recording how research is planned, carr
 
 ## Data Documentation
 
-Data documentation could be defined as the clear description of everything that a new “data user” or “your future-self” would need to know in order to find, understand, reproduce and reuse your data, independently. Data documentation should clearly describe how you generated or used the data, why, and where to find the related files. It could be used also as onboarding documentation for new colleagues, even if the responsible researcher leaves the project.
+Data documentation could be defined as the clear description of everything that a new “data user” or “your future self” would need to know in order to find, understand, reproduce and reuse your data, independently. Data documentation should clearly describe how you generated or used the data, why, and where to find the related files. It could be used also as onboarding documentation for new colleagues, even if the responsible researcher leaves the project.
 
-Due to the large variety of experiments, techniques and collaborative studies that usually occur within the same project, it is challenging to keep good documentation. However, lack of good data documentation often leads to data loss, not reproducible results or worklfows and therefore, waste of money and time.
+Due to the large variety of experiments, techniques and collaborative studies that usually occur within the same project, it is challenging to keep good documentation. However, lack of good data documentation often leads to data loss, not reproducible results or workflows and therefore, waste of money and time.
 
 When documenting your data you should keep the following things in mind:
 -------------------- 
@@ -717,7 +717,7 @@ When documenting your data you should keep the following things in mind:
 
      * An example could be a data file that contains a "sex" field: someone known to the field could try to misinterpret that from "external sex organs present at birth" to "chromosomal XX or XY" or "high or low testosterone level" or "social gender" or other. In order to avoid this, the way the assignment is made must be part of the documentation or of the data itself (controlled vocabulary). 
 
-- Both the study- and data-level documentation must be generated as early as possible in the research process and also maintained, in order to be accurate and complete.
+- Both the study- and data-level documentation must be generated as early as possible in the research process and also continuously updated, in order to be accurate and complete.
 
 - Documentation is also required when publishing your data.
 
