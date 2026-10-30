@@ -59,7 +59,7 @@ The **CARE Principles** for Indigenous Data Governance recognize that current mo
 
 ![GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg "[GIDA Indigenous Peoples' Rights in Data](https://figshare.com/ndownloader/files/39449659/preview/39449659/preview.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)")
 
-While, you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
+While you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
 
 ## Summarizing Thoughts on Research Ethics
 
