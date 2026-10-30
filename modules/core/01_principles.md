@@ -83,7 +83,7 @@ We have a handy website at [rdm.univie.ac.at](rdm.univie.ac.at) and you can emai
 * Faculty of Psychology 
 * Faculty of Business, Economics, and Statistics 
 * Faculty of Philological and Cultural Studies 
-* Faculty of Historical adn Cultural Studies 
+* Faculty of Historical and Cultural Studies 
 
 ## The Research Data Life Cycle
 
