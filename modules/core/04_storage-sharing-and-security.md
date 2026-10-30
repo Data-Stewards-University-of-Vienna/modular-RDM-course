@@ -11,16 +11,21 @@ language: en
 
 # Data Storage, Sharing, and Security
 
-## Learning Objectives
-Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
-
-Your research data is easily one of the most valuable things you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic or panic in general.
+Learning Objectives
+-------------------- 
+Welcome to Module 4! In this module, we will explore how to store, protect, and share research data throughout the research lifecycle, focusing on practical strategies for keeping data secure, accessible, and available for responsible reuse.
 
 By the end of this chapter, you will be able to:
 
-* Select the right storage solutions for your specific research data.
-* Explain the basic principles of secure data storage and backup.
-* Identify and use the storage services supported directly by the University of Vienna.
+1. Select the right storage solutions for your specific research data.
+2. Explain the basic principles of secure data storage and backup.
+3. Identify and use the storage services supported directly by the University of Vienna.
+
+Introduction
+-------------------- 
+Where is your data living right now—is it on a random USB drive on your desk, or just saved on your laptop's desktop?
+
+Your research data is easily one of the most valuable things you will produce during your PhD, and losing it can mean losing months or even years of hard work. That is why planning where and how your data will live should actually begin before you start collecting it. Setting up a good storage routine early on keeps your files safe, makes collaborating with others easy, and saves you from late-night panic or panic in general.
 
 ## Choosing Appropriate Storage
 
@@ -35,7 +40,8 @@ While it is tempting to just use a personal Dropbox or buy an external hard driv
 
 Here is a quick cheat sheet of the different storage options available to you at the University of Vienna:
 
-**University Storage Services**
+University Storage Services
+-------------------- 
 
 |Service | Function | Storage Space | Collaboration Features|Cost|Availability|
 | -----------|---------------|-------|---------|----------| -----------
@@ -49,13 +55,15 @@ Here is a quick cheat sheet of the different storage options available to you at
 
 > **Tip:** If you are unsure which service best suits your project, contact the Research Data Management Support team before your project begins.
 
-## Backups and Data Preservation
+Backups and Data Preservation
+-------------------- 
 
 Even with the absolute best setup, things can still go wrong. Laptops get stolen, coffee gets spilled, hard drives crash, and sometimes you just accidentally hit "delete" on a file you actually needed. That is why having a solid backup routine is your ultimate safety net.
 
 ![XKCD Data Trap](https://imgs.xkcd.com/comics/backups.png " [Backups by XKCD](https://xkcd.com/1718/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
-**The 3-2-1 Rule**
+The 3-2-1 Rule
+-------------------- 
 
 If your project doesn't involve highly sensitive data, the easiest way to keep your work safe is the 3-2-1 Rule:
 
@@ -79,7 +87,8 @@ USB sticks get lost, external hard drives crash, and even CDs degrade over time.
 
 Protecting research data is about more than preventing data loss. It also means ensuring that only authorised people can access the data and that information is handled in accordance with legal, ethical, and institutional requirements.
 
-**Good Security Practices**
+Good Security Practices
+-------------------- 
 
 Simple habits can significantly reduce the risk of data loss or unauthorised access:
 
@@ -92,7 +101,8 @@ Simple habits can significantly reduce the risk of data loss or unauthorised acc
 
 Security is not only a technical issue—it is also part of responsible research practice.
 
-**Working with Sensitive Data**
+Working with Sensitive Data
+-------------------- 
 
 Some research projects involve sensitive data, such as:
 
@@ -133,7 +143,8 @@ Before you hit "share," take a quick second to ask yourself:
 
 To keep things organized and secure, step away from email attachments and personal Dropboxes. Instead, use the university-supported tools built specifically for this:
 
-**Choosing the Right Tool**
+Choosing the Right Tool
+-------------------- 
 
 Different collaboration tasks require different services.
 
@@ -144,16 +155,15 @@ Different collaboration tasks require different services.
 | Source code and version control | GitHub, GitLab |
 | Sending large files | ACONET FileSender |
 
-For projects involving external collaborators, ensure that sharing arrangements comply with ethical approvals, funding requirements, and applicable legislation.
-
-Remember that not every dataset should be shared with every collaborator. Access should be limited to those who need it for their role in the project.
+For projects involving external collaborators, ensure that sharing arrangements comply with ethical approvals, funding requirements, and applicable legislation.With that said, most university services can accomodate users from outside the university. If you need help, just ask! Remember that not every dataset should be shared with every collaborator. Access should be limited to those who need it for their role in the project.
 
 
 ## Sharing Data Beyond the University
 
-Collaborating with researchers outside your institution often involves sharing data or research materials. In some cases, formal agreements are required before this transfer can take place.
+Collaborating with researchers outside your institution often involves sharing data or research materials. In some cases, formal agreements are required before this transfer can take place. Here, we briefly mention Data Transfer Agreements and Material Transfer Agreements, but they are covered more fully in the Legal and Ethics Module. 
 
-**Data Transfer Agreements (DTAs)**
+Data Transfer Agreements (DTAs)
+-------------------- 
 
 A Data Transfer Agreement (DTA) defines the conditions under which data may be transferred between organisations.
 
@@ -167,7 +177,8 @@ A DTA typically specifies:
 
 DTAs help ensure that data sharing complies with legal, ethical, and contractual obligations.
 
-**Material Transfer Agreements (MTAs)**
+Material Transfer Agreements (MTAs)
+-------------------- 
 
 A Material Transfer Agreement (MTA) serves a similar purpose but applies to **physical research materials**, such as:
 
@@ -179,9 +190,9 @@ A Material Transfer Agreement (MTA) serves a similar purpose but applies to **ph
 
 MTAs clarify how materials may be used, who owns resulting discoveries, and what happens to remaining materials after the collaboration.
 
-> **Need advice?**
->
-> If your project requires sharing data or research materials with another organisation, contact the appropriate university support office before any transfer takes place.
+Need advice?
+-------------------- 
+> If your project requires sharing data or research materials with another organisation, contact the appropriate university support office before any transfer takes place. THE RDM Team is always happy to answer your question directly, or direct you to the appropriate expert. 
 
 ## Planning for the End of Your Project
 
@@ -205,7 +216,7 @@ If data or research materials need to move to another institution, additional ag
 
 Discuss these questions with your supervisor/RDM Team/Legal Help Desk and complete any required offboarding procedures before your university account is closed. Normally you have quite some time but we all know what happens when life happens. In general you have 4 years to still access your data but after that all of your personal storage like your ucloud will be deleted and supervisors and collaborators are left with nothing. So it is advisable to safe your data somewhere central where they still have access. [More information](https://zid.univie.ac.at/uaccount-ablauf#c6401)
 
-## Quiz
+## Knowledge Check 
 
 Test your understanding of data storage, security, and sharing.
 
