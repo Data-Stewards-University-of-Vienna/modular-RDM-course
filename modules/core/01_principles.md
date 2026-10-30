@@ -377,10 +377,10 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 **1. Which of the following best reflects the module’s definition of *research data*?**
 
-[( )] Only the final dataset used to produce published figures and statistical results  
-[( )] Any digital file created during a research project  
-[(X)] Information created or used during research that supports or validates research activities, including data, documentation, software, code, and negative results  
-[( )] Only data that will eventually be deposited in a public repository  
+[[ ]] Only the final dataset used to produce published figures and statistical results  
+[[ ]] Any digital file created during a research project  
+[[X]] Information created or used during research that supports or validates research activities, including data, documentation, software, code, and negative results  
+[[ ]] Only data that will eventually be deposited in a public repository  
 
 **********************************
 
@@ -390,10 +390,10 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 **2. A researcher downloads a dataset from a repository, converts several variables to a common coding system, removes records that do not meet the study criteria, and records each transformation in a script. Which stage of the research data life cycle does this primarily represent?**
 
-[( )] Collecting  
-[(X)] Processing  
-[( )] Analysing  
-[( )] Preserving  
+[[ ]] Collecting  
+[[X]] Processing  
+[[ ]] Analysing  
+[[ ]] Preserving  
 
 **********************************
 
@@ -403,10 +403,10 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 **3. A research group deposits a sensitive dataset in a trusted repository. The data themselves can only be accessed following an application and approval process, but the dataset has an openly available metadata record explaining what it contains and how access can be requested. Which statement is most accurate?**
 
-[( )] The dataset cannot be FAIR because FAIR data must be openly accessible  
-[(X)] The dataset can still be FAIR because accessibility concerns having clear and appropriate conditions for access  
-[( )] The dataset is FAIR only if the researchers eventually remove the access restrictions  
-[( )] The dataset is Open Science, but it cannot satisfy the FAIR Principles  
+[[ ]] The dataset cannot be FAIR because FAIR data must be openly accessible  
+[[X]] The dataset can still be FAIR because accessibility concerns having clear and appropriate conditions for access  
+[[ ]] The dataset is FAIR only if the researchers eventually remove the access restrictions  
+[[ ]] The dataset is Open Science, but it cannot satisfy the FAIR Principles  
 
 **********************************
 
@@ -416,10 +416,10 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 **4. Which researcher is most closely following the approach to Open Science described in this module?**
 
-[( )] A researcher uploads every file from a project publicly because Open Science requires all research materials to be open  
-[( )] A researcher waits until publication to decide whether any documentation or data management is necessary  
-[(X)] A researcher plans how outputs will be organized, documented, preserved, and shared, while restricting access where legal, ethical, or other legitimate considerations require it  
-[( )] A researcher publishes their articles Open Access but does not document or preserve the underlying research materials  
+[[ ]] A researcher uploads every file from a project publicly because Open Science requires all research materials to be open  
+[[ ]] A researcher waits until publication to decide whether any documentation or data management is necessary  
+[[X]] A researcher plans how outputs will be organized, documented, preserved, and shared, while restricting access where legal, ethical, or other legitimate considerations require it  
+[[ ]] A researcher publishes their articles Open Access but does not document or preserve the underlying research materials  
 
 **********************************
 
@@ -429,10 +429,10 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 **5. Why does the module introduce the LERU Open Science Roadmap after discussing EU, Austrian, and funder policies?**
 
-[( )] Because LERU requirements replace Horizon Europe and FWF requirements at European universities  
-[( )] Because it shows that Open Science has already been fully implemented across European research institutions  
-[(X)] Because it illustrates the wider institutional changes and investments needed to make Open Science sustainable beyond the requirements currently placed on individual researchers  
-[( )] Because its eight pillars provide a legally binding definition of Open Science for European researchers  
+[[ ]] Because LERU requirements replace Horizon Europe and FWF requirements at European universities  
+[[ ]] Because it shows that Open Science has already been fully implemented across European research institutions  
+[[X]] Because it illustrates the wider institutional changes and investments needed to make Open Science sustainable beyond the requirements currently placed on individual researchers  
+[[ ]] Because its eight pillars provide a legally binding definition of Open Science for European researchers  
 
 **********************************
 
