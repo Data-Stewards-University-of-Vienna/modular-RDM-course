@@ -8,7 +8,7 @@ language: en
 
 -->
 # Orientation
-**Welcome to Research Data Management for Ph.D. Candidates in -Insert Faculty of Discipline-!** 
+**Welcome to Research Data Management for Ph.D. Candidates in CoBeNe** 
 
 We’re so glad you’re here! Before we delve into the exciting world of Research Data Management (RDM), we want to make sure you know what you’ve gotten yourself into. Don’t worry. We removed most of the scary stuff during beta testing. 
 
