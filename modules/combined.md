@@ -661,7 +661,8 @@ Now that we discussed the importance of data organization with folder structures
 
   [[ ]] True
   [[X]] False  
-<!--
+
+<!---
 authors: Mathias Mayrgündter, Simone Spedicato 
 
 email: mathias.mayrguendter@univie.ac.at, simone.spedicato@univie.ac.at    
@@ -673,7 +674,7 @@ language: en
 TODO
 - review round
 
--->
+--->
 
 # Research Documentation
 Welcome, travelers, to Module 3! Now that we have covered some of the foundations of data organization, we can turn to more concrete aspects of your research—and to how you can document them effectively.
