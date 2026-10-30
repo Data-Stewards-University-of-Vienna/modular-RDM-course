@@ -1,4 +1,4 @@
-<!--
+b<!--
 authors: Lukas Kraiger, Emily Kate 
 
 email: lukas.kraiger@univie.ac.at, emily.jean.kate@univie.ac.at    
@@ -272,7 +272,7 @@ If you plan to work with genetic resources, it's a good idea to investigate pote
 
 Documentation is an important part of Nagoya Protocol compliance! Under EU regulations, researchers must retain relevant documentation for 20 years after the end of the period of utilization of the genetic resources. A great way to manage this documentation for your lab is to set up a private collection in PHAIDRA, the University of Vienna's long-term digital repository. This allows your lab to keep permits, agreements, and other important records together in a secure, organized location where they can be accessed when needed. The RDM Team can help you set up a private PHAIDRA collection and develop a practical approach to organizing and preserving your documentation.
 
-For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](transfer.univie.ac.at/en/team-and-contact/).
+For legal support with NP you can contact Sofiia Myklush (sofiia.myklush@univie.ac.at) at the UNIVIE [Technology Transfer Office](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry](https://forschungsservice.univie.ac.at/en/impact-innovation/technology-transfer-industry).
 
 ### Working with Humans and the General Data Protection Regulation (GDPR)
 If your research project involves collecting, storing, analyzing, or otherwise processing information about living people, you will likely need to consider the General Data Protection Regulation (GDPR). The GDPR is an EU regulation that has applied since May 2018 and establishes rules for how personal data must be handled. It defines the rights of individuals whose data are processed, the responsibilities of those working with personal data, and the measures organizations must take to protect that information. Violations can result in significant penalties, so it's important to understand your responsibilities and plan for data protection from the beginning of your project.
@@ -343,12 +343,16 @@ Debriefing is especially important when the study involves deception or does not
 Research involving children, people with limited capacity to consent, sensitive personal data, health information, or potentially vulnerable groups may be subject to additional ethical and legal requirements. If you are unsure about the information, consent, or debriefing requirements for your project, it's always best to ask for help! 
 
 ## Hidden Personal Data: When GDPR Applies Without Names
+Personal data are not limited to obvious identifiers such as names, email addresses, or phone numbers. They can also include information such as photographs, location data, identification numbers, or details about a person's health, education, or employment. Under the GDPR, data count as personal data whenever they relate to an identified or identifiable living person.
 
-Personal data are not limited to obvious identifiers such as names, email addresses, or phone numbers. Under the GDPR, data count as personal data whenever they relate to an identified or **identifiable living person**.
+This means that a dataset can still contain personal data even when names have been removed. If someone could reasonably identify a participant by combining the dataset with other available information, GDPR requirements may still apply.
 
-This means that a dataset can still be personal data even when names have been removed. If someone could realistically identify a participant by combining the dataset with other information, GDPR requirements may still apply.
+Importantly, you may process personal data even if your research does not directly involve studying people. For example, a researcher studying the behavior or health of domestic dogs might collect the names and contact information of dog owners to arrange observations, conduct interviews, or share research results. Although the dogs are the subjects of the study, the information collected about their owners is still personal data.
 
-### Indirect Identifiers
+For this reason, researchers in all disciplines should consider whether they collect, store, or otherwise process information about identifiable people, even when human participants are not the focus of their research.
+
+Indirect Identifiers
+-------------------- 
 
 Indirect identifiers may identify a person when combined with other data. Examples include:
 
@@ -372,7 +376,8 @@ Personal data can also be hidden in:
 * maps and detailed location data; and
 * quotations from online platforms that can be searched and traced back to a user.
 
-### Pseudonymised Is Not Anonymous
+Pseudonymised Is Not Anonymous
+-------------------- 
 
 Replacing names with participant codes, such as `P001`, is called **pseudonymisation**. It is a useful protective measure, but pseudonymised data remain personal data under the GDPR if a key exists or participants can otherwise be reidentified.
 
@@ -380,13 +385,15 @@ Data are only **anonymous** when individuals can no longer be identified by reas
 
 > If you, your team, or another person could realistically work out who a participant is, treat the data as personal data.
 
-### Public Data Are Not Automatically Free to Use
+Public Data Are Not Automatically Free to Use
+-------------------- 
 
 Information posted publicly online may still be personal data. Collecting, storing, analysing, or sharing identifiable social-media posts, profile information, images, or online discussions can be subject to the GDPR, platform terms of use, and ethical requirements.
 
 Be particularly careful when publishing direct quotations: readers may be able to search a quotation online and identify the author.
 
-### Before You Share Data
+Before You Share Data
+-------------------- 
 
 Before sharing, publishing, or depositing data in a repository, check for hidden identifiers in the dataset and related materials, including file names, metadata, hidden spreadsheet columns, transcripts, images, recordings, codebooks, and README files.
 
@@ -403,29 +410,35 @@ Possible risk-reduction measures include:
 If you are unsure whether your data are anonymous, assume that they are personal data and ask for advice. Contact the UNIVIE [Data Protection Officer (DPO)](https://dsba.univie.ac.at/), your faculty data steward, or the UNIVIE [RDM Team](mailto:rdm@univie.ac.at).
 
 
-### Other EU Digital Regulations: Data Act, AI Act, Digital Services Act and more
+## Other EU Digital Regulations: Data Act, AI Act, Digital Services Act and more
 The GDPR is not the only EU regulation that may affect your research. In recent years, the EU has adopted a series of laws that regulate data, digital services, and artificial intelligence. Most of them are not aimed at researchers specifically, but they can still apply when you collect, share, or analyze data, or when you use or develop digital tools. You do not need to become a legal expert, but you should know that these rules exist and when to ask for advice. Note that these regulations are being phased in over several years and some details are still evolving, so always check the current status with the RDM Team or the respective Website.
 
-**EU AI Act (Regulation (EU) 2024/1689)**
+EU AI Act (Regulation (EU) 2024/1689
+-------------------- 
 The AI Act regulates the development and use of artificial intelligence systems based on their level of risk. Some practices are prohibited, high-risk systems (for example in education, employment, or law enforcement) face strict requirements, and certain systems (such as chatbots and AI-generated content) must be transparent about their use of AI. AI systems developed and used *solely for scientific research and development* are generally exempt from the Act. However, this exemption does not cover testing in real-world conditions, and the rules apply once a system is put on the market or into service. In practice, this means:
 * If you develop AI models, document your training data, methods, and model versions carefully. This is good RDM practice and makes it easier to meet any requirements later.
 * If you use third-party AI tools, check their terms of use, especially regarding the data you upload. Do not enter personal, confidential, or unpublished data into tools without checking how that data is stored and reused.
 * Training data containing personal data still falls under the GDPR, and copyrighted material may be subject to copyright rules.
 * If your results may be turned into a product or service, ask early whether the AI Act will apply.
 
-**Data Act (Regulation (EU) 2023/2854)**
+Data Act (Regulation (EU) 2023/2854)
+-------------------- 
 The Data Act sets rules on who can access and use data generated by connected products (such as smart devices and sensors) and related services. It gives users of such products rights to access the data they generate and to share it with third parties. If your research uses data from connected devices, for example wearables, IoT sensors, or vehicles, the Data Act may affect how you can obtain and reuse these data. It also contains rules on data sharing contracts and on switching between cloud providers.
 
-**Data Governance Act (Regulation (EU) 2022/868)**
+Data Governance Act (Regulation (EU) 2022/868)
+-------------------- 
 The Data Governance Act creates structures that make it easier to reuse certain protected public-sector data (for example data subject to confidentiality or third-party rights), and supports trusted data intermediaries and *data altruism*, where people or organizations voluntarily make data available for the common good. Researchers may benefit from these mechanisms when requesting access to protected public-sector data.
 
-**European Health Data Space (EHDS, Regulation (EU) 2025/327)**
+European Health Data Space (EHDS, Regulation (EU) 2025/327)
+-------------------- 
 The EHDS establishes common rules for the use of electronic health data in the EU. It covers both the use of health data for care (primary use) and for purposes such as research, innovation, and policy-making (secondary use). If you work with health data, expect access to such data to increasingly go through designated health data access bodies, in addition to GDPR requirements.
 
-**Digital Services Act (DSA, Regulation (EU) 2022/2065)**
+Digital Services Act (DSA, Regulation (EU) 2022/2065)
+-------------------- 
 The DSA regulates online intermediaries and platforms, such as social media, marketplaces, and search engines, and sets obligations for content moderation, transparency, and risk management. It is relevant to researchers who study online platforms: **Article 40** gives vetted researchers a legal route to request access to data from very large online platforms and search engines in order to study systemic risks in the EU. This can be an alternative to scraping, which may violate platform terms of use and raise GDPR concerns. Check which procedures and conditions currently apply before relying on this route.
 
-**Which rules might apply to me?**
+Which rules might apply to me?
+-------------------- 
 
 | If your project... | Think about... |
 |---|---|
@@ -439,10 +452,13 @@ The DSA regulates online intermediaries and platforms, such as social media, mar
 Several of these rules can apply to the same project at the same time. If you are unsure which ones apply to you, contact the UNIVIE [RDM Team](rdm@univie.ac.at), the [Data Protection Officer (DPO)](https://dsba.univie.ac.at/), or the [Technology Transfer Office](https://transfer.univie.ac.at/en/team-and-contact/).
 
 ## Conclusion
-- Ethical and legal considerations are core parts of responsible research data management, not optional add-ons.
-- Choosing suitable licenses, protecting personal and sensitive data, and documenting informed consent improve transparency, reuse, and compliance.
-- Besides the GDPR, EU regulations such as the AI Act, Data Act, and Digital Services Act can affect how you obtain, use, and share data. Check early whether they apply to your project.
-- Early consultation with relevant university support structures helps address complex cases such as human and animal research, indigenous data, and intellectual property.
+requirements to address at the end of a project. By considering these issues from the beginning, researchers can protect the rights and interests of others while supporting transparency, reproducibility, and the responsible reuse of research outputs.
+
+This includes choosing appropriate licenses, protecting personal and sensitive data, and ensuring that informed consent is properly obtained and documented when required. Researchers should also be aware that, beyond the GDPR, other EU regulations, such as the AI Act, Data Act, and Digital Services Act, may affect how data can be obtained, used, and shared, depending on the nature of their research.
+
+Not every legal or ethical question has a straightforward answer, particularly when research involves human or animal subjects, Indigenous data, intellectual property, or collaborations with external partners. You are not expected to navigate these complexities alone. Consulting the relevant university support services early in your project can help you identify potential challenges, understand your responsibilities, and make informed decisions.
+
+Ultimately, responsible research data management is about more than meeting legal requirements. It is about conducting research in a way that respects others, builds trust, and enables scientific knowledge to be shared and used responsibly.
 
 ## Knowledge Check
 Test your knowledge with the quiz below. Each question has at least one correct answer, but there can also be multiple correct answers.
@@ -504,15 +520,3 @@ The CARE principles are designed to take into account the complex social, politi
 
     [[X]] True
     [[ ]] False
-
-
-### Research using Private Funds 
-We have one final legal tip before you move onto the section quiz. If your research is supported by private funds (for example, from a company), make sure you carefully read any legal documentation you are given at the start of your project. It is also a good idea to have a conversation with your advisor about any private funds you receive or funds they have received that fund your project. Make sure you understand who retains legal ownership of the data you create and if there are any other restrictions that might be placed on the data and its publication.
-At UNIVIE you could contact the [Research Services](https://forschungsservice.univie.ac.at/en/) for legal advice and support with your private funds and your rights regarding the the research output.
-
-- Patents and IP
-    - What is protected by copyright?
-    - What is not protected?
-- Data Protection and GDPR
-    - What is sensitive data?
-    - Who is protected?
