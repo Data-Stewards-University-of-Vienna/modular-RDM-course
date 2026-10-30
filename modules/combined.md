@@ -1,5 +1,5 @@
 
-<!--
+<!---
 authors: Emily J. Kate, Franziska Bauchinger
 
 email: emily.jean.kate@univie.ac.at, franziska.bauchinger@univie.ac.at
@@ -7,7 +7,7 @@ version:  1.0
 
 language: en
 
--->
+--->
 # Orientation
 **Welcome to Research Data Management for Ph.D. Candidates in CoBeNe** 
 
