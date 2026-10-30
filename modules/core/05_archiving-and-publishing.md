@@ -422,7 +422,7 @@ A successful preservation strategy involves:
 
 Publishing research data not only satisfies the requirements of many funders and journals but also improves the visibility, reproducibility, and long-term impact of research.
 
-**Quiz**
+## Quiz
 
 You learned how to preserve and publish your data and all you get is another stupid quiz. Each question has at least one correct answer, but there can also be multiple correct answers.
 
