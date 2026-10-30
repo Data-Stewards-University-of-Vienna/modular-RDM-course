@@ -923,7 +923,7 @@ Many cloud storage services, like u:cloud and OneDrive, provide automatic file v
 Version Control with Git
 --------------------
 
-For more advanced version control, conflict resolution, and back-tracing capabilities, it is recommended to use dedicated version control software such as Git. Git can be hosted on platforms like [GitHub](https://github.com/) and [GitLab](https://gitlab.com/), but also on internal GitLab services like from the University of Vienna [Phaidra GitLab](https://gitlab.phaidra.org).
+For more advanced version control, conflict resolution, and back-tracing capabilities, it is recommended to use dedicated version control software such as Git. Git can be hosted on platforms like [GitHub](https://github.com/) and [GitLab](https://gitlab.com/), but also on internal GitLab services like the University of Vienna [Phaidra GitLab](https://gitlab.phaidra.org).
 
 It is primarily designed for managing source code files. But you could use it for anything text based. It's important to note that large binary files (e.g., videos, large images) may not be suitable for Git repositories due to their size, as they can bloat the repository and slow down operations. 
 While operating Git through the command line may initially seem daunting, there are plenty of short tutorials available online that can help you use it with ease.
