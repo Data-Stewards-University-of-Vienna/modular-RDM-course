@@ -17,11 +17,11 @@ Welcome to Module 8! You've almost made it to the end of our online learning mat
 
 By the end of this section you will be able to:
 
-1. explain how DMPs can be used to actively support a research project.
+* explain how DMPs can be used to actively support a research project.
 
-2. draft a DMP for your research project with potential input from your supervisor(s).
+* draft a DMP for your research project with potential input from your supervisor(s).
 
-3. know who to contact for DMP support at the university.
+* know who to contact for DMP support at the university.
 
 Introduction
 --------------------
