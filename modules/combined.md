@@ -2543,9 +2543,10 @@ language: en
 --->
 # Data Management Plans (DMPs)
 
+Welcome to Module 8! You've almost made it to the end of our online learning materials. In this module, we’ll pull together the lessons learned in the other modules and discuss how to write a data management plan for your project.
+
 Objectives
 -------------------- 
-Welcome to Module 8! You've almost made it to the end of our online learning materials. In this module, we’ll pull together the lessons learned in the other modules and discuss how to write a data management plan for your project.
 
 By the end of this section you will be able to:
 
@@ -2653,25 +2654,25 @@ Alright, it's quiz time. Let's see what you learned about DMPs. Each question ha
 **Question  1: **
 You only need a DMP if your granting agency, doctoral school, or supervisor requires that you write one.
 
-[( )] True
-[(X)] False
+[[ ]] True
+[[X]] False
 
 ** Question 2: ** 
 A DMP should:
 
-[(X)] Define researcher roles and responsibilities. 
-[( )] Include the specs of your research equipment. 
-[(X)] Explain how you will organize your data. 
-[( )] Outline potential titles for papers that will result from your project. 
-[(X)] Indicate how much data storage and archiving will cost. 
+[[X]] Define researcher roles and responsibilities. 
+[[ ]] Include the specs of your research equipment. 
+[[X]] Explain how you will organize your data. 
+[[ ]] Outline potential titles for papers that will result from your project. 
+[[X]] Indicate how much data storage and archiving will cost. 
 
 ** Question 3: **
 UNIVIE, I can get help with my DMP by:
 
-[(X)] Contacting my faculty data steward.
-[( )] Sending up a flare. 
-[( )] Spinning in a circle three times while reciting an ancient incantation. 
-[(X)] Reaching out to the UNIVIE RDM team via their website.
+[[X]] Contacting my faculty data steward.
+[[ ]] Sending up a flare. 
+[[ ]] Spinning in a circle three times while reciting an ancient incantation. 
+[[X]] Reaching out to the UNIVIE RDM team via their website.
 
 <!---
 authors: Isolde van Dorst, Mathias Mayrgündter
