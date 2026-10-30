@@ -10,6 +10,7 @@ language: en
 -->
 
 # Data Reuse
+Welcome to Chapter 6, where it's all about reusing the data, why that is important for different stakeholders and what to keep in mind when doing so. Have a nice read!
 
 ## Objectives
 Data reuse means using data for other purposes than it was originally collected for. Reuse of data is particularly important in science, as it allows different researchers to analyse and publish findings based on the same data independently of one another. Data that is well-described, curated and shared under clear terms and conditions is more likely to be reused. Integration with other data sources is also important, since that can enable new, yet unanticipated, uses for the data.
@@ -33,7 +34,8 @@ data reusers themselves, data producers and publishers,
 research disciplines and communities, and society or the public. 
 Let's have a closer look at the benefits for each group.
 
-**Data reusers**
+Data reusers
+---------
 
 If you reuse already existing data 
 * you can save time and money, because you don't have to produce the data yourself
@@ -41,7 +43,8 @@ If you reuse already existing data
 * you can test for change over time by comparing to older data
 * you can find new collaborators through the data they published
 
-**Data producers and publishers**
+Data producers and publishers
+-----------
 
 If data you published is reused by others
 * you receive more citations and your research becomes more visible
@@ -49,7 +52,8 @@ If data you published is reused by others
 * your professional reputation can increase
 * you can find new collaborators
 
-**Research disciplines and communities**
+Research disciplines and communities
+----------
 
 If more data from a research discipline or community is available for reuse
 * they can gain a better understanding of results
@@ -57,7 +61,8 @@ If more data from a research discipline or community is available for reuse
 * everyone gains access to expensive or difficult to generate data
 * they have access to varied data for teaching purposes
 
-**Society or the public**
+Society or the public
+------------
 
 If more research data is available for reuse
 * research becomes more transparent which can increase the public confidence in science
@@ -72,12 +77,14 @@ NOTE: do we want to add a recommendation concerning supplementaries? (aka: try t
 If you now come to the conclusion that, for your specific research question, reusing data would be beneficial,
 what do you do? Where is reusable data stored and how can you find it?
 
-**How is data published?**
+How is data published?
+-----------
 
 Let's first have a look at how research data is published: 
 Research data is generally published in an article appendix or supplement, a data journal, or a data respository.
 
-**Article appendix or supplement**
+Article appendix or supplement
+------------
 
 An article appendix or supplement (these terms are used interchangeably) is a separate, optional section of a research article that contains additional information.
 Information you frequently find in an appendix are more detailed methods, additional figures or, of course, data.
@@ -85,7 +92,8 @@ Publishing the data corresponding to an article in its appendix is very common a
 Take a look at this Nature article about the CRISPR-Cas system: https://doi.org/10.1038/s41586-026-10833-9. 
 If you scroll all the way to the bottom of the article, you can see that the supplementary information contains additional figures and tables, as well as the exact source data that was used to create all figures.
 
-**Data journals**
+Data journals
+------------
 
 A data journal is a peer-reviewed academic publication that focuses on sharing and describing research datasets. 
 The articles of such a journal describe how data was collected, processed, formatted, etc. The data itself is not stored with the data journal but in a research data repository and the article simply links to the repository entry. Let's look at this article published in Scientific Data: https://doi.org/10.1038/s41597-025-05635-z. The article includes a detailed description of the methodology and in the references you find the link to the published dataset which is located on an institute repository:
@@ -94,7 +102,8 @@ The articles of such a journal describe how data was collected, processed, forma
 
 Data journals can be broad in scope (e.g. Scientific Data) or discipline-specific (e.g. Viticulture Data Journal). You can find a list of data journals on Zenodo (no guarentee for completeness): https://zenodo.org/records/7082126
 
-**Data repositories**
+Data repositories
+------------
 
 Data repositories are centralized places to hold, organize and share data. They keep data save and usable over time, allow sharing of data and enable proper tracking and citing of datasets by assigning unique persistent identifiers (usually DOIs - digital object identifiers - or accession numbers).
 We distinguish three types of research data repositories:
@@ -107,7 +116,8 @@ We distinguish three types of research data repositories:
 
 Usually, discipline-specific repositories require the data to be curated and follow certain formatting and metadata standards. Generalist repositories tend to have no specific requirements due to their broad nature.
 
-**Where can I find data?**
+Where can I find data?
+------------
 
 There are a couple of ways to look for published research data:
 
@@ -122,7 +132,8 @@ There are a couple of ways to look for published research data:
 
 Imagine you’ve now found an interesting dataset you might want to reuse. Before integrating it into your workflow, you must evaluate some aspects, such as its suitability, quality, and legal status.
 
-**How to evaluate reusability?**
+How to evaluate reusability?
+------------
 
 When assessing a dataset, ask yourself the following questions:
 
@@ -156,7 +167,8 @@ A common misconception is that hosting platform approval equals scientific valid
 
 Just like traditional literature, research data is a first-class scholarly output and must be cited formally. Proper citation ensures academic integrity, enables reproducibility, and gives credit to the original creators.
 
-**Guidelines for Citing Datasets**
+Guidelines for Citing Datasets
+-----------
 
 * **Give Credit:** Always include the core citation elements: Author(s), Publication Year, Dataset Title, Publisher/Repository, and Version (if applicable).
 * **Indicate the License:** Mention the license of the original dataset to show you have the legal right to use and distribute your findings.
