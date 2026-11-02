@@ -558,19 +558,19 @@ You learned how to preserve, publish and share your data and all you get is anot
     [[ ]] You avoid repositories that use metadata standards.
     [[X]] You look for a repository that provides PIDs.
 
-**4. Does the fact that a dataset is published in a reputable repository guarantee its scientific quality?**
+**3. Does the fact that a dataset is published in a reputable repository guarantee its scientific quality?**
 
 [( )] Yes, repositories conduct rigorous scientific peer-reviews of all deposited data.
 [(X)] No, repositories mostly perform technical checks; the scientific evaluation is the user's responsibility.
 [( )] Yes, but only if the repository is discipline-specific.
 
-**5. Which of the following correctly matches one of the four primary groups with a benefit of data reuse?**
+**4. Which of the following correctly matches one of the four primary groups with a benefit of data reuse?**
 
 [( )] Data producers benefit because they save time and money by not having to produce the data themselves.
 [(X)] Research disciplines benefit because everyone gains access to expensive or difficult-to-generate data.
 [( )] Society benefits primarily because individual researchers receive more academic citations.
 
-**6. Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?**
+**5. Which of the following is considered best practice when citing a reused dataset that has a corresponding journal paper?**
 
 [( )] Cite only the journal paper, as datasets are not formal publications.
 [( )] Cite only the dataset, as the paper is redundant.
