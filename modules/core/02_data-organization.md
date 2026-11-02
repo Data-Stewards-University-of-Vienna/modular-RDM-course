@@ -30,7 +30,7 @@ Introduction
 
 Good data organization is an essential foundation for preserving, sharing, and reusing research data. A clear and consistent structure makes it easier for you and others to locate files, understand their contents, distinguish between different data versions, and reproduce your work. Organizing data early in a project also reduces the risk of errors, data loss, and confusion when preparing outputs for long-term preservation.
 
-## Basics of Data Orgnaization
+## Basics of Data Organization
 
 The Challenge
 ---------
@@ -48,14 +48,14 @@ To solve this challenge, you'll need to develop an organizational structure for 
 
 There are two perspectives to keep in mind when to judging the quality of file and folder names: 1) Can you decide whether you want to open a folder or file, i.e., whether is it what you are looking for? And 2) Can you sort a file into a folder so you will able to find it again, i.e., do the folders match the natural categories of your work?
 
-Organizing files well and sticking to naming conventions makes them more findable and accessible (feeding into the FAIR principles) and enable 'someone' to understand what you did -- that 'someone' is usually you in 6 months' time.
+Organizing files well and sticking to naming conventions makes them more findable and accessible (feeding into the FAIR principles) and enable 'someone' to understand what you did—that 'someone' is usually you in 6 months' time.
 
 The Imperative
 ---------
 
 So in order to get to the solution, you need a plan and establish naming and structuring systems, document them, and make sure to use them consistently.
 
-Any system is better than none!
+Any system is better than no system!
 
 ## How to Name and Organize Files and Folders
 
@@ -72,7 +72,7 @@ Here are some guidelines for creating effective file names:
 * **Use underscores and camelCase to structure names:** Instead of using spaces in file names, use underscores ("_") for separation or write in camelCase.
 * **Do not alter or remove the extension of a file:** File extensions indicate the format and type of the file. Do not alter or remove the extension of a file, as this can cause errors or prevent the file from being recognized by certain programs or systems.
 * **Be consistent and reach consensus:** Be consistent in how you build up names and ensure that there is consensus among all team/project members to avoid confusion.
-* **Document your naming scheme:** To ensure long-term accessibility and facilitate understanding you'll need to document your naming convention, for example in a README file (more on README files in the next module)
+* **Document your naming scheme:** To ensure long-term accessibility and facilitate understanding you'll need to document your naming convention, for example in a README file (more on README files in the next module).
 
 ![XKCD Old Files](https://imgs.xkcd.com/comics/old_files.png " [Backups by XKCD](https://xkcd.com/1360/), [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/legalcode0)")
 
@@ -138,11 +138,11 @@ For small datasets you may still be able to check these things manually, but if 
 
 ## Research Group Norms, Rules, and Procedures for Data Organization
 
-While this module up to now has mostly focused on data organization for an individual, ideally there are also guidelines and practices in place within a research group. On the group level, further organizational structures might be necessary to ensure easy and effective collaboration with other members. Ask in your group about agreed upon practices and documentation of these practices. If there are none in place, you can also be the one to start this conversation. Clear structures and rules in a research group make it both easier for new members to find their way and can help prevent data and knowledge loss when people leave the group.
+While this module up to now has mostly focused on data organization for an individual, ideally there are also guidelines and practices in place within a research group. On the group level, further organizational structures might be necessary to ensure easy and effective collaboration with other members. Ask your research group about agreed upon practices and documentation of these practices. If there are none in place, you can also be the one to start this conversation. Clear structures and rules in a research group make it both easier for new members to find their way and can help prevent data and knowledge loss when people leave the group.
 
 **README files**
 
-The easiest aspect to introduce and maintain in a research group, is the use of README files. As will be discussed in more detail in the next module, a README file is an administrative metadata document detailing the specifics about a project or a dataset: Who created the data, what does the data entail, what file formats are there, how is data organized within folders, etc. A well written README file is a great starting point for someone accessing a new dataset or joining a project, as it will provide a brief overview of what is there. README files can be particularly helpful for research groups, as the specific composition of the project members might change over time and information might otherwise get lost.
+The easiest aspect to introduce and maintain in a research group is the use of README files. As will be discussed in more detail in the next module, a README file is an administrative metadata document detailing the specifics about a project or a dataset: Who created the data, what does the data entail, what file formats are there, how is data organized within folders, etc. A well written README file is a great starting point for someone accessing a new dataset or joining a project, as it will provide a brief overview of what is there. README files can be particularly helpful for research groups, as the specific composition of the project members might change over time and information might otherwise get lost.
 
 **Templates**
 
@@ -150,7 +150,7 @@ A second great tool for a research group are data organization templates. While 
 
 **Naming conventions**
 
-Just as we discussed above, naming conventions can also be agreed upon within a whole research group. If files are stored in common spaces and need to be accessed by various group members, a common naming scheme will make the collaboration much easier.It can be very useful to sit down together and work through the needs of the research group overall and develop and document a file naming and organization system that works for everyone.
+Just as we discussed above, naming conventions can also be agreed upon within a whole research group. If files are stored in common spaces and need to be accessed by various group members, a common naming scheme will make the collaboration much easier. It can be very useful to sit down together and work through the needs of the research group overall and develop and document a file naming and organization system that works for everyone.
 
 **Data clean up days**
 
@@ -160,7 +160,7 @@ An efficient way of ensuring all of the group members are able to keep up with t
 
 A file format is a way of encoding information within a computer file. A program or application must be able to recognize the file format in order to access data within the file. Understanding file formats is not just a technical consideration; it is a critical aspect of ensuring the reproducibility and transparency of your research.
 
-In general, we can distinguish between proprietary and open formats. Files in proprietary formats usually must be opened by the software in which they were created. Someone without a license to the software may not be able to open the file at all. Open formats, in which the software company or collective publishes the format rather than keeps it proprietary, are more likely to be readable by more than one application. Adobe PDF is an example of an open format that may be viewed in a number of applications, not just Adobe products. File formats that are non-proprietary (e.g. open source), or in widespread use, will tend to retain the best chance of being readable in the future. Proprietary formats, especially non-standard formats, used only by a specific software program or specific software version, are likely to present problems for future use. As you may have already surmised, archiving and publishing your data in the correct file format not only enhances their value but also promotes their FAIRness.^2^
+In general, we can distinguish between proprietary and open formats. Files in proprietary formats usually must be opened by the software in which they were created. Someone without a license to the software may not be able to open the file at all. Open formats, in which the software company or collective publishes the format rather than keeps it proprietary, are more likely to be readable by more than one application. Adobe PDF is an example of an open format that may be viewed in a number of applications, not just Adobe products. File formats that are non-proprietary (e.g., open source), or in widespread use, will tend to retain the best chance of being readable in the future. Proprietary formats, especially non-standard formats, used only by a specific software program or specific software version, are likely to present problems for future use. As you may have already surmised, archiving and publishing your data in the correct file format not only enhances their value but also promotes their FAIRness.^2^
 
 A particular file format is often indicated as part of a file's name by a file name extension, or suffix. Conventionally, the extension follows a dot in the filename and contains three or four letters that identify the format (.jpg or .jpeg). In the Windows operating systems you can choose whether to display file suffixes or not. Mac files often do not have a suffix, which can be problematic when copying files to a different system to use.
 
@@ -192,11 +192,11 @@ As a general rule, it is important not to become overwhelmed by the task of sele
 
 ## Conclusion
 
-This module has taught you the importance of data organization through the use of naming conventions for your files and folders, the structure of your folders, and the implementation of organizational structures and guidelines for both individuals and research groups. This means that you will have the perfect organizational structure in place to actually document your research, i.e. the content of your files and folders. We have also discussed the importance of assessing file formats, and why it is important to choose these wisely to ensure longevity of your data. In the next module, you will learn what exactly should be included in your metadata for effective research documentation.
+This module has taught you the importance of data organization through the use of naming conventions for your files and folders, the structure of your folders, and the implementation of organizational structures and guidelines for both individuals and research groups. This means that you will have the perfect organizational structure in place to actually document your research, i.e., the content of your files and folders. We have also discussed the importance of assessing file formats, and why it is important to choose these wisely to ensure longevity of your data. In the next module, you will learn what exactly should be included in your metadata for effective research documentation.
 
 ## Knowledge Check
 
-Now that we discussed the importance of data organization with folder structures and file naming conventions, you can test your knowledge:
+Now that we discussed the importance of data organization with folder structures, file naming conventions, and file formats, you can test your knowledge:
 
 **Which of the following tips are good practice for file naming?**
 
