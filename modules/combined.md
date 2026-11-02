@@ -819,30 +819,23 @@ When documenting your data you should keep the following things in mind:
 Documentation Tools
 -------------------- 
 
---- TODO ---
-!make more generic => talk to you supervisor ! at some faculties
-!more on the computational side use markdown (jupyter, Rmarkdown) executbale code
-!remove CeMESS make more general
---- ---
-
 - It is best practice to use one appropriate tool or an integration of multiple tools for data documentation during a project. 
 
-- Suitable tools for data documentation are Electronic Lab Notebooks (ELNs) and/or Laboratory Information Management Systems (LIMS). 
-
-- At CeMESS there is currently the implementation of the ELN [RSpace](https://www.researchspace.com/) going on. 
-
-- A university-wide solution does not exist so far, but if you are part of the Faculty of Life Sciences and your research group is interested to use RSpace, reach out to Emily Kate (emily.jean.kate@univie.ac.at).
+- Suitable tools for data documentation are Electronic Lab Notebooks (ELNs) and/or Laboratory Information Management Systems (LIMS) like [RSpace](https://www.researchspace.com/).
 
 - Futhermore, you could use online platforms for collaborative research and file sharing services (such as [OSF](https://osf.io/)) as ELN or data management systems. 
 
 - Also standard tools like OneNote from Office 365 or simple spreadsheets like Excel, LibreOffice Calc or Google Sheets can be used in combination with file sharing. The university provides such share options with [ucloud](https://zid.univie.ac.at/ucloud) or the [Share](https://zid.univie.ac.at/share), but also selfhost alternatives are a possibility such as [Nextcloud](https://nextcloud.com) and  [ONLYOFFICE](https://www.onlyoffice.com/).
+
+- In the field of data processing, using variants of Markdown files such as [Jupyter Notebooks](https://jupyter.org/) or [Rmarkdown](https://rmarkdown.rstudio.com/), which allow code to be executed, has proven to be effective.
 
 - More tools:
    * Wikis like the [University of Vienna's Wiki](https://zid.univie.ac.at/en/uwiki/), [Confluence](https://www.atlassian.com/software/confluence) or [Outline](https://www.getoutline.com)
    * Markdown notebooks such as [Notion](https://www.notion.com) or [Obsidian](https://obsidian.md)
    * Project tracking with docs like [Jira](https://www.atlassian.com/software/jira) or [OpenProject](https://www.openproject.org)
 
-- For help making this decision, contact your data steward.
+- For help making this decision, contact your data steward or ask your supervisor.
+   * They can also provide information of tools that are already provided by the university.
 
 Documentation File Format
 -------------------- 
@@ -1092,8 +1085,6 @@ Which statements on version control are correct:
 
 
 ## References
-
-**To make this course, we used resurces and text from a diversity of sources. If we quoted text directly from a source or we only lightly edited the text, that quotation is indicated by a superscript number. A list of those sources can be found here.**
 
 ^1^ ELIXIR. Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). 2021. URL: https://rdmkit.elixir-europe.org/.
 
