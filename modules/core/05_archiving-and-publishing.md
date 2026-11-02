@@ -39,7 +39,7 @@ Data preservation is more than simply storing files or creating backups. While s
 
 Many funders, journals, and research institutions now require research data to remain available for several years after project completion. Preserving data also supports the principles of **FAIR data** and **Open Science**, helping to make research outputs findable, accessible, interoperable and reusable.
 
-Long-term preservation benefits both individual researchers and the wider scientific community by:
+Long-term preservation benefits both you, the individual researchers, and the wider scientific community by:
 
 * enabling verification and reproducibility of published results;
 * facilitating future reuse, including meta-analyses and teaching;
@@ -108,15 +108,15 @@ Article appendix or supplement
 An article appendix or supplement (these terms are used interchangeably) is a separate, optional section of a research article that contains additional information.
 Information you frequently find in an appendix are more detailed methods, additional figures or, of course, data.
 Publishing the data corresponding to an article in its appendix is very common and you can usually download the supplementary material directly with the article on the publisher's website.
-Take a look at this Nature article about the CRISPR-Cas system: https://doi.org/10.1038/s41586-026-10833-9. 
+Take a look at this Nature article about the CRISPR-Cas system: [https://www.nature.com/articles/s41586-026-10833-9](https://www.nature.com/articles/s41586-026-10833-9). 
 If you scroll all the way to the bottom of the article, you can see that the supplementary information contains additional figures and tables, as well as the exact source data that was used to create all figures.
 
-> Our advice: avoid publishing datasets solely as supplementary material. Supplementary files often have limited metadata, file-size restrictions, and may be difficult to find, cite, preserve, or reuse in the long term. Instead, deposit your data in a trusted repository and link to it from the publication using the dataset’s DOI.
+> [!IMPORTANT] Advice: avoid publishing datasets as supplementary material. These often have limited metadata, file-size restrictions, and may be difficult to find, cite, preserve, or reuse in the long term. Instead, deposit your data in a trusted repository and link to it from the publication using the dataset’s DOI.
 Data journals
 ------------
 
 A data journal is a peer-reviewed academic publication that focuses on sharing and describing research datasets. 
-The articles of such a journal describe how data was collected, processed, formatted, etc. The data itself is not stored with the data journal but in a research data repository and the article simply links to the repository entry. Let's look at this article published in Scientific Data: https://doi.org/10.1038/s41597-025-05635-z. The article includes a detailed description of the methodology and in the references you find the link to the published dataset which is located on an institute repository:
+The articles of such a journal describe how data was collected, processed, formatted, etc. The data itself is not stored with the data journal but in a research data repository and the article simply links to the repository entry. Let's look at this article published in Scientific Data: [https://doi.org/10.1038/s41597-025-05635-z](https://doi.org/10.1038/s41597-025-05635-z). The article includes a detailed description of the methodology and in the references you find the link to the published dataset which is located on an institute repository:
 
 > White, E. C., Seymour, A., Dale, J., Newton, E. & Johnston, D. W. Mapping the Ghost Fleet: Orthomosaics and ship locations from drone-based imagery of Mallows Bay, Maryland. Duke Research Data Repository.  https://doi.org/10.7924/r4v12927x (2024)
 
@@ -297,6 +297,8 @@ Popular examples include:
 
 ---
 
+## Persistent identifiers (PIDs)
+
 Publishing data in a trusted repository is only part of making it FAIR. To make research outputs easier to find, cite, connect, and reuse, they should also receive appropriate **persistent identifiers (PIDs)**.
 
 A PID is a permanent, globally unique identifier that points to a digital resource or entity. Unlike a normal web address, a PID is designed to keep resolving even if the location of the resource changes.
@@ -308,9 +310,6 @@ Persistent identifiers improve:
 * interoperability between research systems;
 * linking between people, organisations, outputs, funders, and instruments;
 * long-term access to research outputs.
-
-## Persistent identifiers (PIDs)
-
 The most common PID for datasets is a **Digital Object Identifier (DOI)**. DOIs can be assigned to datasets, software, publications, preprints, protocols, reports, and other research outputs. A DOI allows others to cite a specific output reliably and helps link it to related publications, authors, and funders.
 
 Repositories may also use other PID systems, such as:
@@ -462,6 +461,25 @@ A common misconception is that hosting platform approval equals scientific valid
 * **The Role of Repositories:** Most data repositories (such as Zenodo, Figshare, or Dryad) perform basic technical checks (e.g., checking if files open or if metadata fields are filled). They generally do **not** peer-review the scientific accuracy, integrity, or quality of the dataset. 
 * **Your Responsibility:** As the reusing researcher, the responsibility of quality assurance lies entirely with you.
 
+---
+
+## Citing Data you Reuse
+
+Just like traditional literature, research data is a first-class scholarly output and must be cited formally. Proper citation ensures academic integrity, enables reproducibility, and gives credit to the original creators.
+
+Guidelines for Citing Datasets
+-----------
+
+* **Give Credit:** Always include the core citation elements: Author(s), Publication Year, Dataset Title, Publisher/Repository, and Version (if applicable).
+* **Indicate the License:** Mention the license of the original dataset to show you have the legal right to use and distribute your findings.
+* **Use Persistent Identifiers (PIDs):** Always include a resolving link such as a DOI (Digital Object Identifier), accession number, or handle. Do not rely on temporary URLs.
+* **Follow Citation Styles:** Most major citation styles (APA, Chicago, MLA, Harvard) now have official guidelines for datasets.
+* **Double Cite:** If a dataset is associated with a peer-reviewed paper, it is best practice to cite **both** the dataset itself and the article describing it.
+
+Example (APA 7th Style):
+> Creator, A. A., & Creator, B. B. (Year). *Title of the dataset* (Version V) [Data set]. Repository Name. https://doi.org/10.xxxx/xxxxx
+
+---
 
 ## Archiving Research Software and Code
 
@@ -503,24 +521,6 @@ Zenodo creates:
 
 The version-specific DOI should be cited in publications to ensure reproducibility.
 
-
----
-
-## Citing Data you Reuse
-
-Just like traditional literature, research data is a first-class scholarly output and must be cited formally. Proper citation ensures academic integrity, enables reproducibility, and gives credit to the original creators.
-
-Guidelines for Citing Datasets
------------
-
-* **Give Credit:** Always include the core citation elements: Author(s), Publication Year, Dataset Title, Publisher/Repository, and Version (if applicable).
-* **Indicate the License:** Mention the license of the original dataset to show you have the legal right to use and distribute your findings.
-* **Use Persistent Identifiers (PIDs):** Always include a resolving link such as a DOI (Digital Object Identifier), accession number, or handle. Do not rely on temporary URLs.
-* **Follow Citation Styles:** Most major citation styles (APA, Chicago, MLA, Harvard) now have official guidelines for datasets.
-* **Double Cite:** If a dataset is associated with a peer-reviewed paper, it is best practice to cite **both** the dataset itself and the article describing it.
-
-Example (APA 7th Style):
-> Creator, A. A., & Creator, B. B. (Year). *Title of the dataset* (Version V) [Data set]. Repository Name. https://doi.org/10.xxxx/xxxxx
 
 ---
 
