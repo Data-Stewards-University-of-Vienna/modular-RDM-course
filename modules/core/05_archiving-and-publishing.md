@@ -575,5 +575,3 @@ You learned how to preserve, publish and share your data and all you get is anot
 [( )] Cite only the journal paper, as datasets are not formal publications.
 [( )] Cite only the dataset, as the paper is redundant.
 [(X)] Cite both the dataset (using its DOI) and the corresponding journal paper.
-
-## References
