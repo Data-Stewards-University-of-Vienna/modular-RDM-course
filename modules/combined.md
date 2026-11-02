@@ -1402,7 +1402,7 @@ The **[University of Vienna Research Data Management Policy](https://rdm.univie.
 
 ---
 
-## What are the benefits of reusing data (and making data available for reuse)?
+## What are the Benefits of Reusing Data (and Making Data Available for Reuse)?
 
 On the other side, reusing existing data that was published has a lot advantages - not only for you, but also for communities and the public around you. 
 
@@ -1411,7 +1411,7 @@ data reusers themselves, data producers and publishers,
 research disciplines and communities, and society or the public. 
 Let's have a closer look at the benefits for each group.
 
-Data reusers
+Data Reusers
 ---------
 
 If you reuse already existing data 
@@ -1420,7 +1420,7 @@ If you reuse already existing data
 * you can test for change over time by comparing to older data
 * you can find new collaborators through the data they published
 
-Data producers and publishers
+Data Producers and Publishers
 -----------
 
 If data you published is reused by others
@@ -1429,7 +1429,7 @@ If data you published is reused by others
 * your professional reputation can increase
 * you can find new collaborators
 
-Research disciplines and communities
+Research Disciplines and Communities
 ----------
 
 If more data from a research discipline or community is available for reuse
@@ -1438,7 +1438,7 @@ If more data from a research discipline or community is available for reuse
 * everyone gains access to expensive or difficult to generate data
 * they have access to varied data for teaching purposes
 
-Society or the public
+Society or the Public
 ------------
 
 If more research data is available for reuse
@@ -1453,7 +1453,7 @@ If more research data is available for reuse
 Let's first have a look at how research data is published: 
 Research data is generally published in an article appendix or supplement, a data journal, or a data repository.
 
-Article appendix or supplement
+Article Appendix or Supplement
 ------------
 
 An article appendix or supplement (these terms are used interchangeably) is a separate, optional section of a research article that contains additional information.
@@ -1463,7 +1463,7 @@ Take a look at this Nature article about the CRISPR-Cas system: [https://www.nat
 If you scroll all the way to the bottom of the article, you can see that the supplementary information contains additional figures and tables, as well as the exact source data that was used to create all figures.
 
 > [!IMPORTANT] Advice: avoid publishing datasets as supplementary material. These often have limited metadata, file-size restrictions, and may be difficult to find, cite, preserve, or reuse in the long term. Instead, deposit your data in a trusted repository and link to it from the publication using the dataset’s DOI.
-Data journals
+Data Journals
 ------------
 
 A data journal is a peer-reviewed academic publication that focuses on sharing and describing research datasets. 
@@ -1473,7 +1473,7 @@ The articles of such a journal describe how data was collected, processed, forma
 
 Data journals can be broad in scope (e.g. Scientific Data) or discipline-specific (e.g. Viticulture Data Journal). You can find a list of data journals on Zenodo (no guarentee for completeness): https://zenodo.org/records/7082126
 
-Data repositories
+Data Repositories
 ------------
 
 Data repositories are centralized places to hold, organize and share data. They keep data save and usable over time, allow sharing of data and enable proper tracking and citing of datasets by assigning unique persistent identifiers (usually DOIs - digital object identifiers - or accession numbers).
@@ -1514,7 +1514,7 @@ Preserving data successfully requires more than uploading files to a repository.
 
 Before archiving your research outputs, ensure that they are complete, well organised, and sufficiently documented.
 
-Organise the data
+Organise the Data
 ----------------
 
 Prepare a well-structured dataset by:
@@ -1524,7 +1524,7 @@ Prepare a well-structured dataset by:
 * separating raw data from processed data and analysis outputs;
 * including only stable versions intended for preservation.
 
-Provide documentation
+Provide Documentation
 ----------------
 
 Every preserved dataset should include enough information to understand how the data were created and processed.
@@ -1538,17 +1538,17 @@ Useful documentation includes:
 * descriptions of data processing workflows;
 * provenance information documenting how the data evolved throughout the project.
 
-Use sustainable file formats
+Use Sustainable File Formats
 ----------------
 
 Whenever possible, preserve data using open, well-documented file formats rather than proprietary formats. Open formats are more likely to remain readable over long periods and across different software platforms.
 
-Include licensing information
+Include Licensing Information
 ----------------
 
 Clearly specify how others may reuse your data by including appropriate licensing information in both the repository metadata and accompanying documentation. This will be further discussed in the "Ethics and Legal" section.
 
-Special cases
+Special Cases
 ----------------
 
 Some research outputs require specialised preservation strategies.
@@ -1564,7 +1564,7 @@ Once your data have been prepared, the next step might be to deposit them in a *
 
 Unlike ordinary storage services, repositories are designed for the long-term preservation, discovery, and citation of research outputs. Trusted repositories provide stable access, curated metadata, persistent identifiers, and long-term preservation policies.
 
-Repositories versus storage
+Repositories Versus Storage
 ----------------
 
 It is important to distinguish between storage services and repositories.
@@ -1579,7 +1579,7 @@ Storage services (such as institutional network drives or cloud synchronisation 
 
 Repositories, by contrast, focus on preserving, disseminating, and making research outputs discoverable.
 
-What makes a repository trustworthy?
+What Makes a Repository Trustworthy?
 ----------------
 
 A trusted repository typically provides:
@@ -1594,7 +1594,7 @@ A trusted repository typically provides:
 
 Repositories may also hold recognised certifications such as CoreTrustSeal.
 
-How to choose a repository
+How to Choose a Repository
 ----------------
 
 When selecting a repository, consider:
@@ -1611,7 +1611,7 @@ When selecting a repository, consider:
 * deposit costs, storage limits, and curation fees;
 * discoverability through services such as DataCite, OpenAIRE, or Google Scholar.
 
-Repository hierarchy
+Repository Hierarchy
 ----------------
 
 When choosing where to deposit your data, the following order is generally recommended.
@@ -1671,14 +1671,14 @@ Repositories may also use other PID systems, such as:
 
 When choosing a repository, check whether it assigns a DOI or another widely recognised, persistent identifier. Specialist repositories are often preferable where they exist, as they use domain-specific metadata standards and identifiers that are familiar to researchers in the field.
 
-Persistent identifiers for people: ORCID
+Persistent Identifiers for People: ORCID
 --------
 
 Researchers are strongly encouraged to obtain an **[ORCID](https://orcid.org/) iD**. ORCID provides a persistent identifier for individual researchers, making it easier to distinguish you from others with a similar name and to connect your publications, datasets, software, grants, peer-review activities, and other scholarly contributions across different systems.
 
 Include your ORCID iD when depositing datasets, submitting manuscripts, applying for funding, or registering software. This improves attribution, discoverability, and recognition of your contributions.
 
-Persistent identifiers for organisations: ROR
+Persistent Identifiers for Organisations: ROR
 --------
 
 A **[Research Organization Registry (ROR)](https://ror.org/) ID** is a persistent identifier for research organisations, such as universities, research institutes, hospitals, funders, and government organisations.
@@ -1687,7 +1687,7 @@ Including a ROR ID where possible helps make institutional affiliations more con
 
 Many repositories and publishing systems allow you to select an organisation from a standardised list; these entries may be connected to ROR IDs in the background.
 
-Other useful PIDs
+Other Useful PIDs
 ---------
 
 Other PID types may be relevant depending on your discipline and the type of research:
@@ -1698,7 +1698,7 @@ Other PID types may be relevant depending on your discipline and the type of res
 * **IGSNs (International Generic Sample Numbers):** identify physical samples, such as geological, environmental, or archaeological samples.
 * **PIDs for instruments and facilities:** in some fields, identifiers can be assigned to instruments, laboratory equipment, or research infrastructures to support provenance and reproducibility.
 
-How to obtain a PID
+How to Obtain a PID
 --------
 
 For most researchers, the simplest approach is to deposit research outputs in a trusted repository that automatically assigns a DOI or another suitable PID. When depositing your data, provide as much metadata as possible, including author ORCID iDs, institutional affiliations, funder information, grant numbers, and links to related publications or software.
@@ -1780,10 +1780,10 @@ Where data cannot be shared openly, researchers should still aim to publish:
 Any access restrictions should be clearly documented in the repository metadata and accompanying README files.
 
 ---
-## Can I even reuse that data?
+## Can I Reuse Data?
 Imagine you’ve now found an interesting dataset you might want to reuse. Before integrating it into your workflow, you must evaluate some aspects, such as its suitability, quality, and legal status.
 
-How to evaluate reusability?
+How to Evaluate Reusability
 ------------
 
 When assessing a dataset, ask yourself the following questions:
