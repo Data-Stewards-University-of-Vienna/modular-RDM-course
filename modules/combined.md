@@ -541,7 +541,12 @@ Learners will be able to:
 Introduction
 --------------------
 
-**The Challenge**
+Good data organization is an essential foundation for preserving, sharing, and reusing research data. A clear and consistent structure makes it easier for you and others to locate files, understand their contents, distinguish between different data versions, and reproduce your work. Organizing data early in a project also reduces the risk of errors, data loss, and confusion when preparing outputs for long-term preservation.
+
+## Basics of Data Orgnaization
+
+The Challenge
+---------
 
 In research, data flows from raw data to results, via tables and figures to communication outlets. We know there will be LOTS of files, that they can change over time (versions), have relationships to each other, and will be required to be understandable as the basis of our findings and publications. How can we keep track of all this?
 
@@ -549,7 +554,8 @@ In research, data flows from raw data to results, via tables and figures to comm
 
 ^1^
 
-**The Solution**
+The Solution
+--------
 
 To solve this challenge, you'll need to develop an organizational structure for all these files and come up with a system on how to name them. Just like in a well-sorted kitchen, it will make your work and collaboration a lot faster if you can find things easily. This means that file names and location need to be informative even before you open it. The more self-explanatory they are, the better.
 
@@ -557,14 +563,14 @@ There are two perspectives to keep in mind when to judging the quality of file a
 
 Organizing files well and sticking to naming conventions makes them more findable and accessible (feeding into the FAIR principles) and enable 'someone' to understand what you did -- that 'someone' is usually you in 6 months' time.
 
-**The Imperative**
+The Imperative
+---------
 
 So in order to get to the solution, you need a plan and establish naming and structuring systems, document them, and make sure to use them consistently.
 
 Any system is better than none!
 
-How to Name and Organize Files and Folders
---------------------
+## How to Name and Organize Files and Folders
 
 Naming and organizing files and folders consistently ensures that there is a system in place when new files need to be added to ongoing projects. It will also enable you or others to find things again when returning to (potentially long finished) projects and files within those projects. Well thought-out naming conventions and folder organization allow for easier and more efficient retrieval, tracking, and sharing of data.
 
@@ -597,8 +603,7 @@ To help make this more understandable, here is an example of such a folder struc
 
 To help you further develop your own naming conventions and folder structures, you will find a Folder Structure Worksheet in the Moodle course accompanying this workshop. This worksheet will guide you through the steps of creating categories for your files, which will then be organized into a folder structure. It also has a guide for developing your own naming conventions based on the important pieces of information for each file type.
 
-Types of Data to Organize
---------------------
+## Types of Data to Organize
 
 Data can exist in different forms, and it is important to keep them separated. Generally speaking, data can be divided into three different types:
 * **Raw data:** The original data that has not yet been processed, cleaned, or analyzed. It is unique and lossless, meaning it contains all the information collected by the instrument used to capture it. Raw data is typically in its original form, without any modifications, and may be in various formats, such as text, numerical, audio, or visual.
@@ -609,8 +614,7 @@ When preserving data, raw data is particularly valuable as it often cannot be re
 
 Processed data can take several forms, but one of the more common ways to represent such data is through the use of 'tidy data'. Tidy data refers to a structured and standardized format that follows a set of principles, allowing for ease of data manipulation and interpretation. Tidy datasets are organized in a tabular manner in which each variable has its column, each observation has its row, and each value corresponds to a unique combination of variables and observations. Tidy data is the opposite of 'messy data', which is, as the name suggests, data that is mostly only readable by humans, and does not adhere to the clean organizational structure of tidy data.
 
-Processing Data into Tidy Data
---------------------
+## Processing Data into Tidy Data
 
 Tidy data is structured into a data table, which is usually a structured format for organizing and presenting data. But to make your data understandable for your future self, colleagues and possible re-users of your data, you should learn how to create tidy data and how to recognize and fix common problems of spreadsheets and data tables.
 
@@ -645,8 +649,7 @@ For small datasets you may still be able to check these things manually, but if 
 
 [OpenRefine](https://openrefine.org/)
 
-Research Group Norms, Rules, and Procedures for Data Organization
---------------------
+## Research Group Norms, Rules, and Procedures for Data Organization
 
 While this module up to now has mostly focused on data organization for an individual, ideally there are also guidelines and practices in place within a research group. On the group level, further organizational structures might be necessary to ensure easy and effective collaboration with other members. Ask in your group about agreed upon practices and documentation of these practices. If there are none in place, you can also be the one to start this conversation. Clear structures and rules in a research group make it both easier for new members to find their way and can help prevent data and knowledge loss when people leave the group.
 
@@ -666,8 +669,7 @@ Just as we discussed above, naming conventions can also be agreed upon within a 
 
 An efficient way of ensuring all of the group members are able to keep up with the norms and procedures as planned out is the introduction of data clean up days. This might be especially helpful at the beginning phases of a new project or research group, or the introduction of a new person into the research group. On such days, the group members can sit together and work on implementing all the agreed-upon organizational structures according to the group's guidelines. 
 
-File formats
---------------------
+## File formats
 
 A file format is a way of encoding information within a computer file. A program or application must be able to recognize the file format in order to access data within the file. Understanding file formats is not just a technical consideration; it is a critical aspect of ensuring the reproducibility and transparency of your research.
 
@@ -701,13 +703,11 @@ To help you determine whether to use a certain file format over another, this ta
 
 As a general rule, it is important not to become overwhelmed by the task of selecting a proper file format. It's essential to remember that there may not always be a perfect solution for every type of data. Consider the formats and software you are currently using, evaluate whether it makes sense to save your work in an additional format, and determine if you can easily convert between working/sharing formats and archiving formats. By considering these factors, you can make an informed decision that balances practicality and the long-term preservation of your research data.
 
-Conclusion
---------------------
+## Conclusion
 
 This module has taught you the importance of data organization through the use of naming conventions for your files and folders, the structure of your folders, and the implementation of organizational structures and guidelines for both individuals and research groups. This means that you will have the perfect organizational structure in place to actually document your research, i.e. the content of your files and folders. We have also discussed the importance of assessing file formats, and why it is important to choose these wisely to ensure longevity of your data. In the next module, you will learn what exactly should be included in your metadata for effective research documentation.
 
-Knowledge Check
---------------------
+## Knowledge Check
 
 Now that we discussed the importance of data organization with folder structures and file naming conventions, you can test your knowledge:
 
@@ -745,13 +745,11 @@ Now that we discussed the importance of data organization with folder structures
 [[ ]] University software availability
 [[X]] Metadata inclusion   
 
-References
---------------------
+## References
 
 ^1^ Wilbrandt, Jeanne. RDM CoBeNe Presentation. (2026). 2026-06-17_RDM_CoBeNe_Presentation_in-person_v02.key
 
 ^2^ EDINA and Data Library, University of Edinburgh: Research Data MANTRA (online training units & data handling tutorials). (2017) DOI: https://doi.org/10.5281/zenodo.1035218
-
 
 <!---
 authors: Mathias Mayrgündter, Simone Spedicato 
