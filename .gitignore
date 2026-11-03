@@ -1,1 +1,2 @@
-# in case of files that need to be ignored
+# macOS Finder metadata
+.DS_Store
