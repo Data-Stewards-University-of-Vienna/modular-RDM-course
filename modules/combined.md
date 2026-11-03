@@ -1309,7 +1309,27 @@ Planning ahead helps avoid interrupted access to important research data and ens
 
 If data or research materials need to move to another institution, additional agreements—such as a Data Transfer Agreement (DTA) or Material Transfer Agreement (MTA)—may be required.
 
-Discuss these questions with your supervisor/RDM Team/Legal Help Desk and complete any required offboarding procedures before your university account is closed. Normally you have quite some time but we all know what happens when life happens. In general you have 4 years to still access your data but after that all of your personal storage like your ucloud will be deleted and supervisors and collaborators are left with nothing. So it is advisable to safe your data somewhere central where they still have access. [More information](https://zid.univie.ac.at/uaccount-ablauf#c6401)
+Discuss these questions with your supervisor/RDM Team/Legal Help Desk and complete any required offboarding procedures before your university account is closed.
+
+How long you keep access to storage depends on your u:account type. After your last employment ends, you are notified by e-mail on day 29 that your account is being restricted; the periods below apply to the end of employment for all reasons.
+
+| Service | Scientific staff (e.g. pre-docs, post-docs) | General staff (administrative/technical) | Students |
+|---|---|---|---|
+| u:cloud and personal storage | 3 years | 1 month | No access after enrolment ends |
+| E-mail (full use) | 3 years, then 1 year forwarding only | 1 month, then 1 year forwarding only | Forwarding only |
+| Moodle | 4 years | 1 year | Restricted |
+| u:space | At least 4 years (depends on assigned courses/exams) | At least 1 year | Restricted |
+| Zoom, Overleaf, licensed software | No | No | No |
+
+Notes:
+
+- Retired scientific staff (emeriti) are not subject to the expiry process; for general staff, retirement counts like any other end of employment.
+- External lecturers (e.g. employed per semester or for block courses) have their own category with the same periods as scientific staff for e-mail and Moodle.
+- Students keep their account only while enrolled. Log in to "Mein u:account" once per semester to extend services.
+- Guest accounts are valid for at most 1 year, as set by the responsible organisational unit, and can be extended by that unit.
+- Data in cloud storage tied to licensed software (e.g. Microsoft OneDrive) is deleted when the licence entitlement ends.
+
+Data that only exist in personal storage such as u:cloud can become inaccessible, leaving supervisors and collaborators without them. Move your research data to a central, shared location that others can still access, and agree on this with your supervisor or RDM Team. [More information](https://zid.univie.ac.at/uaccount-ablauf#c6401)
 
 ## Knowledge Check 
 
@@ -1979,8 +1999,8 @@ The **CARE Principles** for Indigenous Data Governance recognize that current mo
 
 While you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
 
-## Summarizing Thoughts on Research Ethics
-
+Summarizing Thoughts on Research Ethics
+-------------------- 
 Even if ethical and legal questions seem far removed from your everyday work, it is important to consider them—especially during the planning phase of a project. Ethical issues are not limited to research involving deception or obvious risks. They can also arise in seemingly harmless projects, for example through the way data are collected, stored, shared, or interpreted.
 
 Try to consider your project from the perspective of the people, communities, or animals affected by it. If you were a research participant, would you feel adequately informed, respected, and protected? If your research uses existing data, have the people represented in those data been treated fairly, and are their privacy and rights adequately protected?
