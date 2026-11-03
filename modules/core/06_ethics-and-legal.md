@@ -62,8 +62,8 @@ The **CARE Principles** for Indigenous Data Governance recognize that current mo
 
 While you might now work with Indigenous data, there could be other areas of your research where you touch upon complex power dynamics, problematic historic relationships, or unique vulnerabilities. When you encounter guidelines for these situations, listen first and then think critically about them. 
 
-## Summarizing Thoughts on Research Ethics
-
+Summarizing Thoughts on Research Ethics
+-------------------- 
 Even if ethical and legal questions seem far removed from your everyday work, it is important to consider them—especially during the planning phase of a project. Ethical issues are not limited to research involving deception or obvious risks. They can also arise in seemingly harmless projects, for example through the way data are collected, stored, shared, or interpreted.
 
 Try to consider your project from the perspective of the people, communities, or animals affected by it. If you were a research participant, would you feel adequately informed, respected, and protected? If your research uses existing data, have the people represented in those data been treated fairly, and are their privacy and rights adequately protected?
