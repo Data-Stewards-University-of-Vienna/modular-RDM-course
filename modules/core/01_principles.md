@@ -15,11 +15,11 @@ Objectives
 -------------------- 
 By the end of this module, you should be able to: 
 
-1. Define research data and metadata, identify different forms of research data, and explain the role of metadata in making research data understandable and reusable.  
+* Define research data and metadata, identify different forms of research data, and explain the role of metadata in making research data understandable and reusable.  
 
-2. Describe the research data life cycle and identify good RDM practices that support data organization, documentation, preservation, sharing, and reuse across its stages.
+* Describe the research data life cycle and identify good RDM practices that support data organization, documentation, preservation, sharing, and reuse across its stages.
 
-3. Explain how RDM, FAIR data, and Open Science are connected, and describe how Open Science principles are reflected in current institutional, national, European, and funder expectations.
+* Explain how RDM, FAIR data, and Open Science are connected, and describe how Open Science principles are reflected in current institutional, national, European, and funder expectations.
 
 Introduction
 --------------------
@@ -257,7 +257,7 @@ This does not mean that every project needs to produce a breakthrough cancer tre
 
 In the following sections, we'll introduce some of the key principles, organizations, and initiatives that have shaped the Open Science movement. If you'd like to explore any of these topics in greater depth, we've also included suggestions for further reading.
 
-The UNESCO Recommendations for Open Science^3^ 
+The UNESCO Recommendations for Open Science^2^ 
 --------------------
 
 UNESCO stands for the United National Educational, Scientific, and and Cultural Organization, which is a specialized agency of the United Nations (UN). It's core areas of work include education, culture and cultural heritage, science, and communication. In 2021, UNESCO published the UNESCO Recommendation on Open Science, which provides an internationally agreed upon definition of Open Science as well as shard values and guiding principles that nations and organizations can use to promote inclusive, equitable, and sustainable systems of knowledge creation and dissemination. 
@@ -340,6 +340,10 @@ The important distinction is that FWF does not require every piece of project da
 
 <u>Policies Supporting Open Science at the University</u>
 
+Alongside national and funder policies, research institutions can adopt their own policies to support open science. Some set out principles the institution aims to uphold, while others specify requirements or focus on a particular type of output. Institutional policies can also clarify what researchers have the right to share and what resources are available to help them do so.
+
+The University of Vienna supports open science through three policies covering publications, research data, and teaching materials. [The Open Access Policy](https://openaccess.univie.ac.at/en/oa-basics/university-of-vienna-oa-policy/) invites researchers make their publications freely available whenever possible. The Research Data Management (RDM) Policy guides researchers in managing and preserving their data according to the FAIR principles and encourages open sharing. The [Open Educational Resources (OER)](https://oer.univie.ac.at/en/university-of-viennas-oer-policy) Policy encourages university members to create, share, and reuse openly licensed teaching and learning materials.
+
 A Long Way to Go: The LERU Roadmap for Open Science 
 --------------------
 
@@ -375,67 +379,42 @@ Before moving on to Module 3, take a few minutes to check your understanding of 
 
 ## Knowledge Check
 
-**1. Which of the following best reflects the module’s definition of *research data*?**
+**Which of the following best reflects the module’s definition of *research data*?**
 
 [[ ]] Only the final dataset used to produce published figures and statistical results  
 [[ ]] Any digital file created during a research project  
 [[X]] Information created or used during research that supports or validates research activities, including data, documentation, software, code, and negative results  
 [[ ]] Only data that will eventually be deposited in a public repository  
 
-**********************************
-
-**Explanation:** Research data includes much more than the final dataset used in a publication. It can include raw and processed data, measurements, interviews, software, code, contextual information, and even negative or inconclusive results. Not all of these materials will ultimately be shared publicly, but they still need to be managed appropriately.
-
-**********************************
-
-**2. A researcher downloads a dataset from a repository, converts several variables to a common coding system, removes records that do not meet the study criteria, and records each transformation in a script. Which stage of the research data life cycle does this primarily represent?**
+**A researcher downloads a dataset from a repository, converts several variables to a common coding system, removes records that do not meet the study criteria, and records each transformation in a script. Which stage of the research data life cycle does this primarily represent?**
 
 [[ ]] Collecting  
 [[X]] Processing  
 [[ ]] Analysing  
 [[ ]] Preserving  
 
-**********************************
-
-**Explanation:** **Processing** involves preparing data for analysis, including changing formats, harmonizing coding systems, filtering data, and performing quality-control steps. Documenting these transformations is particularly important because it allows others—and your future self—to understand how the analytical dataset was produced.
-
-**********************************
-
-**3. A research group deposits a sensitive dataset in a trusted repository. The data themselves can only be accessed following an application and approval process, but the dataset has an openly available metadata record explaining what it contains and how access can be requested. Which statement is most accurate?**
+**A research group deposits a sensitive dataset in a trusted repository. The data themselves can only be accessed following an application and approval process, but the dataset has an openly available metadata record explaining what it contains and how access can be requested. Which statement is most accurate?**
 
 [[ ]] The dataset cannot be FAIR because FAIR data must be openly accessible  
 [[X]] The dataset can still be FAIR because accessibility concerns having clear and appropriate conditions for access  
 [[ ]] The dataset is FAIR only if the researchers eventually remove the access restrictions  
 [[ ]] The dataset is Open Science, but it cannot satisfy the FAIR Principles  
 
-**********************************
-
-**Explanation:** **FAIR does not always mean open.** Under the Accessibility principle, it should be clear how data can be accessed and under what conditions. Sensitive data may therefore have legitimate access restrictions while remaining FAIR, particularly when the metadata remain findable and accessible and there is a clear procedure for requesting access.
-
-**********************************
-
-**4. Which researcher is most closely following the approach to Open Science described in this module?**
+**Which researcher is most closely following the approach to Open Science described in this module?**
 
 [[ ]] A researcher uploads every file from a project publicly because Open Science requires all research materials to be open  
 [[ ]] A researcher waits until publication to decide whether any documentation or data management is necessary  
 [[X]] A researcher plans how outputs will be organized, documented, preserved, and shared, while restricting access where legal, ethical, or other legitimate considerations require it  
 [[ ]] A researcher publishes their articles Open Access but does not document or preserve the underlying research materials  
 
-**********************************
-
-**Explanation:** The module presents Open Science as making research **“as open as possible and as closed as necessary.”** It involves planning throughout the research process so that outputs can be understood, verified, preserved, and reused where appropriate. Openness is therefore not the same as releasing everything without restriction.
-
-**********************************
-
-**5. Why does the module introduce the LERU Open Science Roadmap after discussing EU, Austrian, and funder policies?**
+**Why does the module introduce the LERU Open Science Roadmap after discussing EU, Austrian, and funder policies?**
 
 [[ ]] Because LERU requirements replace Horizon Europe and FWF requirements at European universities  
 [[ ]] Because it shows that Open Science has already been fully implemented across European research institutions  
 [[X]] Because it illustrates the wider institutional changes and investments needed to make Open Science sustainable beyond the requirements currently placed on individual researchers  
 [[ ]] Because its eight pillars provide a legally binding definition of Open Science for European researchers  
 
-**********************************
+## References
+^1^ELIXIR. Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). 2021. URL: https://rdmkit.elixir-europe.org/.
 
-**Explanation:** Funder and government policies show many of the Open Science practices that researchers are **already expected to follow**, but they do not capture everything required to transform the research system. The LERU roadmap highlights areas such as infrastructure, skills, research assessment, incentives, scholarly publishing, FAIR data, and citizen science, showing that institutions also need to invest resources and change systems and cultures.
-
-**********************************
+^2^ UNESCO. UNESCO Recommendation on Open Science. 2021. DOI: [https://doi.org/10.54677/MNMH8546](https://doi.org/10.54677/MNMH8546)
