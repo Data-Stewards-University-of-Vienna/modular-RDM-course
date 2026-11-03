@@ -1,5 +1,4 @@
 # Modular RDM Course for PhD Students
-DOI
 
 ## Overview
 This repository contains the LiaScript source files for a modular Research Data Management (RDM) course for PhD students.
